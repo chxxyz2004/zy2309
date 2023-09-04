@@ -104,7 +104,7 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/biubiufast.com/HK.yaml
+    url: https://raw.kgithub.com/chxxyz2004/zy2309/main/trials_providers/biubiufast.com/HK.yaml
     interval: 180
     path: trials_providers/biubiufast.com/HK.yaml
     health-check:
@@ -113,7 +113,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/biubiufast.com/JP.yaml
+    url: https://raw.kgithub.com/chxxyz2004/zy2309/main/trials_providers/biubiufast.com/JP.yaml
     interval: 180
     path: trials_providers/biubiufast.com/JP.yaml
     health-check:
@@ -122,7 +122,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/biubiufast.com/US.yaml
+    url: https://raw.kgithub.com/chxxyz2004/zy2309/main/trials_providers/biubiufast.com/US.yaml
     interval: 180
     path: trials_providers/biubiufast.com/US.yaml
     health-check:
@@ -131,7 +131,7 @@ proxy-providers:
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/biubiufast.com/Other.yaml
+    url: https://raw.kgithub.com/chxxyz2004/zy2309/main/trials_providers/biubiufast.com/Other.yaml
     interval: 180
     path: trials_providers/biubiufast.com/Other.yaml
     health-check:

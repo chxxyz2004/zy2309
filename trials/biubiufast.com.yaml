@@ -9,33 +9,7 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
-  - ⚡ ‍低延迟
-  - 🇭🇰 ‍香港
-  - 🇯🇵 ‍日本
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
-  - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
-- name: ⚡ ‍低延迟
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id001
-  - 🇭🇰 香港|SS直连二 - BIUBIU FAST 加速器
-  - 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST 加速器
-  - 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST 加速器
-  - 🇭🇰 香港 | 高速二（会员） - BIUBIU FAST 加速器
-  - 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器
-  - 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器
-  - 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST 加速器
-  - 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST 加速器
-  - 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST 加速器
-  - 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST 加速器
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -51,21 +25,11 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
-  - 🇭🇰 ‍香港
   - 🛩️ ‍墙内
-  - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
-  - 🇯🇵 ‍日本
-  - 👆🏻 ‍指定
-  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -74,66 +38,17 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇭🇰 ‍香港
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id002
-  - 🇭🇰 香港|SS直连二 - BIUBIU FAST 加速器
-  - 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST 加速器
-  - 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST 加速器
-  - 🇭🇰 香港 | 高速二（会员） - BIUBIU FAST 加速器
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id003
-  - 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器
-  - 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器
-  - 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST 加速器
-- name: 🇺🇸 ‍美国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id004
-  - 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST 加速器
-  - 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST 加速器
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id005
-  - 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST 加速器
-- name: 👆🏻 ‍指定
-  type: select
-  proxies: *id001
-- name: 👆🏻🇭🇰 ‍香港
-  type: select
-  proxies: *id002
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  proxies: *id003
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  proxies: *id004
-- name: 👆🏻🎏 ‍其他
-  type: select
-  proxies: *id005
 proxies:
-- {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: ea456b9a-232f-432b-9b8f-6718f581fecc, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: ea456b9a-232f-432b-9b8f-6718f581fecc, udp: true}
-- {name: 🇭🇰 香港|SS直连二 - BIUBIU FAST 加速器, server: hk1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: ea456b9a-232f-432b-9b8f-6718f581fecc, udp: true}
-- {name: 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 31001, type: ss, cipher: chacha20-ietf-poly1305, password: ea456b9a-232f-432b-9b8f-6718f581fecc, udp: true}
-- {name: 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 35002, type: ss, cipher: chacha20-ietf-poly1305, password: ea456b9a-232f-432b-9b8f-6718f581fecc, udp: true}
-- {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 35001, type: ss, cipher: chacha20-ietf-poly1305, password: ea456b9a-232f-432b-9b8f-6718f581fecc, udp: true}
-- {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: ea456b9a-232f-432b-9b8f-6718f581fecc, udp: true}
-- {name: 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST 加速器, server: tls.biubiufast.quest, port: 32100, type: trojan, password: ea456b9a-232f-432b-9b8f-6718f581fecc, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 | 高速二（会员） - BIUBIU FAST 加速器, server: tls.biubiufast.quest, port: 32102, type: trojan, password: ea456b9a-232f-432b-9b8f-6718f581fecc, sni: hk15.biubiufast.quest, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST 加速器, server: tls.biubiufast.quest, port: 32103, type: trojan, password: ea456b9a-232f-432b-9b8f-6718f581fecc, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 日本 | 直连3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: ea456b9a-232f-432b-9b8f-6718f581fecc, skip-cert-verify: true, udp: true}
+- {name: 日本|直连SS3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: ea456b9a-232f-432b-9b8f-6718f581fecc, udp: true}
+- {name: 香港|SS直连二 - BIUBIU FAST 加速器, server: hk1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: ea456b9a-232f-432b-9b8f-6718f581fecc, udp: true}
+- {name: 德国|高速德国SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 31001, type: ss, cipher: chacha20-ietf-poly1305, password: ea456b9a-232f-432b-9b8f-6718f581fecc, udp: true}
+- {name: 香港|高速香港SS2（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 35002, type: ss, cipher: chacha20-ietf-poly1305, password: ea456b9a-232f-432b-9b8f-6718f581fecc, udp: true}
+- {name: 香港|高速二SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 35001, type: ss, cipher: chacha20-ietf-poly1305, password: ea456b9a-232f-432b-9b8f-6718f581fecc, udp: true}
+- {name: 美国|高速2SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: ea456b9a-232f-432b-9b8f-6718f581fecc, udp: true}
+- {name: 日本 | 高速日本（会员） - BIUBIU FAST 加速器, server: tls.biubiufast.quest, port: 32100, type: trojan, password: ea456b9a-232f-432b-9b8f-6718f581fecc, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 香港 | 高速二（会员） - BIUBIU FAST 加速器, server: tls.biubiufast.quest, port: 32102, type: trojan, password: ea456b9a-232f-432b-9b8f-6718f581fecc, sni: hk15.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 美国 | 高速2（会员） - BIUBIU FAST 加速器, server: tls.biubiufast.quest, port: 32103, type: trojan, password: ea456b9a-232f-432b-9b8f-6718f581fecc, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

@@ -93,7 +93,7 @@ proxy-groups:
 proxy-providers:
   TW:
     type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/kan.gar.ooo/TW.yaml
+    url: https://raw.kgithub.com/chxxyz2004/zy2309/main/trials_providers/kan.gar.ooo/TW.yaml
     interval: 180
     path: trials_providers/kan.gar.ooo/TW.yaml
     health-check:
@@ -102,7 +102,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/kan.gar.ooo/JP.yaml
+    url: https://raw.kgithub.com/chxxyz2004/zy2309/main/trials_providers/kan.gar.ooo/JP.yaml
     interval: 180
     path: trials_providers/kan.gar.ooo/JP.yaml
     health-check:
@@ -111,7 +111,7 @@ proxy-providers:
       interval: 30
   p_All_Other:
     type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/kan.gar.ooo/p_All_Other.yaml
+    url: https://raw.kgithub.com/chxxyz2004/zy2309/main/trials_providers/kan.gar.ooo/p_All_Other.yaml
     interval: 180
     path: trials_providers/kan.gar.ooo/p_All_Other.yaml
     health-check:

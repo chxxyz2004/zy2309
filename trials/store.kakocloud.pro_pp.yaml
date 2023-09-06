@@ -91,7 +91,7 @@ proxy-groups:
 proxy-providers:
   SG:
     type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/store.kakocloud.pro/SG.yaml
+    url: https://raw.kgithub.com/chxxyz2004/zy2309/main/trials_providers/store.kakocloud.pro/SG.yaml
     interval: 180
     path: trials_providers/store.kakocloud.pro/SG.yaml
     health-check:
@@ -100,7 +100,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/store.kakocloud.pro/US.yaml
+    url: https://raw.kgithub.com/chxxyz2004/zy2309/main/trials_providers/store.kakocloud.pro/US.yaml
     interval: 180
     path: trials_providers/store.kakocloud.pro/US.yaml
     health-check:
@@ -109,7 +109,7 @@ proxy-providers:
       interval: 30
   p_All_Other:
     type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/store.kakocloud.pro/p_All_Other.yaml
+    url: https://raw.kgithub.com/chxxyz2004/zy2309/main/trials_providers/store.kakocloud.pro/p_All_Other.yaml
     interval: 180
     path: trials_providers/store.kakocloud.pro/p_All_Other.yaml
     health-check:

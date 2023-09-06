@@ -145,7 +145,7 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/ayucloud.services/HK.yaml
+    url: https://raw.kgithub.com/chxxyz2004/zy2309/main/trials_providers/ayucloud.services/HK.yaml
     interval: 180
     path: trials_providers/ayucloud.services/HK.yaml
     health-check:
@@ -154,7 +154,7 @@ proxy-providers:
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/ayucloud.services/TW.yaml
+    url: https://raw.kgithub.com/chxxyz2004/zy2309/main/trials_providers/ayucloud.services/TW.yaml
     interval: 180
     path: trials_providers/ayucloud.services/TW.yaml
     health-check:
@@ -163,7 +163,7 @@ proxy-providers:
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/ayucloud.services/SG.yaml
+    url: https://raw.kgithub.com/chxxyz2004/zy2309/main/trials_providers/ayucloud.services/SG.yaml
     interval: 180
     path: trials_providers/ayucloud.services/SG.yaml
     health-check:
@@ -172,7 +172,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/ayucloud.services/JP.yaml
+    url: https://raw.kgithub.com/chxxyz2004/zy2309/main/trials_providers/ayucloud.services/JP.yaml
     interval: 180
     path: trials_providers/ayucloud.services/JP.yaml
     health-check:
@@ -181,7 +181,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/ayucloud.services/US.yaml
+    url: https://raw.kgithub.com/chxxyz2004/zy2309/main/trials_providers/ayucloud.services/US.yaml
     interval: 180
     path: trials_providers/ayucloud.services/US.yaml
     health-check:
@@ -190,7 +190,7 @@ proxy-providers:
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/ayucloud.services/Other.yaml
+    url: https://raw.kgithub.com/chxxyz2004/zy2309/main/trials_providers/ayucloud.services/Other.yaml
     interval: 180
     path: trials_providers/ayucloud.services/Other.yaml
     health-check:

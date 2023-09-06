@@ -68,7 +68,6 @@ proxy-groups:
   - 🇮🇳 印度 - 班加罗尔 - V2Link VPN
   - 🇪🇺 欧洲 - 土耳其 - V2Link VPN
   - 🇪🇺 欧洲 - 罗马尼亚 - V2Link VPN
-  - 🇪🇺 欧洲 - 匈牙利 - V2Link VPN
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -201,7 +200,6 @@ proxy-groups:
   - 🇮🇳 印度 - 班加罗尔 - V2Link VPN
   - 🇪🇺 欧洲 - 土耳其 - V2Link VPN
   - 🇪🇺 欧洲 - 罗马尼亚 - V2Link VPN
-  - 🇪🇺 欧洲 - 匈牙利 - V2Link VPN
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -263,7 +261,6 @@ proxies:
 - {name: 🇮🇳 印度 - 班加罗尔 - V2Link VPN, server: host-053.crazyspeed.xyz, port: 10911, type: ss, cipher: chacha20-ietf-poly1305, password: 1c16d9be-98bb-4a7b-97dd-2b4cd2ff7101, udp: true}
 - {name: 🇪🇺 欧洲 - 土耳其 - V2Link VPN, server: host-055.crazyspeed.xyz, port: 19001, type: ss, cipher: chacha20-ietf-poly1305, password: 1c16d9be-98bb-4a7b-97dd-2b4cd2ff7101, udp: true}
 - {name: 🇪🇺 欧洲 - 罗马尼亚 - V2Link VPN, server: host-056.crazyspeed.xyz, port: 19002, type: ss, cipher: chacha20-ietf-poly1305, password: 1c16d9be-98bb-4a7b-97dd-2b4cd2ff7101, udp: true}
-- {name: 🇪🇺 欧洲 - 匈牙利 - V2Link VPN, server: host-057.crazyspeed.xyz, port: 19003, type: ss, cipher: chacha20-ietf-poly1305, password: 1c16d9be-98bb-4a7b-97dd-2b4cd2ff7101, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港1 - giao云, server: 822sg.ljydw.top, port: 443, client-fingerprint: chrome, type: trojan, password: 63d68ea0-36b8-4430-9199-66244f24d1b7, tfo: false, sni: 822sg.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港2 - giao云, server: 822sg2.ljydw.top, port: 443, client-fingerprint: chrome, type: trojan, password: 63d68ea0-36b8-4430-9199-66244f24d1b7, tfo: false, sni: 822sg2.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港3 - giao云, server: 822hk3.ljydw.top, port: 60311, client-fingerprint: chrome, type: trojan, password: 63d68ea0-36b8-4430-9199-66244f24d1b7, tfo: false, sni: 822hk3.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港5 - giao云, server: 822hk6.ljydw.top, port: 59131, client-fingerprint: chrome, type: trojan, password: 63d68ea0-36b8-4430-9199-66244f24d1b7, tfo: false, sni: 822hk6.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1 - giao云, server: 822sg.ljydw.top, port: 443, type: trojan, password: 5b05001a-0bbc-44fd-9ce6-d94c97ec34fe, sni: 822sg.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2 - giao云, server: 822sg2.ljydw.top, port: 443, type: trojan, password: 5b05001a-0bbc-44fd-9ce6-d94c97ec34fe, sni: 822sg2.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港3 - giao云, server: 822hk3.ljydw.top, port: 60311, type: trojan, password: 5b05001a-0bbc-44fd-9ce6-d94c97ec34fe, sni: 822hk3.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港5 - giao云, server: 822hk6.ljydw.top, port: 59131, type: trojan, password: 5b05001a-0bbc-44fd-9ce6-d94c97ec34fe, sni: 822hk6.ljydw.top, skip-cert-verify: true, udp: true}

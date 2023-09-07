@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 vip1 日本-01 - FastFly, server: gzdx.jcnode.top, port: 19390, type: trojan, password: 4940d7fe-bd6f-478f-abfe-694468e9002b, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-01_1 - FastFly, server: gzdx01.jcnode.top, port: 40716, type: trojan, password: 4940d7fe-bd6f-478f-abfe-694468e9002b, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-02 - FastFly, server: gzyd.jcnode.top, port: 27897, type: trojan, password: 4940d7fe-bd6f-478f-abfe-694468e9002b, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-09 - FastFly, server: gzdx.jcnode.top, port: 17217, type: trojan, password: 4940d7fe-bd6f-478f-abfe-694468e9002b, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-10 - FastFly, server: gzyd.jcnode.top, port: 51840, type: trojan, password: 4940d7fe-bd6f-478f-abfe-694468e9002b, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-01 - FastFly, server: gzdx.jcnode.top, port: 19390, client-fingerprint: chrome, type: trojan, password: 97641d39-4d3b-4447-b0ee-63352ad13f20, tfo: false, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-01_1 - FastFly, server: gzdx01.jcnode.top, port: 40716, client-fingerprint: chrome, type: trojan, password: 97641d39-4d3b-4447-b0ee-63352ad13f20, tfo: false, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-02 - FastFly, server: gzyd.jcnode.top, port: 27897, client-fingerprint: chrome, type: trojan, password: 97641d39-4d3b-4447-b0ee-63352ad13f20, tfo: false, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-09 - FastFly, server: gzdx.jcnode.top, port: 17217, client-fingerprint: chrome, type: trojan, password: 97641d39-4d3b-4447-b0ee-63352ad13f20, tfo: false, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-10 - FastFly, server: gzyd.jcnode.top, port: 51840, client-fingerprint: chrome, type: trojan, password: 97641d39-4d3b-4447-b0ee-63352ad13f20, tfo: false, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}

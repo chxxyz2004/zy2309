@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: gzdx.jcnode.top, port: 29482, type: trojan, password: 4940d7fe-bd6f-478f-abfe-694468e9002b, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-01_1 - FastFly, server: gzdx01.jcnode.top, port: 34472, type: trojan, password: 4940d7fe-bd6f-478f-abfe-694468e9002b, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: gzyd.jcnode.top, port: 52702, type: trojan, password: 4940d7fe-bd6f-478f-abfe-694468e9002b, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-05 - FastFly, server: gzyd.jcnode.top, port: 28474, type: trojan, password: 4940d7fe-bd6f-478f-abfe-694468e9002b, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: gzdx.jcnode.top, port: 27880, type: trojan, password: 4940d7fe-bd6f-478f-abfe-694468e9002b, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-06_1 - FastFly, server: gzdx01.jcnode.top, port: 45920, type: trojan, password: 4940d7fe-bd6f-478f-abfe-694468e9002b, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: gzdx.jcnode.top, port: 29482, client-fingerprint: chrome, type: trojan, password: 97641d39-4d3b-4447-b0ee-63352ad13f20, tfo: false, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-01_1 - FastFly, server: gzdx01.jcnode.top, port: 34472, client-fingerprint: chrome, type: trojan, password: 97641d39-4d3b-4447-b0ee-63352ad13f20, tfo: false, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: gzyd.jcnode.top, port: 52702, client-fingerprint: chrome, type: trojan, password: 97641d39-4d3b-4447-b0ee-63352ad13f20, tfo: false, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-05 - FastFly, server: gzyd.jcnode.top, port: 28474, client-fingerprint: chrome, type: trojan, password: 97641d39-4d3b-4447-b0ee-63352ad13f20, tfo: false, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: gzdx.jcnode.top, port: 27880, client-fingerprint: chrome, type: trojan, password: 97641d39-4d3b-4447-b0ee-63352ad13f20, tfo: false, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-06_1 - FastFly, server: gzdx01.jcnode.top, port: 45920, client-fingerprint: chrome, type: trojan, password: 97641d39-4d3b-4447-b0ee-63352ad13f20, tfo: false, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}

@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 凌云网络 www.ly520.me - 凌云网络, server: 11.4.5.14, port: 19198, type: vmess, uuid: 98a68f5d-ef15-4732-bc23-c65603a4763a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国-01 | 1.8X - 凌云网络, server: 1.76po.com, port: 17744, type: vmess, uuid: 98a68f5d-ef15-4732-bc23-c65603a4763a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国-01 | 1.8X - 凌云网络, server: js1.76po.com, port: 51594, type: vmess, uuid: 98a68f5d-ef15-4732-bc23-c65603a4763a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 凌云网络 www.ly520.me - 凌云网络, server: 11.4.5.14, port: 19198, type: vmess, uuid: 2d34e8d1-6548-4ff8-87fb-02ba6e9b19ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国-01 | 1.8X - 凌云网络, server: 1.76po.com, port: 17744, type: vmess, uuid: 2d34e8d1-6548-4ff8-87fb-02ba6e9b19ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国-01 | 1.8X - 凌云网络, server: js1.76po.com, port: 51594, type: vmess, uuid: 2d34e8d1-6548-4ff8-87fb-02ba6e9b19ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 Game 韩国01-标准 - AyucLouD-Services, server: 201201level3.unclemanco.com, port: 803, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: d1c9482887.download.windowsupdate.com}, udp: true}
 - {name: 🇰🇷 Game 韩国02-标准 - AyucLouD-Services, server: 201201level3.unclemanco.com, port: 806, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: d1c9482887.download.windowsupdate.com}, udp: true}
 - {name: 🇰🇷 Game 韩国03-标准 - AyucLouD-Services, server: 201201level3.unclemanco.com, port: 913, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: d1c9482887.download.windowsupdate.com}, udp: true}
@@ -176,7 +176,7 @@ proxies:
 - {name: 🇻🇳 JCBB_越南 01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 16242, type: trojan, password: d4d3723b-6b66-4bdc-bf4d-633210eed3ee, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 JCBB_越南 02【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 21760, type: trojan, password: d4d3723b-6b66-4bdc-bf4d-633210eed3ee, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 JCBB_越南 03【vip1】 - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: d4d3723b-6b66-4bdc-bf4d-633210eed3ee, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇦🇺 GCP-AU1-20230218 - Kangaroo✦Network, server: au1.enuotime.com, port: 443, type: vmess, uuid: 991a2ef4-57bc-46ed-8ed2-9776d023c8b7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.enuotime.com}}, udp: true}
+- {name: 🇦🇺 GCP-AU1-20230218 - Kangaroo✦Network, server: au1.enuotime.com, port: 443, client-fingerprint: chrome, type: vmess, uuid: 991a2ef4-57bc-46ed-8ed2-9776d023c8b7, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.enuotime.com}}, udp: true}
 - {name: 🇹🇷 土耳其 原生｜隧道 01 - 爱猫论坛, server: 120.195.181.54, port: 36009, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 德国｜隧道 01 - 爱猫论坛, server: sahng5.594888.xyz, port: 36016, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 英国｜隧道 01 - 爱猫论坛, server: sahng1.594888.xyz, port: 36017, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

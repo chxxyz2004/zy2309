@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: test - giao云, server: 910hk1.ljydw.top, port: 26221, type: vmess, uuid: 94521169-5e3a-4a1e-8ac9-defaa3579285, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, udp: true}

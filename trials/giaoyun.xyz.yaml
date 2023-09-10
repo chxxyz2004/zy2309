@@ -16,6 +16,7 @@ proxy-groups:
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
@@ -23,6 +24,7 @@ proxy-groups:
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -30,7 +32,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇭🇰 香港专线1 - giao云
+  - 🇭🇰 香港专线1-奈飞 - giao云
   - 🇭🇰 香港1 - giao云
   - 🇭🇰 香港2 - giao云
   - 🇭🇰 香港3 - giao云
@@ -42,6 +44,7 @@ proxy-groups:
   - 🇯🇵 日本5 - giao云
   - 🇯🇵 日本6 - giao云
   - 🇺🇸 美国 - giao云
+  - test - giao云
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -70,7 +73,9 @@ proxy-groups:
   type: select
   proxies:
   - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
@@ -92,7 +97,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id002
-  - 🇭🇰 香港专线1 - giao云
+  - 🇭🇰 香港专线1-奈飞 - giao云
   - 🇭🇰 香港1 - giao云
   - 🇭🇰 香港2 - giao云
   - 🇭🇰 香港3 - giao云
@@ -111,7 +116,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id004
-  - 🇭🇰 香港专线1 - giao云
+  - 🇭🇰 香港专线1-奈飞 - giao云
   - 🇭🇰 香港1 - giao云
   - 🇭🇰 香港2 - giao云
   - 🇭🇰 香港3 - giao云
@@ -141,6 +146,13 @@ proxy-groups:
   tolerance: 50
   proxies: &id007
   - 🇺🇸 美国 - giao云
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id008
+  - test - giao云
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -162,8 +174,12 @@ proxy-groups:
 - name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id008
 proxies:
-- {name: 🇭🇰 香港专线1 - giao云, server: zx.fr99kt.top, port: 12895, type: trojan, password: 94521169-5e3a-4a1e-8ac9-defaa3579285, sni: 98hk.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: test - giao云, server: 910hk1.ljydw.top, port: 26221, type: vmess, uuid: 94521169-5e3a-4a1e-8ac9-defaa3579285, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港专线1-奈飞 - giao云, server: zx.fr99kt.top, port: 12895, type: trojan, password: 94521169-5e3a-4a1e-8ac9-defaa3579285, sni: 98hk.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港1 - giao云, server: 822sg.ljydw.top, port: 443, type: trojan, password: 94521169-5e3a-4a1e-8ac9-defaa3579285, sni: 822sg.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港2 - giao云, server: 822sg2.ljydw.top, port: 443, type: trojan, password: 94521169-5e3a-4a1e-8ac9-defaa3579285, sni: 822sg2.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港3 - giao云, server: 822hk3.ljydw.top, port: 20312, type: trojan, password: 94521169-5e3a-4a1e-8ac9-defaa3579285, sni: 822hk3.ljydw.top, skip-cert-verify: true, udp: true}

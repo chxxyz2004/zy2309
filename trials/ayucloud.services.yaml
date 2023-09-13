@@ -54,8 +54,8 @@ proxy-groups:
   - 🇹🇼 Video 台湾 A-标准 - AyucLouD-Services
   - 🇹🇼 Video 台湾 B-原生 - AyucLouD-Services
   - 🇹🇼 Video 台湾 C-原生 - AyucLouD-Services
-  - 🇹🇼 Video 台湾 E-解锁 - AyucLouD-Services
   - 🇹🇼 Video 台湾 D-标准 - AyucLouD-Services
+  - 🇹🇼 Video 台湾 E-解锁 - AyucLouD-Services
   - 🇹🇼 Web 台湾 I-通用 - AyucLouD-Services
   - 🇸🇬 Game 新加坡01-标准 - AyucLouD-Services
   - 🇸🇬 Game 新加坡02-标准 - AyucLouD-Services
@@ -210,8 +210,8 @@ proxy-groups:
   - 🇹🇼 Video 台湾 A-标准 - AyucLouD-Services
   - 🇹🇼 Video 台湾 B-原生 - AyucLouD-Services
   - 🇹🇼 Video 台湾 C-原生 - AyucLouD-Services
-  - 🇹🇼 Video 台湾 E-解锁 - AyucLouD-Services
   - 🇹🇼 Video 台湾 D-标准 - AyucLouD-Services
+  - 🇹🇼 Video 台湾 E-解锁 - AyucLouD-Services
   - 🇹🇼 Web 台湾 I-通用 - AyucLouD-Services
 - name: 🇨🇳 ‍中国
   type: url-test
@@ -241,8 +241,8 @@ proxy-groups:
   - 🇹🇼 Video 台湾 A-标准 - AyucLouD-Services
   - 🇹🇼 Video 台湾 B-原生 - AyucLouD-Services
   - 🇹🇼 Video 台湾 C-原生 - AyucLouD-Services
-  - 🇹🇼 Video 台湾 E-解锁 - AyucLouD-Services
   - 🇹🇼 Video 台湾 D-标准 - AyucLouD-Services
+  - 🇹🇼 Video 台湾 E-解锁 - AyucLouD-Services
   - 🇹🇼 Web 台湾 I-通用 - AyucLouD-Services
 - name: 🇸🇬 ‍新加坡
   type: url-test
@@ -416,8 +416,8 @@ proxies:
 - {name: 🇹🇼 Video 台湾 A-标准 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 9048, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 82e3583091.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Video 台湾 B-原生 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 9022, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 82e3583091.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Video 台湾 C-原生 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 916, type: ss, cipher: aes-128-gcm, password: fsfal2, plugin: obfs, plugin-opts: {mode: http, host: 82e3583091.download.windowsupdate.com}, udp: true}
-- {name: 🇹🇼 Video 台湾 E-解锁 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 39004, type: ss, cipher: aes-128-gcm, password: ayds23sd1, plugin: obfs, plugin-opts: {mode: http, host: 82e3583091.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Video 台湾 D-标准 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 926, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 82e3583091.download.windowsupdate.com}, udp: true}
+- {name: 🇹🇼 Video 台湾 E-解锁 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 39004, type: ss, cipher: aes-128-gcm, password: ayds23sd1, plugin: obfs, plugin-opts: {mode: http, host: 82e3583091.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Video 香港 A-解锁 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 9053, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 82e3583091.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Video 香港 B-标准 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 8001, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 82e3583091.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Video 香港 C-标准 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 9052, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 82e3583091.download.windowsupdate.com}, udp: true}

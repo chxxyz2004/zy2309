@@ -3,9 +3,9 @@
 proxies:
 - {name: 🇹🇼 台湾01 - Cyanmori, server: hk1.susenl.com, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: QXwZMt3XNRYOQnv2, udp: true}
 - {name: 🇹🇼 台湾02 - Cyanmori, server: hk1.susenl.com, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: QXwZMt3XNRYOQnv2, udp: true}
-- {name: 🇹🇼 台湾专线-奈飞-TK-GPT - giao云, server: 91zx.ljydw.top, port: 25997, type: trojan, password: aaf55562-7229-48d9-bae1-652e146db87d, sni: 915tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 44331, type: trojan, password: aaf55562-7229-48d9-bae1-652e146db87d, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: aaf55562-7229-48d9-bae1-652e146db87d, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾专线-奈飞-TK-GPT - giao云, server: 91zx.ljydw.top, port: 25997, type: trojan, password: 9759bbab-5bd2-4de5-9f88-a5b06e80a8e6, sni: 915tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 44331, type: trojan, password: 9759bbab-5bd2-4de5-9f88-a5b06e80a8e6, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 9759bbab-5bd2-4de5-9f88-a5b06e80a8e6, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾 01 - 老猫云, server: cn1.laomao2.xyz, port: 30301, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
 - {name: 🇹🇼 台湾 - 新北 A - V2Link VPN, server: host-021.crazyspeed.xyz, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: f43b1dc7-ec42-43cd-be48-8350148a042b, udp: true}
 - {name: 🇹🇼 台湾 - 彰化 B - V2Link VPN, server: host-022.crazyspeed.xyz, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: f43b1dc7-ec42-43cd-be48-8350148a042b, udp: true}

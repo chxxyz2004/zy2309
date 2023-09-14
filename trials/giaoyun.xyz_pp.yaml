@@ -13,13 +13,11 @@ proxy-groups:
   - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
-  - 🇸🇬 ‍新加坡
   - 🇺🇸 ‍美国
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
-  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇺🇸 ‍美国
   - DIRECT
 - name: ⚡ ‍低延迟
@@ -28,7 +26,6 @@ proxy-groups:
   use: &id001
   - HK
   - TW
-  - SG
   - US
 - name: 🛩️ ‍墙内
   type: select
@@ -60,10 +57,8 @@ proxy-groups:
   - 🇺🇸 ‍美国
   - 👆🏻🇺🇸 ‍美国
   - 🇹🇼 ‍台湾
-  - 🇸🇬 ‍新加坡
   - 👆🏻 ‍指定
   - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇸🇬 ‍新加坡
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -88,15 +83,10 @@ proxy-groups:
   use: &id004
   - HK
   - TW
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  tolerance: 50
-  use: &id005
-  - SG
 - name: 🇺🇸 ‍美国
   type: url-test
   tolerance: 50
-  use: &id006
+  use: &id005
   - US
 - name: 👆🏻 ‍指定
   type: select
@@ -110,12 +100,9 @@ proxy-groups:
 - name: 👆🏻🇨🇳 ‍中国
   type: select
   use: *id004
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  use: *id005
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id006
+  use: *id005
 proxy-providers:
   HK:
     type: http
@@ -131,15 +118,6 @@ proxy-providers:
     url: https://raw.kgithub.com/chxxyz2004/zy2309/main/trials_providers/giaoyun.xyz/TW.yaml
     interval: 180
     path: trials_providers/giaoyun.xyz/TW.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  SG:
-    type: http
-    url: https://raw.kgithub.com/chxxyz2004/zy2309/main/trials_providers/giaoyun.xyz/SG.yaml
-    interval: 180
-    path: trials_providers/giaoyun.xyz/SG.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

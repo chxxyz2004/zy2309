@@ -13,13 +13,11 @@ proxy-groups:
   - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
-  - 🇸🇬 ‍新加坡
   - 🇺🇸 ‍美国
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
-  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇺🇸 ‍美国
   - DIRECT
 - name: ⚡ ‍低延迟
@@ -37,7 +35,6 @@ proxy-groups:
   - 🇭🇰 香港5 - giao云
   - 🇹🇼 台湾2 - giao云
   - 🇹🇼 台湾3 - giao云
-  - 🇸🇬 新加坡2 - giao云
   - 🇺🇸 美国专线1-奈飞-TK-HBO - giao云
   - 🇺🇸 美国 - giao云
 - name: 🛩️ ‍墙内
@@ -70,10 +67,8 @@ proxy-groups:
   - 🇺🇸 ‍美国
   - 👆🏻🇺🇸 ‍美国
   - 🇹🇼 ‍台湾
-  - 🇸🇬 ‍新加坡
   - 👆🏻 ‍指定
   - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇸🇬 ‍新加坡
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -118,19 +113,12 @@ proxy-groups:
   - 🇭🇰 香港5 - giao云
   - 🇹🇼 台湾2 - giao云
   - 🇹🇼 台湾3 - giao云
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
-  proxies: &id005
-  - 🇸🇬 新加坡2 - giao云
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
-  proxies: &id006
+  proxies: &id005
   - 🇺🇸 美国专线1-奈飞-TK-HBO - giao云
   - 🇺🇸 美国 - giao云
 - name: 👆🏻 ‍指定
@@ -145,12 +133,9 @@ proxy-groups:
 - name: 👆🏻🇨🇳 ‍中国
   type: select
   proxies: *id004
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  proxies: *id005
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id006
+  proxies: *id005
 proxies:
 - {name: 🇺🇸 美国专线1-奈飞-TK-HBO - giao云, server: 91zx.ljydw.top, port: 39999, type: trojan, password: 4dc52730-99e7-48f9-a7de-bc7ee58fce0c, sni: 911us2.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港专线1-奈飞-TK - giao云, server: zx.fr99kt.top, port: 12895, type: trojan, password: 4dc52730-99e7-48f9-a7de-bc7ee58fce0c, sni: 98hk.ljydw.top, skip-cert-verify: true, udp: true}
@@ -160,7 +145,6 @@ proxies:
 - {name: 🇭🇰 香港2 - giao云, server: 822sg2.ljydw.top, port: 443, type: trojan, password: 4dc52730-99e7-48f9-a7de-bc7ee58fce0c, sni: 822sg2.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港3 - giao云, server: 822hk3.ljydw.top, port: 29312, type: trojan, password: 4dc52730-99e7-48f9-a7de-bc7ee58fce0c, sni: 822hk3.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港5 - giao云, server: 822hk6.ljydw.top, port: 49139, type: trojan, password: 4dc52730-99e7-48f9-a7de-bc7ee58fce0c, sni: 822hk6.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡2 - giao云, server: 822sg9.ljydw.top, port: 26431, type: trojan, password: 4dc52730-99e7-48f9-a7de-bc7ee58fce0c, sni: 822sg9.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 44331, type: trojan, password: 4dc52730-99e7-48f9-a7de-bc7ee58fce0c, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 4dc52730-99e7-48f9-a7de-bc7ee58fce0c, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 - giao云, server: 86us3.ljydw.top, port: 443, type: trojan, password: 4dc52730-99e7-48f9-a7de-bc7ee58fce0c, sni: 86us3.ljydw.top, skip-cert-verify: true, udp: true}

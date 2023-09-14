@@ -1,6 +1,7 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 🇹🇼 台湾专线-奈飞-TK-GPT - giao云, server: 91zx.ljydw.top, port: 25997, type: trojan, password: aaf55562-7229-48d9-bae1-652e146db87d, sni: 915tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港专线1-奈飞-TK - giao云, server: zx.fr99kt.top, port: 12895, type: trojan, password: aaf55562-7229-48d9-bae1-652e146db87d, sni: 98hk.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港专线2 - giao云, server: 91zx.ljydw.top, port: 21112, type: trojan, password: aaf55562-7229-48d9-bae1-652e146db87d, sni: 910hk02.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港专线3 - giao云, server: 91zx.ljydw.top, port: 21115, type: trojan, password: aaf55562-7229-48d9-bae1-652e146db87d, sni: 911hk3.ljydw.top, skip-cert-verify: true, udp: true}

@@ -14,11 +14,13 @@ proxy-groups:
   - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
   - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -33,10 +35,12 @@ proxy-groups:
   - 🇭🇰 香港2 - giao云
   - 🇭🇰 香港3 - giao云
   - 🇭🇰 香港5 - giao云
+  - 🇹🇼 台湾专线-奈飞-TK-GPT - giao云
   - 🇹🇼 台湾2 - giao云
   - 🇹🇼 台湾3 - giao云
   - 🇺🇸 美国专线1-奈飞-TK-HBO - giao云
   - 🇺🇸 美国 - giao云
+  - 🇱🇺 卢森堡专线-奈飞-TK - giao云
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -65,7 +69,9 @@ proxy-groups:
   type: select
   proxies:
   - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - 🇹🇼 ‍台湾
   - 👆🏻 ‍指定
   - 👆🏻🇹🇼 ‍台湾
@@ -96,6 +102,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id003
+  - 🇹🇼 台湾专线-奈飞-TK-GPT - giao云
   - 🇹🇼 台湾2 - giao云
   - 🇹🇼 台湾3 - giao云
 - name: 🇨🇳 ‍中国
@@ -111,6 +118,7 @@ proxy-groups:
   - 🇭🇰 香港2 - giao云
   - 🇭🇰 香港3 - giao云
   - 🇭🇰 香港5 - giao云
+  - 🇹🇼 台湾专线-奈飞-TK-GPT - giao云
   - 🇹🇼 台湾2 - giao云
   - 🇹🇼 台湾3 - giao云
 - name: 🇺🇸 ‍美国
@@ -121,6 +129,13 @@ proxy-groups:
   proxies: &id005
   - 🇺🇸 美国专线1-奈飞-TK-HBO - giao云
   - 🇺🇸 美国 - giao云
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id006
+  - 🇱🇺 卢森堡专线-奈飞-TK - giao云
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -136,8 +151,13 @@ proxy-groups:
 - name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id005
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id006
 proxies:
 - {name: 🇺🇸 美国专线1-奈飞-TK-HBO - giao云, server: 91zx.ljydw.top, port: 39999, type: trojan, password: aaf55562-7229-48d9-bae1-652e146db87d, sni: 911us2.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇱🇺 卢森堡专线-奈飞-TK - giao云, server: 91zx.ljydw.top, port: 25559, type: trojan, password: aaf55562-7229-48d9-bae1-652e146db87d, sni: 914lxb.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾专线-奈飞-TK-GPT - giao云, server: 91zx.ljydw.top, port: 25997, type: trojan, password: aaf55562-7229-48d9-bae1-652e146db87d, sni: 915tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港专线1-奈飞-TK - giao云, server: zx.fr99kt.top, port: 12895, type: trojan, password: aaf55562-7229-48d9-bae1-652e146db87d, sni: 98hk.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港专线2 - giao云, server: 91zx.ljydw.top, port: 21112, type: trojan, password: aaf55562-7229-48d9-bae1-652e146db87d, sni: 910hk02.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港专线3 - giao云, server: 91zx.ljydw.top, port: 21115, type: trojan, password: aaf55562-7229-48d9-bae1-652e146db87d, sni: 911hk3.ljydw.top, skip-cert-verify: true, udp: true}

@@ -3,8 +3,8 @@
 proxies:
 - {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 32bfd195-9aa8-3114-b950-81b256fa23f5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 32bfd195-9aa8-3114-b950-81b256fa23f5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128805:lJYnjM, obfs-param: '704cb128805.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
-- {name: 新网址：sockboom.link - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
+- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, client-fingerprint: chrome, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, tfo: false, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 128812:knF1Ic, obfs-param: 'c6ab7128812.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 新网址：sockboom.link - SockBoom, server: www.google.com, port: 1, client-fingerprint: chrome, type: ssr, cipher: aes-256-cfb, password: breakwall, tfo: false, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
 - {name: 距离下次重置剩余：17 天 - 老猫云, server: cn1.laomao2.xyz, port: 30001, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
 - {name: '快飞永久跳转地址: https://fastfly.club - FastFly', server: gzdx.jcnode.top, port: 29482, type: trojan, password: 2288b8ac-ad93-4653-9311-0b5836dd6ce2, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：12 天 - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: 0a23f65c-e298-47ae-9e19-372ba7a51515, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}

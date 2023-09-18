@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾专线-奈飞-TK-GPT - giao云, server: 91zx.ljydw.top, port: 25997, type: trojan, password: 3f651089-963e-472c-92aa-6805c7c8d87e, sni: 915tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 44331, type: trojan, password: 3f651089-963e-472c-92aa-6805c7c8d87e, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 3f651089-963e-472c-92aa-6805c7c8d87e, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾专线-奈飞-TK-GPT - giao云, server: 91zx.ljydw.top, port: 25997, type: trojan, password: 87dac28f-57f1-44b1-9c09-2b9ed9791f46, sni: 915tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 44331, type: trojan, password: 87dac28f-57f1-44b1-9c09-2b9ed9791f46, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 87dac28f-57f1-44b1-9c09-2b9ed9791f46, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}

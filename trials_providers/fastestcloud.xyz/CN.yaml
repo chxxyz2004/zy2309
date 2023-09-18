@@ -13,6 +13,12 @@ proxies:
 - {name: 🇭🇰 vip1 香港-19-SS - FastFly, server: gzdx.jcnode.top, port: 63279, type: ss, cipher: chacha20-ietf-poly1305, password: 2288b8ac-ad93-4653-9311-0b5836dd6ce2, udp: true}
 - {name: 🇭🇰 vip1 香港-20-SS - FastFly, server: gzyd.jcnode.top, port: 65407, type: ss, cipher: chacha20-ietf-poly1305, password: 2288b8ac-ad93-4653-9311-0b5836dd6ce2, udp: true}
 - {name: 🇭🇰 vip1 香港-21-SS - FastFly, server: gzdx01.jcnode.top, port: 33310, type: ss, cipher: chacha20-ietf-poly1305, password: 2288b8ac-ad93-4653-9311-0b5836dd6ce2, udp: true}
+- {name: 🇹🇼 vip1 台湾-01-SS - FastFly, server: gzdx.jcnode.top, port: 22225, type: ss, cipher: chacha20-ietf-poly1305, password: 2288b8ac-ad93-4653-9311-0b5836dd6ce2, udp: true}
+- {name: 🇹🇼 vip1 台湾-02-SS - FastFly, server: gzyd.jcnode.top, port: 46957, type: ss, cipher: chacha20-ietf-poly1305, password: 2288b8ac-ad93-4653-9311-0b5836dd6ce2, udp: true}
+- {name: 🇹🇼 vip1 台湾-03-SS - FastFly, server: gzdx01.jcnode.top, port: 24007, type: ss, cipher: chacha20-ietf-poly1305, password: 2288b8ac-ad93-4653-9311-0b5836dd6ce2, udp: true}
+- {name: 🇹🇼 vip1 台湾-06-SS - FastFly, server: gzdx.jcnode.top, port: 29574, type: ss, cipher: chacha20-ietf-poly1305, password: 2288b8ac-ad93-4653-9311-0b5836dd6ce2, udp: true}
+- {name: 🇹🇼 vip1 台湾-07-SS - FastFly, server: gzyd.jcnode.top, port: 64759, type: ss, cipher: chacha20-ietf-poly1305, password: 2288b8ac-ad93-4653-9311-0b5836dd6ce2, udp: true}
+- {name: 🇹🇼 vip1 台湾-08-SS - FastFly, server: gzdx01.jcnode.top, port: 26065, type: ss, cipher: chacha20-ietf-poly1305, password: 2288b8ac-ad93-4653-9311-0b5836dd6ce2, udp: true}
 - {name: 🇭🇰 vip1 香港-01 - FastFly, server: gzdx.jcnode.top, port: 42630, type: trojan, password: 2288b8ac-ad93-4653-9311-0b5836dd6ce2, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-01_1 - FastFly, server: gzdx01.jcnode.top, port: 19682, type: trojan, password: 2288b8ac-ad93-4653-9311-0b5836dd6ce2, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-02 - FastFly, server: gzyd.jcnode.top, port: 38624, type: trojan, password: 2288b8ac-ad93-4653-9311-0b5836dd6ce2, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}

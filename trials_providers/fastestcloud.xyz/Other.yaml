@@ -4,6 +4,12 @@ proxies:
 - {name: 🇻🇳 vip1 越南-01-SS - FastFly, server: gzdx.jcnode.top, port: 24291, type: ss, cipher: chacha20-ietf-poly1305, password: 882ddc8c-2434-4b83-a411-488240d7b510, udp: true}
 - {name: 🇻🇳 vip1 越南-02-SS - FastFly, server: gzyd.jcnode.top, port: 33534, type: ss, cipher: chacha20-ietf-poly1305, password: 882ddc8c-2434-4b83-a411-488240d7b510, udp: true}
 - {name: 🇻🇳 vip1 越南-03-SS - FastFly, server: gzdx01.jcnode.top, port: 23761, type: ss, cipher: chacha20-ietf-poly1305, password: 882ddc8c-2434-4b83-a411-488240d7b510, udp: true}
+- {name: 🇲🇾 vip1 马来西亚-01-SS - FastFly, server: gzdx.jcnode.top, port: 45175, type: ss, cipher: chacha20-ietf-poly1305, password: 882ddc8c-2434-4b83-a411-488240d7b510, udp: true}
+- {name: 🇲🇾 vip1 马来西亚-02-SS - FastFly, server: gzyd.jcnode.top, port: 10515, type: ss, cipher: chacha20-ietf-poly1305, password: 882ddc8c-2434-4b83-a411-488240d7b510, udp: true}
+- {name: 🇲🇾 vip1 马来西亚-03-SS - FastFly, server: gzdx01.jcnode.top, port: 53991, type: ss, cipher: chacha20-ietf-poly1305, password: 882ddc8c-2434-4b83-a411-488240d7b510, udp: true}
+- {name: 🇮🇳 vip1 印度-01-SS - FastFly, server: gzdx.jcnode.top, port: 37169, type: ss, cipher: chacha20-ietf-poly1305, password: 882ddc8c-2434-4b83-a411-488240d7b510, udp: true}
+- {name: 🇮🇳 vip1 印度-02-SS - FastFly, server: gzyd.jcnode.top, port: 25997, type: ss, cipher: chacha20-ietf-poly1305, password: 882ddc8c-2434-4b83-a411-488240d7b510, udp: true}
+- {name: 🇮🇳 vip1 印度-03-SS - FastFly, server: gzdx01.jcnode.top, port: 19975, type: ss, cipher: chacha20-ietf-poly1305, password: 882ddc8c-2434-4b83-a411-488240d7b510, udp: true}
 - {name: '快飞永久跳转地址: https://fastfly.club - FastFly', server: gzdx.jcnode.top, port: 29482, type: trojan, password: 882ddc8c-2434-4b83-a411-488240d7b510, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 vip1 越南-01 - FastFly, server: gzdx.jcnode.top, port: 39191, type: trojan, password: 882ddc8c-2434-4b83-a411-488240d7b510, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 vip1 越南-01_1 - FastFly, server: gzdx01.jcnode.top, port: 43686, type: trojan, password: 882ddc8c-2434-4b83-a411-488240d7b510, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}

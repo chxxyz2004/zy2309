@@ -1,9 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 JCBB_美国 01-SS【vip1】 - JCBB, server: gzdx.jcnode.top, port: 51421, type: ss, cipher: chacha20-ietf-poly1305, password: 4a457e72-a41e-4a07-b9a5-1d7dbf907bc9, udp: true}
-- {name: 🇺🇸 JCBB_美国 02-SS【vip1】 - JCBB, server: gzyd.jcnode.top, port: 46558, type: ss, cipher: chacha20-ietf-poly1305, password: 4a457e72-a41e-4a07-b9a5-1d7dbf907bc9, udp: true}
-- {name: 🇺🇸 JCBB_美国 03-SS【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 14238, type: ss, cipher: chacha20-ietf-poly1305, password: 4a457e72-a41e-4a07-b9a5-1d7dbf907bc9, udp: true}
 - {name: 🇺🇸 JCBB_ 美国01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 38381, type: vmess, uuid: 4a457e72-a41e-4a07-b9a5-1d7dbf907bc9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
 - {name: 🇺🇸 JCBB_ 美国02_1【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 20153, type: vmess, uuid: 4a457e72-a41e-4a07-b9a5-1d7dbf907bc9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx01.jcnode.top}}, udp: true}
 - {name: 🇺🇸 JCBB_ 美国02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 28204, type: vmess, uuid: 4a457e72-a41e-4a07-b9a5-1d7dbf907bc9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}

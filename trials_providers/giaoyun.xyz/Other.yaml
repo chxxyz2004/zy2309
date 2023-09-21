@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇱🇺 卢森堡专线-奈飞-TK - giao云, server: 91zx.ljydw.top, port: 25559, client-fingerprint: chrome, type: trojan, password: 065f57d5-b76f-4773-9438-cfe82de21b33, tfo: false, sni: 914lxb.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇱🇺 卢森堡专线-奈飞-TK - giao云, server: 91zx.ljydw.top, port: 25559, type: trojan, password: 22bb6e88-3310-48b3-aa27-cdffd7a8097d, sni: 914lxb.ljydw.top, skip-cert-verify: true, udp: true}

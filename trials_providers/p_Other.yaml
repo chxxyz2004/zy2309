@@ -1,14 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 87104079-984f-3809-b800-b5bf10332dec, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 87104079-984f-3809-b800-b5bf10332dec, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 129043:y9eWfT, obfs-param: '23c9f129043.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 5d684fc5-abe6-3415-83e1-52eb64784264, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 5d684fc5-abe6-3415-83e1-52eb64784264, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 129046:U4pY9w, obfs-param: '9d876129046.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 新网址：sockboom.link - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
 - {name: 距离下次重置剩余：17 天 - 老猫云, server: cn1.laomao2.xyz, port: 30001, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
 - {name: 距离下次重置剩余：7 天 - FastFly, server: gzdx.jcnode.top, port: 24291, type: ss, cipher: chacha20-ietf-poly1305, password: 3601e7f8-157a-449d-b96a-8a0143dabb1d, udp: true}
-- {name: 距离下次重置剩余：7 天 - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: b132bc19-d270-4916-8ef7-4023eb70f28e, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: b132bc19-d270-4916-8ef7-4023eb70f28e, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：7 天 - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: 04baecb6-016e-4d96-9fd2-5d73a48fe554, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: 04baecb6-016e-4d96-9fd2-5d73a48fe554, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：7 天 - 北方航空, server: js.bfyun.eu.org, port: 2082, type: vmess, uuid: 1983ffb0-bc09-4948-87d1-4b1b45218e05, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
 - {name: 距离下次重置剩余：11 天 - Kangaroo✦Network, server: au1.enuotime.com, port: 443, type: vmess, uuid: 991a2ef4-57bc-46ed-8ed2-9776d023c8b7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.enuotime.com}}, udp: true}
 - {name: 距离下次重置剩余：11 天 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 7684e22f-d084-410a-acb6-25865188e499, udp: true}

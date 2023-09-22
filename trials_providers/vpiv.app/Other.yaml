@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 129028:zQRQ3i, obfs-param: '9c8f3129028.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 129032:hLV9T9, obfs-param: '9cb81129032.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}

@@ -21,7 +21,6 @@ proxies:
 - {name: 🇸🇬 新加坡 A - V2Link VPN, server: host-031.crazyspeed.xyz, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: d8649e2b-222c-496f-b633-506589206abd, udp: true}
 - {name: 🇸🇬 新加坡 B - V2Link VPN, server: host-032.crazyspeed.xyz, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: d8649e2b-222c-496f-b633-506589206abd, udp: true}
 - {name: 🇸🇬 新加坡 C - V2Link VPN, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: d8649e2b-222c-496f-b633-506589206abd, udp: true}
-- {name: 🇲🇾 马来西亚 - 吉隆坡 - V2Link VPN, server: host-035.crazyspeed.xyz, port: 10355, type: ss, cipher: chacha20-ietf-poly1305, password: d8649e2b-222c-496f-b633-506589206abd, udp: true}
 - {name: 🇺🇸 美国 - 堪萨斯 A - V2Link VPN, server: host-036.crazyspeed.xyz, port: 16010, type: ss, cipher: chacha20-ietf-poly1305, password: d8649e2b-222c-496f-b633-506589206abd, udp: true}
 - {name: 🇺🇸 美国 - 圣何塞 A - V2Link VPN, server: host-037.crazyspeed.xyz, port: 16011, type: ss, cipher: chacha20-ietf-poly1305, password: d8649e2b-222c-496f-b633-506589206abd, udp: true}
 - {name: 🇺🇸 美国 - 圣何塞 B - V2Link VPN, server: host-038.crazyspeed.xyz, port: 16012, type: ss, cipher: chacha20-ietf-poly1305, password: d8649e2b-222c-496f-b633-506589206abd, udp: true}

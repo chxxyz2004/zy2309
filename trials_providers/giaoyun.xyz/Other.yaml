@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 域名被屏蔽，先连节点再访问 - giao云, server: 8.8.8.8, port: 22266, type: ss, cipher: chacha20-ietf-poly1305, password: 97e9ae44-1a40-425f-9a12-61b14e43420b, udp: true}
-- {name: 🇱🇺 卢森堡专线-奈飞-TK - giao云, server: 91zx.ljydw.top, port: 25559, type: trojan, password: 97e9ae44-1a40-425f-9a12-61b14e43420b, sni: 914lxb.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 域名被屏蔽，先连节点再访问 - giao云, server: 8.8.8.8, port: 22266, type: ss, cipher: chacha20-ietf-poly1305, password: bc99084f-5889-4e7c-a5f5-30c4d73d945f, udp: true}
+- {name: 🇱🇺 卢森堡专线-奈飞-TK - giao云, server: 91zx.ljydw.top, port: 25559, type: trojan, password: bc99084f-5889-4e7c-a5f5-30c4d73d945f, sni: 914lxb.ljydw.top, skip-cert-verify: true, udp: true}

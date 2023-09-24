@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港专线1-奈飞-TK - giao云, server: zx.fr99kt.top, port: 12895, client-fingerprint: chrome, type: trojan, password: 553b7c95-98fa-4a11-9eb6-1e0b9ded8631, tfo: false, sni: 98hk.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港专线2 - giao云, server: 91zx.ljydw.top, port: 21112, client-fingerprint: chrome, type: trojan, password: 553b7c95-98fa-4a11-9eb6-1e0b9ded8631, tfo: false, sni: 910hk02.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港专线3 - giao云, server: 91zx.ljydw.top, port: 21115, client-fingerprint: chrome, type: trojan, password: 553b7c95-98fa-4a11-9eb6-1e0b9ded8631, tfo: false, sni: 911hk3.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港3 - giao云, server: 822hk3.ljydw.top, port: 49319, client-fingerprint: chrome, type: trojan, password: 553b7c95-98fa-4a11-9eb6-1e0b9ded8631, tfo: false, sni: 822hk3.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港5 - giao云, server: 822hk6.ljydw.top, port: 49319, client-fingerprint: chrome, type: trojan, password: 553b7c95-98fa-4a11-9eb6-1e0b9ded8631, tfo: false, sni: 822hk6.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港专线1-奈飞-TK - giao云, server: zx.fr99kt.top, port: 12895, type: trojan, password: 7ac0b811-58ca-44a2-8712-5c38ac9938d1, sni: 98hk.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港专线2 - giao云, server: 91zx.ljydw.top, port: 21112, type: trojan, password: 7ac0b811-58ca-44a2-8712-5c38ac9938d1, sni: 910hk02.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港专线3 - giao云, server: 91zx.ljydw.top, port: 21115, type: trojan, password: 7ac0b811-58ca-44a2-8712-5c38ac9938d1, sni: 911hk3.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港3 - giao云, server: 822hk3.ljydw.top, port: 49319, type: trojan, password: 7ac0b811-58ca-44a2-8712-5c38ac9938d1, sni: 822hk3.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港5 - giao云, server: 822hk6.ljydw.top, port: 49319, type: trojan, password: 7ac0b811-58ca-44a2-8712-5c38ac9938d1, sni: 822hk6.ljydw.top, skip-cert-verify: true, udp: true}

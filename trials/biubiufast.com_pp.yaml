@@ -173,7 +173,6 @@ rules:
 - DOMAIN-SUFFIX,zte.home,DIRECT
 - DOMAIN-SUFFIX,tplogin.cn,DIRECT
 - DOMAIN-SUFFIX,wifi.cmcc,DIRECT
-- DOMAIN-SUFFIX,kgithub.com,DIRECT
 - DOMAIN,raw.me.cd,🛩️ ‍墙内
 - DOMAIN,sc.me.cd,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ghraw.eu.org,🛩️ ‍墙内

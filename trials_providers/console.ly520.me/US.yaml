@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国-01 | 2X - 凌云网络, server: 1.76po.com, port: 16325, type: vmess, uuid: 43219bfb-e8a4-49ee-bc23-b20793377138, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-02 | 2X - 凌云网络, server: 1.76po.com, port: 23390, type: vmess, uuid: 43219bfb-e8a4-49ee-bc23-b20793377138, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-03 | 2X - 凌云网络, server: 1.76po.com, port: 15014, type: vmess, uuid: 43219bfb-e8a4-49ee-bc23-b20793377138, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-01 | 2X - 凌云网络, server: 1.76po.com, port: 16325, type: vmess, uuid: 21aefe6a-a7f4-4384-99ac-719472f5d9d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-02 | 2X - 凌云网络, server: 1.76po.com, port: 23390, type: vmess, uuid: 21aefe6a-a7f4-4384-99ac-719472f5d9d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-03 | 2X - 凌云网络, server: 1.76po.com, port: 15014, type: vmess, uuid: 21aefe6a-a7f4-4384-99ac-719472f5d9d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

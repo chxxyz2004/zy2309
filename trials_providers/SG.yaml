@@ -25,12 +25,12 @@ proxies:
 - {name: 🇸🇬 新加坡 A - V2Link VPN, server: host-031.crazyspeed.xyz, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: 4d087bee-e787-4b2d-9f45-9c830f5008ad, udp: true}
 - {name: 🇸🇬 新加坡 B - V2Link VPN, server: host-032.crazyspeed.xyz, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: 4d087bee-e787-4b2d-9f45-9c830f5008ad, udp: true}
 - {name: 🇸🇬 新加坡 C - V2Link VPN, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: 4d087bee-e787-4b2d-9f45-9c830f5008ad, udp: true}
-- {name: 🇸🇬 vip1 新加坡-01-SS - FastFly, server: gzdx.jcnode.top, port: 30641, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cdbfd1bb-ab25-49ac-a1bc-7c590746e638, tfo: false, udp: true}
-- {name: 🇸🇬 vip1 新加坡-02-SS - FastFly, server: gzyd.jcnode.top, port: 59211, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cdbfd1bb-ab25-49ac-a1bc-7c590746e638, tfo: false, udp: true}
-- {name: 🇸🇬 vip1 新加坡-03-SS - FastFly, server: gzdx01.jcnode.top, port: 41972, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cdbfd1bb-ab25-49ac-a1bc-7c590746e638, tfo: false, udp: true}
-- {name: 🇸🇬 vip1 新加坡-06-SS - FastFly, server: gzdx.jcnode.top, port: 30139, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cdbfd1bb-ab25-49ac-a1bc-7c590746e638, tfo: false, udp: true}
-- {name: 🇸🇬 vip1 新加坡-07-SS - FastFly, server: gzyd.jcnode.top, port: 20014, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cdbfd1bb-ab25-49ac-a1bc-7c590746e638, tfo: false, udp: true}
-- {name: 🇸🇬 vip1 新加坡-08-SS - FastFly, server: gzdx01.jcnode.top, port: 44773, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: cdbfd1bb-ab25-49ac-a1bc-7c590746e638, tfo: false, udp: true}
+- {name: 🇸🇬 vip1 新加坡-01-SS - FastFly, server: gzdx.jcnode.top, port: 30641, type: ss, cipher: chacha20-ietf-poly1305, password: cdbfd1bb-ab25-49ac-a1bc-7c590746e638, udp: true}
+- {name: 🇸🇬 vip1 新加坡-02-SS - FastFly, server: gzyd.jcnode.top, port: 59211, type: ss, cipher: chacha20-ietf-poly1305, password: cdbfd1bb-ab25-49ac-a1bc-7c590746e638, udp: true}
+- {name: 🇸🇬 vip1 新加坡-03-SS - FastFly, server: gzdx01.jcnode.top, port: 41972, type: ss, cipher: chacha20-ietf-poly1305, password: cdbfd1bb-ab25-49ac-a1bc-7c590746e638, udp: true}
+- {name: 🇸🇬 vip1 新加坡-06-SS - FastFly, server: gzdx.jcnode.top, port: 30139, type: ss, cipher: chacha20-ietf-poly1305, password: cdbfd1bb-ab25-49ac-a1bc-7c590746e638, udp: true}
+- {name: 🇸🇬 vip1 新加坡-07-SS - FastFly, server: gzyd.jcnode.top, port: 20014, type: ss, cipher: chacha20-ietf-poly1305, password: cdbfd1bb-ab25-49ac-a1bc-7c590746e638, udp: true}
+- {name: 🇸🇬 vip1 新加坡-08-SS - FastFly, server: gzdx01.jcnode.top, port: 44773, type: ss, cipher: chacha20-ietf-poly1305, password: cdbfd1bb-ab25-49ac-a1bc-7c590746e638, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB, server: gzdx01.jcnode.top, port: 15035, type: trojan, password: 11b461af-edb6-4051-b3af-55e34dcdbc19, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB, server: gzdx.jcnode.top, port: 41754, type: trojan, password: 11b461af-edb6-4051-b3af-55e34dcdbc19, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 03【vip1 】 - JCBB, server: gzyd.jcnode.top, port: 21425, type: trojan, password: 11b461af-edb6-4051-b3af-55e34dcdbc19, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}

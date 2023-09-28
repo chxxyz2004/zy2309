@@ -41,8 +41,8 @@ proxy-groups:
   - 🇭🇰 Video 香港 A-解锁 - AyucLouD-Services
   - 🇭🇰 Video 香港 B-标准 - AyucLouD-Services
   - 🇭🇰 Video 香港 C-标准 - AyucLouD-Services
-  - 🇭🇰 Web 香港 I-通用 - AyucLouD-Services
-  - 🇭🇰 Web 香港 II-通用 - AyucLouD-Services
+  - 🇭🇰 Web 香港I-标准 - AyucLouD-Services
+  - 🇭🇰 Web 香港II-标准 - AyucLouD-Services
   - 🇹🇼 Game 台湾01-标准 - AyucLouD-Services
   - 🇹🇼 Game 台湾02-标准 - AyucLouD-Services
   - 🇹🇼 Game 台湾03-专线 - AyucLouD-Services
@@ -56,13 +56,13 @@ proxy-groups:
   - 🇹🇼 Video 台湾 C-原生 - AyucLouD-Services
   - 🇹🇼 Video 台湾 D-标准 - AyucLouD-Services
   - 🇹🇼 Video 台湾 E-解锁 - AyucLouD-Services
-  - 🇹🇼 Web 台湾 I-通用 - AyucLouD-Services
+  - 🇹🇼 Web 台湾I-标准 - AyucLouD-Services
   - 🇸🇬 Game 新加坡01-标准 - AyucLouD-Services
   - 🇸🇬 Game 新加坡02-标准 - AyucLouD-Services
   - 🇸🇬 Game 新加坡03-标准 - AyucLouD-Services
   - 🇸🇬 Video 新加坡 A-解锁 - AyucLouD-Services
   - 🇸🇬 Video 新加坡 B-标准 - AyucLouD-Services
-  - 🇸🇬 Web 新加坡 I-通用 - AyucLouD-Services
+  - 🇸🇬 Web 新加坡I-标准 - AyucLouD-Services
   - 🇯🇵 Game 日本01-标准 - AyucLouD-Services
   - 🇯🇵 Game 日本02-标准 - AyucLouD-Services
   - 🇯🇵 Game 日本03-标准 - AyucLouD-Services
@@ -76,7 +76,7 @@ proxy-groups:
   - 🇯🇵 Video 日本 A-标准 - AyucLouD-Services
   - 🇯🇵 Video 日本 B-解锁 - AyucLouD-Services
   - 🇯🇵 Video 日本 C-原生 - AyucLouD-Services
-  - 🇯🇵 Web 日本 I-通用 - AyucLouD-Services
+  - 🇯🇵 Web 日本I-标准 - AyucLouD-Services
   - 🇺🇸 Game 美国01-原生 - AyucLouD-Services
   - 🇺🇸 Game 美国02-原生 - AyucLouD-Services
   - 🇺🇸 Game 美国03-标准 - AyucLouD-Services
@@ -86,9 +86,9 @@ proxy-groups:
   - 🇺🇸 Video 美国 B-解锁 - AyucLouD-Services
   - 🇺🇸 Video 美国 C-原生 - AyucLouD-Services
   - 🇺🇸 Video 美国 D-原生 - AyucLouD-Services
-  - 🇺🇸 Web 美国 I-通用 - AyucLouD-Services
-  - 🇺🇸 Web 美国 II-通用 - AyucLouD-Services
-  - 🇺🇸 Web 美国 III-通用 - AyucLouD-Services
+  - 🇺🇸 Web 美国I-标准 - AyucLouD-Services
+  - 🇺🇸 Web 美国II-标准 - AyucLouD-Services
+  - 🇺🇸 Web 美国III-标准 - AyucLouD-Services
   - 🇰🇷 Game 韩国01-标准 - AyucLouD-Services
   - 🇰🇷 Game 韩国02-标准 - AyucLouD-Services
   - 🇰🇷 Game 韩国03-标准 - AyucLouD-Services
@@ -121,15 +121,15 @@ proxy-groups:
   - Video 阿曼 A-标准 - AyucLouD-Services
   - Video 巴林 A-标准 - AyucLouD-Services
   - 🇵🇹 Video 葡萄牙 A-标准 - AyucLouD-Services
-  - 🇮🇳 Web 印度 I-通用 - AyucLouD-Services
-  - 🇬🇧 Web 英国 I-通用 - AyucLouD-Services
-  - 🇫🇷 Web 法国 I-通用 - AyucLouD-Services
-  - 🇵🇱 Web 波兰 I-标准 - AyucLouD-Services
-  - 🇷🇺 Web 俄罗斯 I-通用 - AyucLouD-Services
-  - 🇨🇦 Web 加拿大 I-通用 - AyucLouD-Services
-  - 🇦🇺 Web 澳大利亚 I-通用 - AyucLouD-Services
-  - 🇮🇪 Web 爱尔兰 I-通用 - AyucLouD-Services
-  - 🇳🇬 Web 尼日利亚 I-通用 - AyucLouD-Services
+  - 🇮🇳 Web 印度I-通用 - AyucLouD-Services
+  - 🇬🇧 Web 英国I-标准 - AyucLouD-Services
+  - 🇫🇷 Web 法国I-标准 - AyucLouD-Services
+  - 🇵🇱 Web 波兰I-原生 - AyucLouD-Services
+  - 🇷🇺 Web 俄罗斯I-标准 - AyucLouD-Services
+  - 🇨🇦 Web 加拿大I-标准 - AyucLouD-Services
+  - 🇦🇺 Web 澳大利亚I-标准 - AyucLouD-Services
+  - 🇮🇪 Web 爱尔兰I-原生 - AyucLouD-Services
+  - 🇳🇬 Web 尼日利亚I-原生 - AyucLouD-Services
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -191,8 +191,8 @@ proxy-groups:
   - 🇭🇰 Video 香港 A-解锁 - AyucLouD-Services
   - 🇭🇰 Video 香港 B-标准 - AyucLouD-Services
   - 🇭🇰 Video 香港 C-标准 - AyucLouD-Services
-  - 🇭🇰 Web 香港 I-通用 - AyucLouD-Services
-  - 🇭🇰 Web 香港 II-通用 - AyucLouD-Services
+  - 🇭🇰 Web 香港I-标准 - AyucLouD-Services
+  - 🇭🇰 Web 香港II-标准 - AyucLouD-Services
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -212,7 +212,7 @@ proxy-groups:
   - 🇹🇼 Video 台湾 C-原生 - AyucLouD-Services
   - 🇹🇼 Video 台湾 D-标准 - AyucLouD-Services
   - 🇹🇼 Video 台湾 E-解锁 - AyucLouD-Services
-  - 🇹🇼 Web 台湾 I-通用 - AyucLouD-Services
+  - 🇹🇼 Web 台湾I-标准 - AyucLouD-Services
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -228,8 +228,8 @@ proxy-groups:
   - 🇭🇰 Video 香港 A-解锁 - AyucLouD-Services
   - 🇭🇰 Video 香港 B-标准 - AyucLouD-Services
   - 🇭🇰 Video 香港 C-标准 - AyucLouD-Services
-  - 🇭🇰 Web 香港 I-通用 - AyucLouD-Services
-  - 🇭🇰 Web 香港 II-通用 - AyucLouD-Services
+  - 🇭🇰 Web 香港I-标准 - AyucLouD-Services
+  - 🇭🇰 Web 香港II-标准 - AyucLouD-Services
   - 🇹🇼 Game 台湾01-标准 - AyucLouD-Services
   - 🇹🇼 Game 台湾02-标准 - AyucLouD-Services
   - 🇹🇼 Game 台湾03-专线 - AyucLouD-Services
@@ -243,7 +243,7 @@ proxy-groups:
   - 🇹🇼 Video 台湾 C-原生 - AyucLouD-Services
   - 🇹🇼 Video 台湾 D-标准 - AyucLouD-Services
   - 🇹🇼 Video 台湾 E-解锁 - AyucLouD-Services
-  - 🇹🇼 Web 台湾 I-通用 - AyucLouD-Services
+  - 🇹🇼 Web 台湾I-标准 - AyucLouD-Services
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -255,7 +255,7 @@ proxy-groups:
   - 🇸🇬 Game 新加坡03-标准 - AyucLouD-Services
   - 🇸🇬 Video 新加坡 A-解锁 - AyucLouD-Services
   - 🇸🇬 Video 新加坡 B-标准 - AyucLouD-Services
-  - 🇸🇬 Web 新加坡 I-通用 - AyucLouD-Services
+  - 🇸🇬 Web 新加坡I-标准 - AyucLouD-Services
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -275,7 +275,7 @@ proxy-groups:
   - 🇯🇵 Video 日本 A-标准 - AyucLouD-Services
   - 🇯🇵 Video 日本 B-解锁 - AyucLouD-Services
   - 🇯🇵 Video 日本 C-原生 - AyucLouD-Services
-  - 🇯🇵 Web 日本 I-通用 - AyucLouD-Services
+  - 🇯🇵 Web 日本I-标准 - AyucLouD-Services
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -291,9 +291,9 @@ proxy-groups:
   - 🇺🇸 Video 美国 B-解锁 - AyucLouD-Services
   - 🇺🇸 Video 美国 C-原生 - AyucLouD-Services
   - 🇺🇸 Video 美国 D-原生 - AyucLouD-Services
-  - 🇺🇸 Web 美国 I-通用 - AyucLouD-Services
-  - 🇺🇸 Web 美国 II-通用 - AyucLouD-Services
-  - 🇺🇸 Web 美国 III-通用 - AyucLouD-Services
+  - 🇺🇸 Web 美国I-标准 - AyucLouD-Services
+  - 🇺🇸 Web 美国II-标准 - AyucLouD-Services
+  - 🇺🇸 Web 美国III-标准 - AyucLouD-Services
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -332,15 +332,15 @@ proxy-groups:
   - Video 阿曼 A-标准 - AyucLouD-Services
   - Video 巴林 A-标准 - AyucLouD-Services
   - 🇵🇹 Video 葡萄牙 A-标准 - AyucLouD-Services
-  - 🇮🇳 Web 印度 I-通用 - AyucLouD-Services
-  - 🇬🇧 Web 英国 I-通用 - AyucLouD-Services
-  - 🇫🇷 Web 法国 I-通用 - AyucLouD-Services
-  - 🇵🇱 Web 波兰 I-标准 - AyucLouD-Services
-  - 🇷🇺 Web 俄罗斯 I-通用 - AyucLouD-Services
-  - 🇨🇦 Web 加拿大 I-通用 - AyucLouD-Services
-  - 🇦🇺 Web 澳大利亚 I-通用 - AyucLouD-Services
-  - 🇮🇪 Web 爱尔兰 I-通用 - AyucLouD-Services
-  - 🇳🇬 Web 尼日利亚 I-通用 - AyucLouD-Services
+  - 🇮🇳 Web 印度I-通用 - AyucLouD-Services
+  - 🇬🇧 Web 英国I-标准 - AyucLouD-Services
+  - 🇫🇷 Web 法国I-标准 - AyucLouD-Services
+  - 🇵🇱 Web 波兰I-原生 - AyucLouD-Services
+  - 🇷🇺 Web 俄罗斯I-标准 - AyucLouD-Services
+  - 🇨🇦 Web 加拿大I-标准 - AyucLouD-Services
+  - 🇦🇺 Web 澳大利亚I-标准 - AyucLouD-Services
+  - 🇮🇪 Web 爱尔兰I-原生 - AyucLouD-Services
+  - 🇳🇬 Web 尼日利亚I-原生 - AyucLouD-Services
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -447,23 +447,23 @@ proxies:
 - {name: Video 阿曼 A-标准 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 36454, type: ss, cipher: aes-128-gcm, password: 1mj21sr, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
 - {name: Video 巴林 A-标准 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 36452, type: ss, cipher: aes-128-gcm, password: 1mj21sr, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
 - {name: 🇵🇹 Video 葡萄牙 A-标准 - AyucLouD-Services, server: 201201level2.unclemanco.com, port: 36243, type: ss, cipher: aes-128-gcm, password: Vdss1samj/2Zr, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
-- {name: 🇹🇼 Web 台湾 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 9047, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
-- {name: 🇭🇰 Web 香港 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 912, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
-- {name: 🇭🇰 Web 香港 II-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 840, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
-- {name: 🇯🇵 Web 日本 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 9051, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
-- {name: 🇺🇸 Web 美国 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 925, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
-- {name: 🇺🇸 Web 美国 II-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 812, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
-- {name: 🇺🇸 Web 美国 III-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 837, type: ss, cipher: aes-128-gcm, password: ayucl12s1, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
-- {name: 🇮🇳 Web 印度 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 816, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
-- {name: 🇬🇧 Web 英国 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 2688, type: ss, cipher: aes-128-gcm, password: fs23l/, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
-- {name: 🇫🇷 Web 法国 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 915, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
-- {name: 🇵🇱 Web 波兰 I-标准 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 2205, type: ss, cipher: aes-128-gcm, password: 'dajkdkjda&dja*/?', plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
-- {name: 🇷🇺 Web 俄罗斯 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 9020, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
-- {name: 🇨🇦 Web 加拿大 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 924, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
-- {name: 🇸🇬 Web 新加坡 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 6879, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
-- {name: 🇦🇺 Web 澳大利亚 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 9044, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
-- {name: 🇮🇪 Web 爱尔兰 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 36201, type: ss, cipher: aes-128-gcm, password: Vdssf.mj/2Zr, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
-- {name: 🇳🇬 Web 尼日利亚 I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 10021, type: ss, cipher: aes-128-gcm, password: aa2x2sa2/1a, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
+- {name: 🇹🇼 Web 台湾I-标准 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 9047, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
+- {name: 🇭🇰 Web 香港I-标准 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 912, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
+- {name: 🇭🇰 Web 香港II-标准 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 840, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
+- {name: 🇯🇵 Web 日本I-标准 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 9051, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
+- {name: 🇺🇸 Web 美国I-标准 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 925, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
+- {name: 🇺🇸 Web 美国II-标准 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 812, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
+- {name: 🇺🇸 Web 美国III-标准 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 837, type: ss, cipher: aes-128-gcm, password: ayucl12s1, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
+- {name: 🇮🇳 Web 印度I-通用 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 816, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
+- {name: 🇬🇧 Web 英国I-标准 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 2688, type: ss, cipher: aes-128-gcm, password: fs23l/, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
+- {name: 🇫🇷 Web 法国I-标准 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 915, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
+- {name: 🇵🇱 Web 波兰I-原生 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 2205, type: ss, cipher: aes-128-gcm, password: 'dajkdkjda&dja*/?', plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
+- {name: 🇷🇺 Web 俄罗斯I-标准 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 9020, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
+- {name: 🇨🇦 Web 加拿大I-标准 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 924, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
+- {name: 🇸🇬 Web 新加坡I-标准 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 6879, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
+- {name: 🇦🇺 Web 澳大利亚I-标准 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 9044, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
+- {name: 🇮🇪 Web 爱尔兰I-原生 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 36201, type: ss, cipher: aes-128-gcm, password: Vdssf.mj/2Zr, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
+- {name: 🇳🇬 Web 尼日利亚I-原生 - AyucLouD-Services, server: 201201level1.unclemanco.com, port: 10021, type: ss, cipher: aes-128-gcm, password: aa2x2sa2/1a, plugin: obfs, plugin-opts: {mode: http, host: afa7983568.download.windowsupdate.com}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

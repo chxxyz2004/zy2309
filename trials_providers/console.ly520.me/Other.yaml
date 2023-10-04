@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 凌云网络 www.ly520.me - 凌云网络, server: 11.4.5.14, port: 19198, type: vmess, uuid: 0cb1e01e-a5ed-4cc3-a0d3-5cac1b944509, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国-01 | 1.8X - 凌云网络, server: 1.76po.com, port: 17744, type: vmess, uuid: 0cb1e01e-a5ed-4cc3-a0d3-5cac1b944509, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国-01 | 1.8X - 凌云网络, server: js1.76po.com, port: 51594, type: vmess, uuid: 0cb1e01e-a5ed-4cc3-a0d3-5cac1b944509, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 凌云网络 www.ly520.me - 凌云网络, server: 11.4.5.14, port: 19198, type: vmess, uuid: 591b4b0f-2f28-46be-93dd-f8df17df5473, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国-01 | 1.8X - 凌云网络, server: 1.76po.com, port: 17744, type: vmess, uuid: 591b4b0f-2f28-46be-93dd-f8df17df5473, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国-01 | 1.8X - 凌云网络, server: js1.76po.com, port: 51594, type: vmess, uuid: 591b4b0f-2f28-46be-93dd-f8df17df5473, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

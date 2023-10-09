@@ -1,15 +1,15 @@
 [maossr.top]
 name  爱猫论坛
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(pynbbolc184@gmail.com): 未开放注册。
+更新订阅链接/续费续签失败  注册失败(asqdwczky615@gmail.com): 未开放注册。
 
 [ayucloud.services]
 auth_path  user
 auto_invite  F
-banned_domains  smartnator.com
+banned_domains  smartnator.com  XDANAE.COM
 buy  pass
 email  soogfdgq707@jkb.tmmad.com
-last_checkin  2023-10-09 02:27:20.647605+08:00
+last_checkin  2023-10-10 00:30:36.661304+08:00
 name  AyucLouD-Services
 node_n  98
 sub_info  1.315G  1.857G  2023-10-09 22:25:04+08:00  (剩余 555.4M 1:39:09.949958)
@@ -18,7 +18,7 @@ time  2023-10-08 22:25:07.530511+08:00
 type  sspanel
 保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  注册失败(baqfphgcm760@disbox.org): 邮箱后缀已被拉黑
+更新订阅链接/续费续签失败  获取邮箱验证码超时(stfaxvi51@XDANAE.COM)
 
 [kan.gar.ooo]
 buy  period=month_price&plan_id=1
@@ -26,19 +26,19 @@ email  qgxvuck863@freedom
 email_domain  freedom
 name  Kangaroo✦Network
 node_n  8
-sub_info  206.4M  2G  2023-11-04 22:29:38+08:00  (剩余 1.798G 26 days, 0:00:39.904045)
+sub_info  210.1M  2G  2023-11-04 22:29:38+08:00  (剩余 1.795G 25 days, 21:58:44.155107)
 sub_url  https://go.daishuvpn.win/api/v1/client/subscribe?token=88ba1f10911680d1f0beb544c57ffd87
 time  2023-10-04 22:29:36.162144+08:00
 type  v2board
 
 [console.ly520.me]
 buy  pass
-email  pudizsho252@gmail.com
+email  xkhqvegn327@gmail.com
 name  凌云网络
 node_n  11
-sub_info  0B  1G  2023-10-09 23:33:17+08:00  (剩余 1G 0:57:53.913328)
-sub_url  https://console.ly520.me/api/v1/client/subscribe?token=a794a433f92dac7f820af670d11cacfd
-time  2023-10-09 22:33:18.315561+08:00
+sub_info  0B  1G  2023-10-10 01:34:53+08:00  (剩余 1G 0:59:51.673220)
+sub_url  https://console.ly520.me/api/v1/client/subscribe?token=85162c5092e4aaf37dcca6c7e3f900e4
+time  2023-10-10 00:34:54.220695+08:00
 type  v2board
 
 [sockboom.link]
@@ -46,10 +46,10 @@ auto_invite  F
 banned_domains  tmpeml.com
 buy  pass
 email  rzdsdis318@fc2023888.com
-last_checkin  2023-10-09 18:40:55.409746+08:00
+last_checkin  2023-10-10 00:30:36.664825+08:00
 name  SockBoom
 node_n  56
-sub_info  70.31M  1.235G  2023-10-10 18:40:54+08:00  (剩余 1.167G 20:11:54.987613)
+sub_info  177.7M  1.284G  2023-10-10 18:40:54+08:00  (剩余 1.111G 18:10:10.951804)
 sub_url  https://sockboom.me/link/gNd6L24zzLdZMZ5Y?mu=1
 time  2023-10-09 18:40:56.250238+08:00
 type  sspanel
@@ -58,10 +58,10 @@ type  sspanel
 auto_invite  F
 buy  pass
 email  cdyqxcxq810@gmail.com
-last_checkin  2023-10-09 22:28:56.684411+08:00
+last_checkin  2023-10-10 00:30:36.666154+08:00
 name  Cyanmori
 node_n  32
-sub_info  0B  1.299G  2023-10-10 04:28:56+08:00  (剩余 1.299G 5:59:51.032915)
+sub_info  11.41M  1.665G  2023-10-10 04:28:56+08:00  (剩余 1.654G 3:56:14.590502)
 sub_url  https://link2.cccc.gg/link/t3XXrnzO1HYekl4p?clash=1
 time  2023-10-09 22:28:57.877238+08:00
 type  sspanel
@@ -71,19 +71,19 @@ buy  pass
 email  qlerpwb970@gmail.com
 name  JCBB
 node_n  54
-sub_info  228.3M  1G  2023-10-10 02:27:27+08:00  (剩余 795.7M 3:58:32.643238)
+sub_info  256.4M  1G  2023-10-10 02:27:27+08:00  (剩余 767.6M 1:56:46.519738)
 sub_url  https://cloud.ckcloud.shop/api/v1/client/subscribe?token=43258946877baffe49c0ab4a2723825d
 time  2023-10-09 02:27:28.219620+08:00
 type  v2board
 
 [fastestcloud.xyz]
 buy  pass
-email  mloehzri350@gmail.com
+email  mrpploy927@gmail.com
 name  FastFly
 node_n  57
-sub_info  266.7M  1G  2023-10-10 00:28:49+08:00  (剩余 757.3M 1:59:53.847498)
-sub_url  https://sub.flyyydds.top:21600/api/v1/client/subscribe?token=bdda3a1938c770c93831dfa2a4f4ac98
-time  2023-10-09 00:28:50.064398+08:00
+sub_info  0B  1G  2023-10-11 00:32:47+08:00  (剩余 1G 23:59:54.187632)
+sub_url  https://sub.flyyydds.top:21600/api/v1/client/subscribe?token=85598d355c05677632ed365db0a3b84b
+time  2023-10-10 00:32:48.437126+08:00
 type  v2board
 
 [biubiufast.com]
@@ -91,7 +91,7 @@ buy  pass
 email  qkgqlris197@gmail.com
 name  BIUBIU FAST 加速器
 node_n  10
-sub_info  10.82M  1G  2023-10-10 20:45:57+08:00  (剩余 1013M 22:16:57.583457)
+sub_info  26.52M  1G  2023-10-10 20:45:57+08:00  (剩余 997.5M 20:15:16.286515)
 sub_url  https://biubiufast.com/api/v1/client/subscribe?token=7643233fe01e8603bbe8c539ac5c6458
 time  2023-10-09 20:45:58.011557+08:00
 type  v2board
@@ -110,13 +110,13 @@ type  v2board
 [vipxgyun.com]
 auto_invite  F
 buy  pass
-email  hoatqqns771@gmail.com
-last_checkin  2023-10-09 22:31:14.352255+08:00
+email  xhzdjigy349@gmail.com
+last_checkin  2023-10-10 00:30:46.595694+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.13G  2023-10-10 00:31:14+08:00  (剩余 10.13G 1:57:34.205407)
-sub_url  https://go.xiguasuyun.com/link/MEY1IH72pCmb1OG4?sub=3
-time  2023-10-09 22:31:16.703297+08:00
+sub_info  0B  10.12G  2023-10-10 02:30:46+08:00  (剩余 10.12G 1:59:55.280896)
+sub_url  https://go.xiguasuyun.com/link/UQh55zwdOE5E7lf4?sub=3
+time  2023-10-10 00:30:49.036514+08:00
 type  sspanel
 
 [iqiaqia.xyz]
@@ -124,10 +124,10 @@ auto_invite  F
 banned_domains  tmpeml.com
 buy  shop=21
 email  iqvldrfia675@guerrillamail.org
-last_checkin  2023-10-09 22:30:22.001722+08:00
+last_checkin  2023-10-10 00:30:36.670553+08:00
 name  恰恰- 有情怀的Ai加速服务商
 node_n  57
-sub_info  0B  1.039G  2023-10-10 22:30:21+08:00  (剩余 1.039G 23:57:47.289603)
+sub_info  20.05M  1.092G  2023-10-10 22:30:21+08:00  (剩余 1.072G 21:59:35.007802)
 sub_url  https://1122331.xyz/link/p92KXKGivPbkGgeD?sub=3
 time  2023-10-09 22:30:22.479428+08:00
 type  sspanel
@@ -136,10 +136,10 @@ type  sspanel
 auto_invite  F
 buy  pass
 email  gsaqowkb188@gmail.com
-last_checkin  2023-10-09 02:27:20.668696+08:00
+last_checkin  2023-10-10 00:30:36.671941+08:00
 name  MG Network
 node_n  10
-sub_info  74.55M  5.961G  2023-10-10 22:24:54+08:00  (剩余 5.888G 23:54:45.523427)
+sub_info  81.83M  6.333G  2023-10-10 22:24:54+08:00  (剩余 6.253G 21:52:12.707873)
 sub_url  https://www.mgnet.sbs/link/jHoXExmbg2eNREnK?sub=3
 time  2023-10-08 22:24:55.628928+08:00
 type  sspanel
@@ -155,37 +155,36 @@ api_host  vpiv.one
 auto_invite  F
 banned_domains  smartnator.com  mydefipet.live  femailtor.com  psnator.com  XDANAE.COM  linshiyou.com
 buy  pass
-email  jzeyhtvqd137@jkb.tmmad.com
-last_checkin  2023-10-09 22:31:07.296403+08:00
+email  uzajnkk986@nm.pe
+last_checkin  2023-10-10 00:31:02.147454+08:00
 name  糖果
 node_n  60
-sub_info  0B  1.053G  2023-10-09 23:31:07+08:00  (剩余 1.053G 0:59:43.400521)
-sub_url  https://sub1.itg.best:30443/link/ojFcXHC6Gr7soixJ?sub=1
-time  2023-10-09 22:31:07.641600+08:00
+sub_info  0B  1.028G  2023-10-10 01:31:02+08:00  (剩余 1.028G 0:59:44.340861)
+sub_url  https://sub1.itg.best:30443/link/nwdJjpTwc5VprNYQ?sub=1
+time  2023-10-10 00:31:02.351794+08:00
 type  sspanel
 
 [ziyun.cyou]
 auto_invite  F
 buy  pass
 email  lesitoeci330@oxuzn.icu
-last_checkin  2023-10-09 02:27:20.672331+08:00
+last_checkin  2023-10-10 00:30:36.678027+08:00
 name  紫云VPN服务商
 node_n  35
-sub_info  303.4M  5.665G  2023-10-11 00:28:37+08:00  (剩余 5.369G 1 day, 1:59:39.327871)
+sub_info  318.8M  6.22G  2023-10-11 00:28:37+08:00  (剩余 5.908G 23:55:51.054466)
 sub_url  https://us.ziyun.cyou/link/gmYUX0ASWQK237Yf?clash=1
 time  2023-10-08 00:28:39.723028+08:00
 type  sspanel
 
 [lm.laomaoyun.me]
 banned_domains  dijingka.com  XDANAE.COM  femailtor.com  disbox.net  mydefipet.live  mail.wvwvw.tech  snapmail.cc  guerrillamail.net  inlith.com  hoanghainam.com
-email  cdepllba905@maladi.top
+email  uiwfumo757@wxiaobao.cyou
 name  老猫
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://12.laomao1.xyz/api/v1/client/subscribe?token=9400b526a60d200949df6d7f15a5b093
-time  2023-10-09 14:33:18.193440+08:00
+sub_url  https://14.laomao1.xyz/api/v1/client/subscribe?token=086332ce781bd5d5be6df987187d740d
+time  2023-10-10 00:31:54.034029+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='lm.laomaoyun.me', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f18c409b5b0>, 'Connection to lm.laomaoyun.me timed out. (connect timeout=30)'))
 
 [my.bfhk.xyz]
 buy  pass
@@ -196,7 +195,7 @@ sub_info  0B  20G  2023-10-06 22:29:40+08:00  (剩余 20G 21:57:37.043152)
 sub_url  https://my.bfhk.xyz/api/v1/client/subscribe?token=74d3c740076d05aa41326cf1aa3c1352
 time  2023-10-04 22:29:40.934849+08:00
 type  v2board
-更新旧订阅失败  HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=74d3c740076d05aa41326cf1aa3c1352 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  (https://my.bfhk.xyz/api/v1/client/subscribe?token=74d3c740076d05aa41326cf1aa3c1352): 502 Bad Gateway '<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n'
 
 [store.kakocloud.pro]
 api_host  kako.xn--fiq626gzzgkv2a.com
@@ -204,7 +203,7 @@ buy  period=month_price&plan_id=24
 email  ltatvvfmx994@grr.la
 name  Kako Cloud
 node_n  6
-sub_info  97.04M  25G  2023-11-04 22:27:57+08:00  (剩余 24.91G 25 days, 23:59:02.348327)
+sub_info  98.79M  25G  2023-11-04 22:27:57+08:00  (剩余 24.9G 25 days, 21:57:15.279504)
 sub_url  https://kako.xn--fiq626gzzgkv2a.com/api/v1/client/subscribe?token=d0f49cf7d3d7e1b5adae131add8ea228
 time  2023-10-04 22:27:58.271867+08:00
 type  v2board
@@ -215,7 +214,7 @@ buy  pass
 email  sjlizat954@gmail.com
 name  V2Link VPN
 node_n  41
-sub_info  11.12M  1G  2023-10-16 20:47:56+08:00  (剩余 1013M 6 days, 22:18:59.171334)
+sub_info  28.33M  1G  2023-10-16 20:47:56+08:00  (剩余 995.7M 6 days, 20:17:15.518471)
 sub_url  https://sub.v2link.cloud/api/v1/client/subscribe?token=6b7205d671b9bc96ad3ace19905b62ca
 time  2023-10-09 20:47:57.003350+08:00
 type  v2board

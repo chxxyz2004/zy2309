@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 vip1 新加坡-01-SS - FastFly, server: gzdx.jcnode.top, port: 30139, type: ss, cipher: chacha20-ietf-poly1305, password: 354d9748-7a97-44fb-9ea5-3498cac94ef8, udp: true}
-- {name: 🇸🇬 vip1 新加坡-02-SS - FastFly, server: gzyd.jcnode.top, port: 59211, type: ss, cipher: chacha20-ietf-poly1305, password: 354d9748-7a97-44fb-9ea5-3498cac94ef8, udp: true}
-- {name: 🇸🇬 vip1 新加坡-03-SS - FastFly, server: gzdx01.jcnode.top, port: 41972, type: ss, cipher: chacha20-ietf-poly1305, password: 354d9748-7a97-44fb-9ea5-3498cac94ef8, udp: true}
-- {name: 🇸🇬 vip1 新加坡-06-SS - FastFly, server: gzdx.jcnode.top, port: 30641, type: ss, cipher: chacha20-ietf-poly1305, password: 354d9748-7a97-44fb-9ea5-3498cac94ef8, udp: true}
-- {name: 🇸🇬 vip1 新加坡-07-SS - FastFly, server: gzyd.jcnode.top, port: 20014, type: ss, cipher: chacha20-ietf-poly1305, password: 354d9748-7a97-44fb-9ea5-3498cac94ef8, udp: true}
-- {name: 🇸🇬 vip1 新加坡-08-SS - FastFly, server: gzdx01.jcnode.top, port: 44773, type: ss, cipher: chacha20-ietf-poly1305, password: 354d9748-7a97-44fb-9ea5-3498cac94ef8, udp: true}
+- {name: 🇸🇬 vip1 新加坡-01-SS - FastFly, server: gzdx.jcnode.top, port: 30139, type: ss, cipher: chacha20-ietf-poly1305, password: a3e90533-78c1-461b-826e-6f6a55e2b0ff, udp: true}
+- {name: 🇸🇬 vip1 新加坡-02-SS - FastFly, server: gzyd.jcnode.top, port: 59211, type: ss, cipher: chacha20-ietf-poly1305, password: a3e90533-78c1-461b-826e-6f6a55e2b0ff, udp: true}
+- {name: 🇸🇬 vip1 新加坡-03-SS - FastFly, server: gzdx01.jcnode.top, port: 41972, type: ss, cipher: chacha20-ietf-poly1305, password: a3e90533-78c1-461b-826e-6f6a55e2b0ff, udp: true}
+- {name: 🇸🇬 vip1 新加坡-06-SS - FastFly, server: gzdx.jcnode.top, port: 30641, type: ss, cipher: chacha20-ietf-poly1305, password: a3e90533-78c1-461b-826e-6f6a55e2b0ff, udp: true}
+- {name: 🇸🇬 vip1 新加坡-07-SS - FastFly, server: gzyd.jcnode.top, port: 20014, type: ss, cipher: chacha20-ietf-poly1305, password: a3e90533-78c1-461b-826e-6f6a55e2b0ff, udp: true}
+- {name: 🇸🇬 vip1 新加坡-08-SS - FastFly, server: gzdx01.jcnode.top, port: 44773, type: ss, cipher: chacha20-ietf-poly1305, password: a3e90533-78c1-461b-826e-6f6a55e2b0ff, udp: true}

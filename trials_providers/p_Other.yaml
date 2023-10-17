@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: ca40a1dd-50ca-35ac-a28f-aadca95d8be2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: ca40a1dd-50ca-35ac-a28f-aadca95d8be2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: f8d598e4-abac-33ff-ac6b-4dc3f9c55e09, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: f8d598e4-abac-33ff-ac6b-4dc3f9c55e09, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：14 天 - FastFly, server: gzdx.jcnode.top, port: 24291, type: ss, cipher: chacha20-ietf-poly1305, password: be5687c0-1af2-4fff-b68c-0cff3bbf91ff, udp: true}
 - {name: 距离下次重置剩余：17 天 - 老猫云, server: cn1.laomao2.xyz, port: 30001, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
 - {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 130060:NmFLc8, obfs-param: '1cfce130060.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}

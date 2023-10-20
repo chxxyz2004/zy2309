@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本-01 | 2X - 凌云网络, server: js1.76po.com, port: 13526, type: vmess, uuid: d499b058-cb8c-459e-954f-360bcfe33af3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-02 | 2X - 凌云网络, server: js1.76po.com, port: 42737, type: vmess, uuid: d499b058-cb8c-459e-954f-360bcfe33af3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-03 | 2X - 凌云网络, server: js1.76po.com, port: 44639, type: vmess, uuid: d499b058-cb8c-459e-954f-360bcfe33af3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-04 | 2X - 凌云网络, server: js1.76po.com, port: 51238, type: vmess, uuid: d499b058-cb8c-459e-954f-360bcfe33af3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-01 | 2X - 凌云网络, server: js1.76po.com, port: 13526, type: vmess, uuid: df1c48ec-f593-4f54-bf6a-e40478756112, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-02 | 2X - 凌云网络, server: js1.76po.com, port: 42737, type: vmess, uuid: df1c48ec-f593-4f54-bf6a-e40478756112, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-03 | 2X - 凌云网络, server: js1.76po.com, port: 44639, type: vmess, uuid: df1c48ec-f593-4f54-bf6a-e40478756112, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-04 | 2X - 凌云网络, server: js1.76po.com, port: 51238, type: vmess, uuid: df1c48ec-f593-4f54-bf6a-e40478756112, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

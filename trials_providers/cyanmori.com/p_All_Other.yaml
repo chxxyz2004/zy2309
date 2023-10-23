@@ -12,5 +12,3 @@ proxies:
 - {name: 🇦🇺 澳大利亚02 - Cyanmori, server: jp1.susenl.com, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: qSlqA9SVtya1hqDB, udp: true}
 - {name: 🇦🇪 迪拜01 - Cyanmori, server: jp1.susenl.com, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: qSlqA9SVtya1hqDB, udp: true}
 - {name: 🇦🇪 迪拜02 - Cyanmori, server: jp1.susenl.com, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: qSlqA9SVtya1hqDB, udp: true}
-- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: f1f04f45-6778-34ad-80f3-52f11a389176, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: f1f04f45-6778-34ad-80f3-52f11a389176, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 vip1 日本-01 - FastFly, server: gzdx.jcnode.top, port: 29223, type: ss, cipher: chacha20-ietf-poly1305, password: 5ed6859a-c14c-4af0-b035-86107013c114, udp: true}
-- {name: 🇯🇵 vip1 日本-02 - FastFly, server: gzyd.jcnode.top, port: 59090, type: ss, cipher: chacha20-ietf-poly1305, password: 5ed6859a-c14c-4af0-b035-86107013c114, udp: true}
-- {name: 🇯🇵 vip1 日本-03 - FastFly, server: gzdx01.jcnode.top, port: 34948, type: ss, cipher: chacha20-ietf-poly1305, password: 5ed6859a-c14c-4af0-b035-86107013c114, udp: true}
-- {name: 🇯🇵 vip1 日本-06 - FastFly, server: gzdx.jcnode.top, port: 55718, type: ss, cipher: chacha20-ietf-poly1305, password: 5ed6859a-c14c-4af0-b035-86107013c114, udp: true}
-- {name: 🇯🇵 vip1 日本-07 - FastFly, server: gzyd.jcnode.top, port: 28397, type: ss, cipher: chacha20-ietf-poly1305, password: 5ed6859a-c14c-4af0-b035-86107013c114, udp: true}
-- {name: 🇯🇵 vip1 日本-08 - FastFly, server: gzdx01.jcnode.top, port: 53958, type: ss, cipher: chacha20-ietf-poly1305, password: 5ed6859a-c14c-4af0-b035-86107013c114, udp: true}
+- {name: 🇯🇵 vip1 日本-01 - FastFly, server: gzdx.jcnode.top, port: 29223, type: ss, cipher: chacha20-ietf-poly1305, password: 2d7673ce-19b8-4c7b-b1c6-c9ab135f8eb6, udp: true}
+- {name: 🇯🇵 vip1 日本-02 - FastFly, server: gzyd.jcnode.top, port: 59090, type: ss, cipher: chacha20-ietf-poly1305, password: 2d7673ce-19b8-4c7b-b1c6-c9ab135f8eb6, udp: true}
+- {name: 🇯🇵 vip1 日本-03 - FastFly, server: gzdx01.jcnode.top, port: 34948, type: ss, cipher: chacha20-ietf-poly1305, password: 2d7673ce-19b8-4c7b-b1c6-c9ab135f8eb6, udp: true}
+- {name: 🇯🇵 vip1 日本-06 - FastFly, server: gzdx.jcnode.top, port: 55718, type: ss, cipher: chacha20-ietf-poly1305, password: 2d7673ce-19b8-4c7b-b1c6-c9ab135f8eb6, udp: true}
+- {name: 🇯🇵 vip1 日本-07 - FastFly, server: gzyd.jcnode.top, port: 28397, type: ss, cipher: chacha20-ietf-poly1305, password: 2d7673ce-19b8-4c7b-b1c6-c9ab135f8eb6, udp: true}
+- {name: 🇯🇵 vip1 日本-08 - FastFly, server: gzdx01.jcnode.top, port: 53958, type: ss, cipher: chacha20-ietf-poly1305, password: 2d7673ce-19b8-4c7b-b1c6-c9ab135f8eb6, udp: true}

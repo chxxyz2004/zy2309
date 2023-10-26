@@ -62,15 +62,15 @@ proxies:
 - {name: 🇺🇸 JCBB_美国05_1【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 17503, type: trojan, password: 770363d2-1a37-46d5-920e-628906697f71, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 JCBB_美国05【vip1】 - JCBB, server: gzyd.jcnode.top, port: 56102, type: trojan, password: 770363d2-1a37-46d5-920e-628906697f71, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 JCBB_美国06【vip1】 - JCBB, server: gzdx.jcnode.top, port: 65097, type: trojan, password: 770363d2-1a37-46d5-920e-628906697f71, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国01 - Cyanmori, server: jp1.susenl.com, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: ao9aZNKM5yUdYUhl, udp: true}
-- {name: 🇺🇸 美国02 - Cyanmori, server: jp1.susenl.com, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: ao9aZNKM5yUdYUhl, udp: true}
-- {name: 🇺🇸 美国03 - Cyanmori, server: jp1.susenl.com, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: ao9aZNKM5yUdYUhl, udp: true}
-- {name: 🇺🇸 美国04 - Cyanmori, server: jp1.susenl.com, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: ao9aZNKM5yUdYUhl, udp: true}
-- {name: 🇺🇸 美国05 - Cyanmori, server: jp1.susenl.com, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: ao9aZNKM5yUdYUhl, udp: true}
+- {name: 🇺🇸 美国01 - Cyanmori, server: jp1.susenl.com, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: rfyo57PdU3ZtlBS9, udp: true}
+- {name: 🇺🇸 美国02 - Cyanmori, server: jp1.susenl.com, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: rfyo57PdU3ZtlBS9, udp: true}
+- {name: 🇺🇸 美国03 - Cyanmori, server: jp1.susenl.com, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: rfyo57PdU3ZtlBS9, udp: true}
+- {name: 🇺🇸 美国04 - Cyanmori, server: jp1.susenl.com, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: rfyo57PdU3ZtlBS9, udp: true}
+- {name: 🇺🇸 美国05 - Cyanmori, server: jp1.susenl.com, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: rfyo57PdU3ZtlBS9, udp: true}
 - {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: 25eed4de-0456-4b20-97b1-00d9cdb451da, udp: true}
 - {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST 加速器, server: tls.biubiufast.quest, port: 32103, type: trojan, password: 25eed4de-0456-4b20-97b1-00d9cdb451da, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19861, type: vmess, uuid: 5c6c2dfb-2e83-3ac4-b7dd-5001523234e1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19862, type: vmess, uuid: 5c6c2dfb-2e83-3ac4-b7dd-5001523234e1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19861, type: vmess, uuid: 12bbc02a-c367-35f0-9b3e-321ea9e2cc93, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19862, type: vmess, uuid: 12bbc02a-c367-35f0-9b3e-321ea9e2cc93, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 【C】美国 普通 1 - CC - SockBoom, server: us1.edge.boom.skin, port: 40000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 943976:R7GfTt, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇺🇸 【C】美国 普通 2 - CC - SockBoom, server: us2.edge.boom.skin, port: 41000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 943976:R7GfTt, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇺🇸 【C】美国 普通 3 - CC - SockBoom, server: us3.edge.boom.skin, port: 42001, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 943976:R7GfTt, obfs-param: download.windowsupdate.com, udp: true}
@@ -126,7 +126,7 @@ proxies:
 - {name: 🇺🇸 美国VIP|高速|节点10 - 恰恰- 有情怀的Ai加速服务商, server: sus115.qiaqia.win, port: 80, type: vmess, uuid: b3934b55-c382-3ae9-87e9-785b84904644, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus115.qiaqia.win}}, udp: true}
 - {name: 🇺🇸 美国01 - Cfcloud, server: llp-shct.acgyt.com, port: 47400, type: ss, cipher: aes-256-gcm, password: a4997171-c677-452e-bc67-165fc9c3f37d, udp: true}
 - {name: 🇺🇸 美国02 - Cfcloud, server: gzdx.acgyt.com, port: 47400, type: ss, cipher: aes-256-gcm, password: a4997171-c677-452e-bc67-165fc9c3f37d, udp: true}
-- {name: 🇺🇸 美国 - 堪萨斯 A - V2Link VPN, server: host-036.crazyspeed.xyz, port: 16010, type: ss, cipher: chacha20-ietf-poly1305, password: ccd9d0f5-f79d-49f5-b22b-944051a91934, udp: true}
+- {name: 🇺🇸 美国 - 凤凰城 - V2Link VPN, server: host-036.crazyspeed.xyz, port: 16010, type: ss, cipher: chacha20-ietf-poly1305, password: ccd9d0f5-f79d-49f5-b22b-944051a91934, udp: true}
 - {name: 🇺🇸 美国 - 圣何塞 A - V2Link VPN, server: host-037.crazyspeed.xyz, port: 16011, type: ss, cipher: chacha20-ietf-poly1305, password: ccd9d0f5-f79d-49f5-b22b-944051a91934, udp: true}
 - {name: 🇺🇸 美国 - 圣何塞 B - V2Link VPN, server: host-038.crazyspeed.xyz, port: 16012, type: ss, cipher: chacha20-ietf-poly1305, password: ccd9d0f5-f79d-49f5-b22b-944051a91934, udp: true}
 - {name: 🇺🇸 美国 - 圣何塞 C - V2Link VPN, server: host-039.crazyspeed.xyz, port: 16013, type: ss, cipher: chacha20-ietf-poly1305, password: ccd9d0f5-f79d-49f5-b22b-944051a91934, udp: true}

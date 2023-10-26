@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 【官网】vtoacc.com - V2Link VPN, server: host-001.crazyspeed.xyz, port: 30501, type: ss, cipher: chacha20-ietf-poly1305, password: ccd9d0f5-f79d-49f5-b22b-944051a91934, udp: true}

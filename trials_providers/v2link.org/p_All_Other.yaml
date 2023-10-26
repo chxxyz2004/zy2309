@@ -1,7 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 【官网】vtoacc.com - V2Link VPN, server: host-001.crazyspeed.xyz, port: 30501, type: ss, cipher: chacha20-ietf-poly1305, password: ccd9d0f5-f79d-49f5-b22b-944051a91934, udp: true}
 - {name: 🇰🇷 韩国 - 首尔 R - V2Link VPN, server: host-026.crazyspeed.xyz, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: ccd9d0f5-f79d-49f5-b22b-944051a91934, udp: true}
 - {name: 🇰🇷 韩国 - 首尔 X - V2Link VPN, server: host-027.crazyspeed.xyz, port: 21007, type: ss, cipher: chacha20-ietf-poly1305, password: ccd9d0f5-f79d-49f5-b22b-944051a91934, udp: true}
 - {name: 🇰🇷 韩国 - 春川 R - V2Link VPN, server: host-028.crazyspeed.xyz, port: 21008, type: ss, cipher: chacha20-ietf-poly1305, password: ccd9d0f5-f79d-49f5-b22b-944051a91934, udp: true}

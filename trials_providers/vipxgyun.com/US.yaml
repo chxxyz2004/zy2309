@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19861, type: vmess, uuid: a88422e1-a9a5-3549-8524-f0f342a3c183, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19862, type: vmess, uuid: a88422e1-a9a5-3549-8524-f0f342a3c183, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19861, type: vmess, uuid: d0e048e8-867d-3a6c-8a82-88492526be9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19862, type: vmess, uuid: d0e048e8-867d-3a6c-8a82-88492526be9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

@@ -112,30 +112,30 @@ proxies:
 - {name: 🇻🇳 JCBB_越南 01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 16242, type: trojan, password: 4ed4cd1f-9735-44b4-9b76-7e981619486f, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 JCBB_越南 02【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 21760, type: trojan, password: 4ed4cd1f-9735-44b4-9b76-7e981619486f, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 JCBB_越南 03【vip1】 - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: 4ed4cd1f-9735-44b4-9b76-7e981619486f, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度01 - Cyanmori, server: jp1.susenl.com, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: Gda33QbPbtx5ca0Z, udp: true}
-- {name: 🇮🇳 印度02 - Cyanmori, server: jp1.susenl.com, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: Gda33QbPbtx5ca0Z, udp: true}
-- {name: 🇰🇷 韩国01 - Cyanmori, server: jp1.susenl.com, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: Gda33QbPbtx5ca0Z, udp: true}
-- {name: 🇰🇷 韩国02 - Cyanmori, server: jp1.susenl.com, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: Gda33QbPbtx5ca0Z, udp: true}
-- {name: 🇬🇧 英国01 - Cyanmori, server: jp1.susenl.com, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: Gda33QbPbtx5ca0Z, udp: true}
-- {name: 🇬🇧 英国02 - Cyanmori, server: jp1.susenl.com, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: Gda33QbPbtx5ca0Z, udp: true}
-- {name: 🇩🇪 德国柏林01 - Cyanmori, server: jp1.susenl.com, port: 10069, type: ss, cipher: chacha20-ietf-poly1305, password: Gda33QbPbtx5ca0Z, udp: true}
-- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: jp1.susenl.com, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: Gda33QbPbtx5ca0Z, udp: true}
-- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: jp1.susenl.com, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: Gda33QbPbtx5ca0Z, udp: true}
-- {name: 🇦🇪 迪拜01 - Cyanmori, server: jp1.susenl.com, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: Gda33QbPbtx5ca0Z, udp: true}
-- {name: 🇦🇪 迪拜02 - Cyanmori, server: jp1.susenl.com, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: Gda33QbPbtx5ca0Z, udp: true}
-- {name: 官网 https://1100.gg（非节点） - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 6d35ff24-6292-36b0-a685-8ba33b06351a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 6d35ff24-6292-36b0-a685-8ba33b06351a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度01 - Cyanmori, server: jp1.susenl.com, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: Mvm7WH1czGBnN07l, udp: true}
+- {name: 🇮🇳 印度02 - Cyanmori, server: jp1.susenl.com, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: Mvm7WH1czGBnN07l, udp: true}
+- {name: 🇰🇷 韩国01 - Cyanmori, server: jp1.susenl.com, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: Mvm7WH1czGBnN07l, udp: true}
+- {name: 🇰🇷 韩国02 - Cyanmori, server: jp1.susenl.com, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: Mvm7WH1czGBnN07l, udp: true}
+- {name: 🇬🇧 英国01 - Cyanmori, server: jp1.susenl.com, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: Mvm7WH1czGBnN07l, udp: true}
+- {name: 🇬🇧 英国02 - Cyanmori, server: jp1.susenl.com, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: Mvm7WH1czGBnN07l, udp: true}
+- {name: 🇩🇪 德国柏林01 - Cyanmori, server: jp1.susenl.com, port: 10069, type: ss, cipher: chacha20-ietf-poly1305, password: Mvm7WH1czGBnN07l, udp: true}
+- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: jp1.susenl.com, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: Mvm7WH1czGBnN07l, udp: true}
+- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: jp1.susenl.com, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: Mvm7WH1czGBnN07l, udp: true}
+- {name: 🇦🇪 迪拜01 - Cyanmori, server: jp1.susenl.com, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: Mvm7WH1czGBnN07l, udp: true}
+- {name: 🇦🇪 迪拜02 - Cyanmori, server: jp1.susenl.com, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: Mvm7WH1czGBnN07l, udp: true}
+- {name: 官网 https://1100.gg（非节点） - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 6b162a0b-0b9a-341c-bfce-10aee7c81a67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 6b162a0b-0b9a-341c-bfce-10aee7c81a67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 31001, type: ss, cipher: chacha20-ietf-poly1305, password: 5edd9cec-676f-415f-b871-c32bf6b87e9a, udp: true}
-- {name: 🇷🇺 俄罗斯 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19894, type: vmess, uuid: 2d311e52-1991-3eb9-bfc1-faadef860ffd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇫🇷 法国 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19892, type: vmess, uuid: 2d311e52-1991-3eb9-bfc1-faadef860ffd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19893, type: vmess, uuid: 2d311e52-1991-3eb9-bfc1-faadef860ffd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇳🇱 荷兰 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19895, type: vmess, uuid: 2d311e52-1991-3eb9-bfc1-faadef860ffd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19891, type: vmess, uuid: 2d311e52-1991-3eb9-bfc1-faadef860ffd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇩 印度尼西亚 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19883, type: vmess, uuid: 2d311e52-1991-3eb9-bfc1-faadef860ffd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇭 泰国 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19884, type: vmess, uuid: 2d311e52-1991-3eb9-bfc1-faadef860ffd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19885, type: vmess, uuid: 2d311e52-1991-3eb9-bfc1-faadef860ffd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19882, type: vmess, uuid: 2d311e52-1991-3eb9-bfc1-faadef860ffd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 土耳其 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19881, type: vmess, uuid: 2d311e52-1991-3eb9-bfc1-faadef860ffd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇷🇺 俄罗斯 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19894, type: vmess, uuid: 27d4e3b5-16a7-37a3-9766-4a881e18842c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇫🇷 法国 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19892, type: vmess, uuid: 27d4e3b5-16a7-37a3-9766-4a881e18842c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19893, type: vmess, uuid: 27d4e3b5-16a7-37a3-9766-4a881e18842c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇳🇱 荷兰 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19895, type: vmess, uuid: 27d4e3b5-16a7-37a3-9766-4a881e18842c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19891, type: vmess, uuid: 27d4e3b5-16a7-37a3-9766-4a881e18842c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇩 印度尼西亚 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19883, type: vmess, uuid: 27d4e3b5-16a7-37a3-9766-4a881e18842c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇭 泰国 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19884, type: vmess, uuid: 27d4e3b5-16a7-37a3-9766-4a881e18842c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19885, type: vmess, uuid: 27d4e3b5-16a7-37a3-9766-4a881e18842c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19882, type: vmess, uuid: 27d4e3b5-16a7-37a3-9766-4a881e18842c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 土耳其 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19881, type: vmess, uuid: 27d4e3b5-16a7-37a3-9766-4a881e18842c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇲🇳 【I】蒙古 普通 A - MN - SockBoom, server: n170.boom.skin, port: 33000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 950039:dY4Sn0, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 新网址：sockboom.link - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
 - {name: 距离下次重置剩余：29 天 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: 74e3bd02-d0d3-4634-b205-dad340623ac0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}

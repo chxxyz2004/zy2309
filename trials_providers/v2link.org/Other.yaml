@@ -9,7 +9,9 @@ proxies:
 - {name: 🇲🇾 马来西亚 - V2Link VPN, server: host-035.crazyspeed.xyz, port: 10355, type: ss, cipher: chacha20-ietf-poly1305, password: 77185bc3-c975-4967-877f-82fe18a636e2, udp: true}
 - {name: 🇨🇦 加拿大 - V2Link VPN, server: host-041.crazyspeed.xyz, port: 16015, type: ss, cipher: chacha20-ietf-poly1305, password: 77185bc3-c975-4967-877f-82fe18a636e2, udp: true}
 - {name: 🇬🇧 英国 01 - V2Link VPN, server: host-043.crazyspeed.xyz, port: 34401, type: ss, cipher: chacha20-ietf-poly1305, password: 77185bc3-c975-4967-877f-82fe18a636e2, udp: true}
+- {name: 🇬🇧 英国 02 - V2Link VPN, server: host-044.crazyspeed.xyz, port: 34402, type: ss, cipher: chacha20-ietf-poly1305, password: 77185bc3-c975-4967-877f-82fe18a636e2, udp: true}
 - {name: 🇩🇪 德国 01 - V2Link VPN, server: host-045.crazyspeed.xyz, port: 34901, type: ss, cipher: chacha20-ietf-poly1305, password: 77185bc3-c975-4967-877f-82fe18a636e2, udp: true}
+- {name: 🇩🇪 德国 02 - V2Link VPN, server: host-046.crazyspeed.xyz, port: 34902, type: ss, cipher: chacha20-ietf-poly1305, password: 77185bc3-c975-4967-877f-82fe18a636e2, udp: true}
 - {name: 🇫🇷 法国 - V2Link VPN, server: host-047.crazyspeed.xyz, port: 34903, type: ss, cipher: chacha20-ietf-poly1305, password: 77185bc3-c975-4967-877f-82fe18a636e2, udp: true}
 - {name: 🇮🇹 意大利 - V2Link VPN, server: host-048.crazyspeed.xyz, port: 34904, type: ss, cipher: chacha20-ietf-poly1305, password: 77185bc3-c975-4967-877f-82fe18a636e2, udp: true}
 - {name: 🇪🇸 西班牙 - V2Link VPN, server: host-049.crazyspeed.xyz, port: 34905, type: ss, cipher: chacha20-ietf-poly1305, password: 77185bc3-c975-4967-877f-82fe18a636e2, udp: true}

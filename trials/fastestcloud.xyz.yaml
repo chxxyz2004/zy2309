@@ -89,6 +89,9 @@ proxy-groups:
   - 🇬🇧 vip1 英国-01 - FastFly
   - 🇬🇧 vip1 英国-02 - FastFly
   - 🇬🇧 vip1 英国-03 - FastFly
+  - 🇲🇾 vip1 马来西亚-01 - FastFly
+  - 🇲🇾 vip1 马来西亚-02 - FastFly
+  - 🇲🇾 vip1 马来西亚-03 - FastFly
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -252,6 +255,9 @@ proxy-groups:
   - 🇬🇧 vip1 英国-01 - FastFly
   - 🇬🇧 vip1 英国-02 - FastFly
   - 🇬🇧 vip1 英国-03 - FastFly
+  - 🇲🇾 vip1 马来西亚-01 - FastFly
+  - 🇲🇾 vip1 马来西亚-02 - FastFly
+  - 🇲🇾 vip1 马来西亚-03 - FastFly
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -334,6 +340,9 @@ proxies:
 - {name: 🇬🇧 vip1 英国-01 - FastFly, server: gdct001.jcnode.top, port: 21781, type: ss, cipher: chacha20-ietf-poly1305, password: 34736d37-f927-4701-b519-8f9987eabe32, udp: true}
 - {name: 🇬🇧 vip1 英国-02 - FastFly, server: gdct003.jcnode.top, port: 40788, type: ss, cipher: chacha20-ietf-poly1305, password: 34736d37-f927-4701-b519-8f9987eabe32, udp: true}
 - {name: 🇬🇧 vip1 英国-03 - FastFly, server: gdct002.jcnode.top, port: 65117, type: ss, cipher: chacha20-ietf-poly1305, password: 34736d37-f927-4701-b519-8f9987eabe32, udp: true}
+- {name: 🇲🇾 vip1 马来西亚-01 - FastFly, server: gdct001.jcnode.top, port: 45175, type: ss, cipher: chacha20-ietf-poly1305, password: 34736d37-f927-4701-b519-8f9987eabe32, udp: true}
+- {name: 🇲🇾 vip1 马来西亚-02 - FastFly, server: gdct003.jcnode.top, port: 10515, type: ss, cipher: chacha20-ietf-poly1305, password: 34736d37-f927-4701-b519-8f9987eabe32, udp: true}
+- {name: 🇲🇾 vip1 马来西亚-03 - FastFly, server: gdct002.jcnode.top, port: 53991, type: ss, cipher: chacha20-ietf-poly1305, password: 34736d37-f927-4701-b519-8f9987eabe32, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

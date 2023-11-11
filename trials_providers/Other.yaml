@@ -8,6 +8,8 @@ proxies:
 - {name: 🇰🇷 韩国 01 - V2Link VPN, server: host-026.crazyspeed.xyz, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: 48a83532-30b7-499e-bac2-535fb1190584, udp: true}
 - {name: 🇰🇷 韩国 02 - V2Link VPN, server: host-027.crazyspeed.xyz, port: 21007, type: ss, cipher: chacha20-ietf-poly1305, password: 48a83532-30b7-499e-bac2-535fb1190584, udp: true}
 - {name: 🇰🇷 韩国 03 - V2Link VPN, server: host-028.crazyspeed.xyz, port: 21008, type: ss, cipher: chacha20-ietf-poly1305, password: 48a83532-30b7-499e-bac2-535fb1190584, udp: true}
+- {name: 🇰🇷 韩国 04 - V2Link VPN, server: host-029.crazyspeed.xyz, port: 21009, type: ss, cipher: chacha20-ietf-poly1305, password: 48a83532-30b7-499e-bac2-535fb1190584, udp: true}
+- {name: 🇰🇷 韩国 05 - V2Link VPN, server: host-030.crazyspeed.xyz, port: 21010, type: ss, cipher: chacha20-ietf-poly1305, password: 48a83532-30b7-499e-bac2-535fb1190584, udp: true}
 - {name: 🇮🇩 雅加达 - V2Link VPN, server: host-034.crazyspeed.xyz, port: 10354, type: ss, cipher: chacha20-ietf-poly1305, password: 48a83532-30b7-499e-bac2-535fb1190584, udp: true}
 - {name: 🇲🇾 马来西亚 - V2Link VPN, server: host-035.crazyspeed.xyz, port: 10355, type: ss, cipher: chacha20-ietf-poly1305, password: 48a83532-30b7-499e-bac2-535fb1190584, udp: true}
 - {name: 🇲🇽 墨西哥 - V2Link VPN, server: host-042.crazyspeed.xyz, port: 16016, type: ss, cipher: chacha20-ietf-poly1305, password: 48a83532-30b7-499e-bac2-535fb1190584, udp: true}
@@ -37,7 +39,7 @@ proxies:
 - {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.v2-ray.cyou, port: 23605, type: vmess, uuid: 2dd9f225-8468-35c4-8353-bc797c847b37, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.v2-ray.cyou}}, udp: true}
 - {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.v2-ray.cyou, port: 23613, type: vmess, uuid: 2dd9f225-8468-35c4-8353-bc797c847b37, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.v2-ray.cyou}}, udp: true}
 - {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 11.v2-ray.cyou, port: 23611, type: vmess, uuid: 2dd9f225-8468-35c4-8353-bc797c847b37, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.v2-ray.cyou}}, udp: true}
-- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 131372:Uw01Cc, obfs-param: '639b8131372.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 131374:TLlM56, obfs-param: 'fae4b131374.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 🇮🇳 印度01 - Cyanmori, server: bcc.xiyun.co, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: lUVtzFXLJrOfV8nd, udp: true}
 - {name: 🇮🇳 印度02 - Cyanmori, server: bcc.xiyun.co, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: lUVtzFXLJrOfV8nd, udp: true}
 - {name: 🇰🇷 韩国01 - Cyanmori, server: bcc.xiyun.co, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: lUVtzFXLJrOfV8nd, udp: true}

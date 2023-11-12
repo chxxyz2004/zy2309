@@ -30,7 +30,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id001
   - 🇭🇰 vip1 香港-01 - FastFly
   - 🇭🇰 vip1 香港-02 - FastFly
@@ -141,8 +141,8 @@ proxy-groups:
 - name: 🇭🇰 ‍香港
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id002
   - 🇭🇰 vip1 香港-01 - FastFly
   - 🇭🇰 vip1 香港-02 - FastFly
@@ -159,8 +159,8 @@ proxy-groups:
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id003
   - 🇹🇼 vip1 台湾-01 - FastFly
   - 🇹🇼 vip1 台湾-02 - FastFly
@@ -171,8 +171,8 @@ proxy-groups:
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id004
   - 🇭🇰 vip1 香港-01 - FastFly
   - 🇭🇰 vip1 香港-02 - FastFly
@@ -195,8 +195,8 @@ proxy-groups:
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id005
   - 🇸🇬 vip1 新加坡-01 - FastFly
   - 🇸🇬 vip1 新加坡-02 - FastFly
@@ -207,8 +207,8 @@ proxy-groups:
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id006
   - 🇯🇵 vip1 日本-01 - FastFly
   - 🇯🇵 vip1 日本-02 - FastFly
@@ -219,8 +219,8 @@ proxy-groups:
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 300
   proxies: &id007
   - 🇺🇸 vip1 美国-01 - FastFly
   - 🇺🇸 vip1 美国-02 - FastFly
@@ -235,7 +235,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id008
   - 🇻🇳 vip1 越南-01 - FastFly
   - 🇻🇳 vip1 越南-02 - FastFly

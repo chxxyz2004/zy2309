@@ -26,7 +26,7 @@ proxy-groups:
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  tolerance: 50
+  tolerance: 100
   use: &id001
   - HK
   - TW
@@ -78,33 +78,33 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
-  tolerance: 50
+  tolerance: 100
   use: &id002
   - HK
 - name: 🇹🇼 ‍台湾
   type: url-test
-  tolerance: 50
+  tolerance: 100
   use: &id003
   - TW
 - name: 🇨🇳 ‍中国
   type: url-test
-  tolerance: 50
+  tolerance: 100
   use: &id004
   - HK
   - TW
 - name: 🇯🇵 ‍日本
   type: url-test
-  tolerance: 50
+  tolerance: 100
   use: &id005
   - JP
 - name: 🇺🇸 ‍美国
   type: url-test
-  tolerance: 50
+  tolerance: 300
   use: &id006
   - US
 - name: 🎏 ‍其他
   type: url-test
-  tolerance: 50
+  tolerance: 100
   use: &id007
   - Other
 - name: 👆🏻 ‍指定

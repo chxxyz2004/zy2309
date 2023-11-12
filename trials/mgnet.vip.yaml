@@ -24,7 +24,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id001
   - 🇸🇬 [vip①]新加坡1 - MG Network
   - 🇯🇵 [vip①]日本1 - MG Network
@@ -77,23 +77,23 @@ proxy-groups:
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id002
   - 🇸🇬 [vip①]新加坡1 - MG Network
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id003
   - 🇯🇵 [vip①]日本1 - MG Network
   - 🇯🇵 [vip①]日本2 - MG Network
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 300
   proxies: &id004
   - 🇺🇸 [vip①]美国1 - MG Network
   - 🇺🇸 [vip①]美国2 - MG Network
@@ -101,7 +101,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id005
   - 🇩🇪 [vip①]德国1 - MG Network
   - 🇩🇪 [vip①]德国2 - MG Network

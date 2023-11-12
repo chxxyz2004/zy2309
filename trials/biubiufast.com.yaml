@@ -24,7 +24,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id001
   - 🇭🇰 香港|SS直连二 - BIUBIU FAST 加速器
   - 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST 加速器
@@ -77,8 +77,8 @@ proxy-groups:
 - name: 🇭🇰 ‍香港
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id002
   - 🇭🇰 香港|SS直连二 - BIUBIU FAST 加速器
   - 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST 加速器
@@ -87,8 +87,8 @@ proxy-groups:
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id003
   - 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器
   - 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器
@@ -96,8 +96,8 @@ proxy-groups:
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 300
   proxies: &id004
   - 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST 加速器
   - 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST 加速器
@@ -105,7 +105,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id005
   - 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST 加速器
 - name: 👆🏻 ‍指定

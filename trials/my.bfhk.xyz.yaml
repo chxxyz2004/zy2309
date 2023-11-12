@@ -18,7 +18,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id001
   - 🇺🇸美国 🌐「达拉斯」 - 北方航空
 - name: 🛩️ ‍墙内
@@ -57,7 +57,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id002
   - 距离下次重置剩余：17 天 - 北方航空
 - name: 👆🏻 ‍指定

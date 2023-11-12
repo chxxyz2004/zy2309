@@ -26,7 +26,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id001
   - 🇭🇰 【A】香港 普通 1 - Nearoute - SockBoom
   - 🇭🇰 【A】香港 普通 A - Nearoute - SockBoom
@@ -127,8 +127,8 @@ proxy-groups:
 - name: 🇭🇰 ‍香港
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id002
   - 🇭🇰 【A】香港 普通 1 - Nearoute - SockBoom
   - 🇭🇰 【A】香港 普通 A - Nearoute - SockBoom
@@ -172,8 +172,8 @@ proxy-groups:
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id003
   - 🇸🇬 【K】新加坡 普通 1 - DO - SockBoom
   - 🇸🇬 【K】新加坡 普通 2 - DO - SockBoom
@@ -185,8 +185,8 @@ proxy-groups:
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id004
   - 🇯🇵 【N】日本 普通 1 - Nerocloud - SockBoom
   - 🇯🇵 【N】日本 普通 2 - Nerocloud - SockBoom
@@ -196,8 +196,8 @@ proxy-groups:
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 300
   proxies: &id005
   - 🇺🇸 【C】美国 普通 1 - CC - SockBoom
   - 🇺🇸 【C】美国 普通 2 - CC - SockBoom
@@ -207,7 +207,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id006
   - 🇲🇳 【I】蒙古 普通 A - MN - SockBoom
 - name: 👆🏻 ‍指定

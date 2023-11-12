@@ -22,7 +22,7 @@ proxy-groups:
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  tolerance: 50
+  tolerance: 100
   use: &id001
   - SG
   - JP
@@ -68,22 +68,22 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇸🇬 ‍新加坡
   type: url-test
-  tolerance: 50
+  tolerance: 100
   use: &id002
   - SG
 - name: 🇯🇵 ‍日本
   type: url-test
-  tolerance: 50
+  tolerance: 100
   use: &id003
   - JP
 - name: 🇺🇸 ‍美国
   type: url-test
-  tolerance: 50
+  tolerance: 300
   use: &id004
   - US
 - name: 🎏 ‍其他
   type: url-test
-  tolerance: 50
+  tolerance: 100
   use: &id005
   - Other
 - name: 👆🏻 ‍指定

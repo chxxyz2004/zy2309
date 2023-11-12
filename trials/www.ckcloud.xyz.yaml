@@ -30,7 +30,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id001
   - 🇭🇰 JCBB_香港01【vip1】 - JCBB
   - 🇭🇰 JCBB_香港02【vip1】 - JCBB
@@ -135,8 +135,8 @@ proxy-groups:
 - name: 🇭🇰 ‍香港
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id002
   - 🇭🇰 JCBB_香港01【vip1】 - JCBB
   - 🇭🇰 JCBB_香港02【vip1】 - JCBB
@@ -153,8 +153,8 @@ proxy-groups:
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id003
   - 🇹🇼 JCBB_ 台湾 01_1【vip1】 - JCBB
   - 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB
@@ -165,8 +165,8 @@ proxy-groups:
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id004
   - 🇭🇰 JCBB_香港01【vip1】 - JCBB
   - 🇭🇰 JCBB_香港02【vip1】 - JCBB
@@ -189,8 +189,8 @@ proxy-groups:
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id005
   - 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB
   - 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB
@@ -201,8 +201,8 @@ proxy-groups:
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 100
   proxies: &id006
   - 🇯🇵 JCBB_日本01【vip1】 - JCBB
   - 🇯🇵 JCBB_日本02【vip1】 - JCBB
@@ -213,8 +213,8 @@ proxy-groups:
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 50
+  interval: 15
+  tolerance: 300
   proxies: &id007
   - 🇺🇸 JCBB_ 美国01【vip1】 - JCBB
   - 🇺🇸 JCBB_ 美国02_1【vip1】 - JCBB
@@ -229,7 +229,7 @@ proxy-groups:
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
-  tolerance: 50
+  tolerance: 100
   proxies: &id008
   - 🇩🇪 JCBB_德国01【vip1】 - JCBB
   - 🇩🇪 JCBB_德国02【vip1】 - JCBB

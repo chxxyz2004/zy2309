@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 【官网】 vtoacc.com - V2Link VPN, server: free.v2aff.link, port: 2053, type: vmess, uuid: 48a83532-30b7-499e-bac2-535fb1190584, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2dassa, headers: {Host: free.v2aff.link}}, udp: true}

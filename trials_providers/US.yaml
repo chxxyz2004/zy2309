@@ -118,8 +118,8 @@ proxies:
 - {name: 🇺🇸 美国 08 - 老猫, server: 878481.laomao2.xyz, port: 30208, type: ss, cipher: chacha20-ietf-poly1305, password: faaafe94-da4b-430a-aca5-32ecd4a84222, udp: true}
 - {name: 🇺🇸 美国 09 - 老猫, server: 65848124.laomao2.xyz, port: 30209, type: ss, cipher: chacha20-ietf-poly1305, password: faaafe94-da4b-430a-aca5-32ecd4a84222, udp: true}
 - {name: 🇺🇸 美国 10 - 老猫, server: 87848154.laomao2.xyz, port: 30210, type: ss, cipher: chacha20-ietf-poly1305, password: faaafe94-da4b-430a-aca5-32ecd4a84222, udp: true}
-- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19861, type: vmess, uuid: 3cad290c-0932-3ff1-afaa-c3e2ccdfd435, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19862, type: vmess, uuid: 3cad290c-0932-3ff1-afaa-c3e2ccdfd435, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19861, type: vmess, uuid: 1ee8a503-bcc4-3fb4-932f-27223ee18e26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: xg.ct1.go002.xyz, port: 19862, type: vmess, uuid: 1ee8a503-bcc4-3fb4-932f-27223ee18e26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-01 | 2X - 凌云网络, server: 1.76po.com, port: 16325, type: vmess, uuid: ad8c43ea-ceec-45d8-bbe6-e979f2a6b0a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-02 | 2X - 凌云网络, server: 1.76po.com, port: 23390, type: vmess, uuid: ad8c43ea-ceec-45d8-bbe6-e979f2a6b0a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-03 | 2X - 凌云网络, server: 1.76po.com, port: 15014, type: vmess, uuid: ad8c43ea-ceec-45d8-bbe6-e979f2a6b0a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

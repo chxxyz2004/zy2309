@@ -6,9 +6,9 @@ proxies:
 - {name: VIP|新加坡🇸🇬04-5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32324, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
 - {name: VIP|新加坡🇸🇬05-5Gbps - 探索者, server: 603diya.donghui.tech, port: 34659, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: VIP|新加坡🇸🇬06-5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32334, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 🇸🇬 新加坡 01 - V2Link VPN, server: host-031.crazyspeed.xyz, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: 4ad89bdf-18f5-4f57-9534-ec4757db4dd8, udp: true}
-- {name: 🇸🇬 新加坡 02 - V2Link VPN, server: host-032.crazyspeed.xyz, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: 4ad89bdf-18f5-4f57-9534-ec4757db4dd8, udp: true}
-- {name: 🇸🇬 新加坡 03 - V2Link VPN, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: 4ad89bdf-18f5-4f57-9534-ec4757db4dd8, udp: true}
+- {name: 🇸🇬 新加坡 01 - V2Link VPN, server: host-031.crazyspeed.xyz, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: d08de31a-7d55-4125-a32a-d66230d33f37, udp: true}
+- {name: 🇸🇬 新加坡 02 - V2Link VPN, server: host-032.crazyspeed.xyz, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: d08de31a-7d55-4125-a32a-d66230d33f37, udp: true}
+- {name: 🇸🇬 新加坡 03 - V2Link VPN, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: d08de31a-7d55-4125-a32a-d66230d33f37, udp: true}
 - {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: f2180d42-e8f6-3206-86ca-cd266380ba95, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
 - {name: 🇸🇬 新加坡01 - Cyanmori, server: bcc.xiyun.co, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: t2Pf4AWVqjaSXXc8, udp: true}
 - {name: 🇸🇬 新加坡02 - Cyanmori, server: bcc.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: t2Pf4AWVqjaSXXc8, udp: true}
@@ -38,18 +38,18 @@ proxies:
 - {name: 🇸🇬 【K】新加坡 普通 5 - DO - SockBoom, server: nkc.boom.skin, port: 22000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 966815:orBWVD, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇸🇬 【K】新加坡 普通 6 - DO - SockBoom, server: nkd.boom.skin, port: 23000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 966815:orBWVD, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇸🇬 【K】新加坡 普通 7 - DO - SockBoom, server: nke.boom.skin, port: 24000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 966815:orBWVD, obfs-param: download.windowsupdate.com, udp: true}
-- {name: 🇸🇬 新加坡 01 - 老猫, server: 5484651.laomao2.xyz, port: 30401, type: ss, cipher: chacha20-ietf-poly1305, password: 5bea9104-425d-4c13-b1cc-342ca15353a5, udp: true}
-- {name: 🇸🇬 新加坡 02 - 老猫, server: 548484.laomao2.xyz, port: 30402, type: ss, cipher: chacha20-ietf-poly1305, password: 5bea9104-425d-4c13-b1cc-342ca15353a5, udp: true}
-- {name: 🇸🇬 新加坡 03 - 老猫, server: 8984848.laomao2.xyz, port: 30403, type: ss, cipher: chacha20-ietf-poly1305, password: 5bea9104-425d-4c13-b1cc-342ca15353a5, udp: true}
-- {name: 🇸🇬 新加坡 04 - 老猫, server: 84849545.laomao2.xyz, port: 30404, type: ss, cipher: chacha20-ietf-poly1305, password: 5bea9104-425d-4c13-b1cc-342ca15353a5, udp: true}
-- {name: 🇸🇬 新加坡 05 - 老猫, server: 984784515.laomao2.xyz, port: 30405, type: ss, cipher: chacha20-ietf-poly1305, password: 5bea9104-425d-4c13-b1cc-342ca15353a5, udp: true}
-- {name: 🇸🇬 新加坡 06 - 老猫, server: 65147484.laomao2.xyz, port: 30406, type: ss, cipher: chacha20-ietf-poly1305, password: 5bea9104-425d-4c13-b1cc-342ca15353a5, udp: true}
-- {name: 🇸🇬 新加坡 07 - 老猫, server: 984584.laomao2.xyz, port: 30407, type: ss, cipher: chacha20-ietf-poly1305, password: 5bea9104-425d-4c13-b1cc-342ca15353a5, udp: true}
-- {name: 🇸🇬 新加坡 08 - 老猫, server: 95848462.laomao2.xyz, port: 30408, type: ss, cipher: chacha20-ietf-poly1305, password: 5bea9104-425d-4c13-b1cc-342ca15353a5, udp: true}
-- {name: 🇸🇬 新加坡 09 - 老猫, server: 98548451.laomao2.xyz, port: 30409, type: ss, cipher: chacha20-ietf-poly1305, password: 5bea9104-425d-4c13-b1cc-342ca15353a5, udp: true}
-- {name: 🇸🇬 新加坡 10 - 老猫, server: 8484615.laomao2.xyz, port: 30410, type: ss, cipher: chacha20-ietf-poly1305, password: 5bea9104-425d-4c13-b1cc-342ca15353a5, udp: true}
-- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19841, type: vmess, uuid: b454ecfd-c6c9-37d1-b177-a6214ab0e7df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19842, type: vmess, uuid: b454ecfd-c6c9-37d1-b177-a6214ab0e7df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 01 - 老猫, server: 5484651.laomao2.xyz, port: 30401, type: ss, cipher: chacha20-ietf-poly1305, password: 503a333b-82cb-4af1-be90-bf2fa7604859, udp: true}
+- {name: 🇸🇬 新加坡 02 - 老猫, server: 548484.laomao2.xyz, port: 30402, type: ss, cipher: chacha20-ietf-poly1305, password: 503a333b-82cb-4af1-be90-bf2fa7604859, udp: true}
+- {name: 🇸🇬 新加坡 03 - 老猫, server: 8984848.laomao2.xyz, port: 30403, type: ss, cipher: chacha20-ietf-poly1305, password: 503a333b-82cb-4af1-be90-bf2fa7604859, udp: true}
+- {name: 🇸🇬 新加坡 04 - 老猫, server: 84849545.laomao2.xyz, port: 30404, type: ss, cipher: chacha20-ietf-poly1305, password: 503a333b-82cb-4af1-be90-bf2fa7604859, udp: true}
+- {name: 🇸🇬 新加坡 05 - 老猫, server: 984784515.laomao2.xyz, port: 30405, type: ss, cipher: chacha20-ietf-poly1305, password: 503a333b-82cb-4af1-be90-bf2fa7604859, udp: true}
+- {name: 🇸🇬 新加坡 06 - 老猫, server: 65147484.laomao2.xyz, port: 30406, type: ss, cipher: chacha20-ietf-poly1305, password: 503a333b-82cb-4af1-be90-bf2fa7604859, udp: true}
+- {name: 🇸🇬 新加坡 07 - 老猫, server: 984584.laomao2.xyz, port: 30407, type: ss, cipher: chacha20-ietf-poly1305, password: 503a333b-82cb-4af1-be90-bf2fa7604859, udp: true}
+- {name: 🇸🇬 新加坡 08 - 老猫, server: 95848462.laomao2.xyz, port: 30408, type: ss, cipher: chacha20-ietf-poly1305, password: 503a333b-82cb-4af1-be90-bf2fa7604859, udp: true}
+- {name: 🇸🇬 新加坡 09 - 老猫, server: 98548451.laomao2.xyz, port: 30409, type: ss, cipher: chacha20-ietf-poly1305, password: 503a333b-82cb-4af1-be90-bf2fa7604859, udp: true}
+- {name: 🇸🇬 新加坡 10 - 老猫, server: 8484615.laomao2.xyz, port: 30410, type: ss, cipher: chacha20-ietf-poly1305, password: 503a333b-82cb-4af1-be90-bf2fa7604859, udp: true}
+- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19841, type: vmess, uuid: 76e57601-c553-3144-b695-652beb0b9e44, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19842, type: vmess, uuid: 76e57601-c553-3144-b695-652beb0b9e44, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: js1.76po.com, port: 26480, type: vmess, uuid: ad8c43ea-ceec-45d8-bbe6-e979f2a6b0a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: gdct001.jcnode.top, port: 30139, type: ss, cipher: chacha20-ietf-poly1305, password: 0ddf6508-3b2a-43d5-abd3-32c64957cbad, udp: true}
 - {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: gdct003.jcnode.top, port: 59211, type: ss, cipher: chacha20-ietf-poly1305, password: 0ddf6508-3b2a-43d5-abd3-32c64957cbad, udp: true}

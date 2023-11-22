@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：8 天 - FastFly, server: gdct001.theyydsnode.top, port: 29223, type: ss, cipher: chacha20-ietf-poly1305, password: 7204b54f-41f8-458f-9d1f-fdb68c4a7c41, udp: true}
+- {name: 距离下次重置剩余：7 天 - FastFly, server: gdct001.theyydsnode.top, port: 29223, type: ss, cipher: chacha20-ietf-poly1305, password: 7204b54f-41f8-458f-9d1f-fdb68c4a7c41, udp: true}
 - {name: 🇻🇳 vip1 越南-01 - FastFly, server: gdct001.theyydsnode.top, port: 24291, type: ss, cipher: chacha20-ietf-poly1305, password: 7204b54f-41f8-458f-9d1f-fdb68c4a7c41, udp: true}
 - {name: 🇻🇳 vip1 越南-02 - FastFly, server: gdct003.theyydsnode.top, port: 33534, type: ss, cipher: chacha20-ietf-poly1305, password: 7204b54f-41f8-458f-9d1f-fdb68c4a7c41, udp: true}
 - {name: 🇻🇳 vip1 越南-03 - FastFly, server: gdct002.theyydsnode.top, port: 23761, type: ss, cipher: chacha20-ietf-poly1305, password: 7204b54f-41f8-458f-9d1f-fdb68c4a7c41, udp: true}

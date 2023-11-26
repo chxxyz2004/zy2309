@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 01 - V2Link VPN, server: host-036.crazyspeed.xyz, port: 16010, type: ss, cipher: chacha20-ietf-poly1305, password: 0f0acaf5-e515-48e7-b6f2-6e3ec7bc35d4, udp: true}
-- {name: 🇺🇸 美国 02 - V2Link VPN, server: host-037.crazyspeed.xyz, port: 16011, type: ss, cipher: chacha20-ietf-poly1305, password: 0f0acaf5-e515-48e7-b6f2-6e3ec7bc35d4, udp: true}
-- {name: 🇺🇸 美国 03 - V2Link VPN, server: host-038.crazyspeed.xyz, port: 16012, type: ss, cipher: chacha20-ietf-poly1305, password: 0f0acaf5-e515-48e7-b6f2-6e3ec7bc35d4, udp: true}
-- {name: 🇺🇸 美国 04 - V2Link VPN, server: host-039.crazyspeed.xyz, port: 16013, type: ss, cipher: chacha20-ietf-poly1305, password: 0f0acaf5-e515-48e7-b6f2-6e3ec7bc35d4, udp: true}
-- {name: 🇺🇸 美国 05 - V2Link VPN, server: host-040.crazyspeed.xyz, port: 16014, type: ss, cipher: chacha20-ietf-poly1305, password: 0f0acaf5-e515-48e7-b6f2-6e3ec7bc35d4, udp: true}
+- {name: 🇺🇸 美国 01 - V2Link VPN, server: host-036.crazyspeed.xyz, port: 16010, type: ss, cipher: chacha20-ietf-poly1305, password: 5d8db4bb-10c3-4da2-abe2-ee7217f250b8, udp: true}
+- {name: 🇺🇸 美国 02 - V2Link VPN, server: host-037.crazyspeed.xyz, port: 16011, type: ss, cipher: chacha20-ietf-poly1305, password: 5d8db4bb-10c3-4da2-abe2-ee7217f250b8, udp: true}
+- {name: 🇺🇸 美国 03 - V2Link VPN, server: host-038.crazyspeed.xyz, port: 16012, type: ss, cipher: chacha20-ietf-poly1305, password: 5d8db4bb-10c3-4da2-abe2-ee7217f250b8, udp: true}
+- {name: 🇺🇸 美国 04 - V2Link VPN, server: host-039.crazyspeed.xyz, port: 16013, type: ss, cipher: chacha20-ietf-poly1305, password: 5d8db4bb-10c3-4da2-abe2-ee7217f250b8, udp: true}
+- {name: 🇺🇸 美国 05 - V2Link VPN, server: host-040.crazyspeed.xyz, port: 16014, type: ss, cipher: chacha20-ietf-poly1305, password: 5d8db4bb-10c3-4da2-abe2-ee7217f250b8, udp: true}

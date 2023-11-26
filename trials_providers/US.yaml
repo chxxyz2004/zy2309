@@ -43,11 +43,11 @@ proxies:
 - {name: 🇺🇸 v2ray 美国阿什本节点VIP B-CDN - 紫云VPN服务商, server: aab.997755.xyz, port: 443, type: vmess, uuid: c9ce23b2-9851-3b02-bd95-cca9b28762a5, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: aab.997755.xyz}}, udp: true}
 - {name: 🇺🇸 美国01 - Cfcloud, server: llp-shct.acgyt.com, port: 47400, type: ss, cipher: aes-256-gcm, password: a4997171-c677-452e-bc67-165fc9c3f37d, udp: true}
 - {name: 🇺🇸 美国02 - Cfcloud, server: gzdx.acgyt.com, port: 47400, type: ss, cipher: aes-256-gcm, password: a4997171-c677-452e-bc67-165fc9c3f37d, udp: true}
-- {name: 🇺🇸 美国01 - Cyanmori, server: bcc.xiyun.co, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: cmGQm9AFsbvPEIiU, udp: true}
-- {name: 🇺🇸 美国02 - Cyanmori, server: bcc.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: cmGQm9AFsbvPEIiU, udp: true}
-- {name: 🇺🇸 美国03 - Cyanmori, server: bcc.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: cmGQm9AFsbvPEIiU, udp: true}
-- {name: 🇺🇸 美国04 - Cyanmori, server: bcc.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: cmGQm9AFsbvPEIiU, udp: true}
-- {name: 🇺🇸 美国05 - Cyanmori, server: bcc.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: cmGQm9AFsbvPEIiU, udp: true}
+- {name: 🇺🇸 美国01 - Cyanmori, server: bcc.xiyun.co, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: rOHEhNCAGQgANeB9, udp: true}
+- {name: 🇺🇸 美国02 - Cyanmori, server: bcc.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: rOHEhNCAGQgANeB9, udp: true}
+- {name: 🇺🇸 美国03 - Cyanmori, server: bcc.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: rOHEhNCAGQgANeB9, udp: true}
+- {name: 🇺🇸 美国04 - Cyanmori, server: bcc.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: rOHEhNCAGQgANeB9, udp: true}
+- {name: 🇺🇸 美国05 - Cyanmori, server: bcc.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: rOHEhNCAGQgANeB9, udp: true}
 - {name: 🇺🇸 美国01 - 老猫, server: 95848.laomao-53875.xyz, port: 50201, type: trojan, password: 059fe013-c0a7-4efc-b438-99649b984f4b, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国02 - 老猫, server: 95348.laomao-53875.xyz, port: 50202, type: trojan, password: 059fe013-c0a7-4efc-b438-99649b984f4b, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国03 - 老猫, server: 95341.laomao-53875.xyz, port: 50203, type: trojan, password: 059fe013-c0a7-4efc-b438-99649b984f4b, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}

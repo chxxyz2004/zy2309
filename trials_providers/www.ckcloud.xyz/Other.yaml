@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：3 天 - JCBB, server: gdct003.theyydsnode.top, port: 56102, type: trojan, password: 6d0bf800-b9f5-4481-a7be-c7b4b33b2ed6, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：2 天 - JCBB, server: gdct003.theyydsnode.top, port: 56102, type: trojan, password: 6d0bf800-b9f5-4481-a7be-c7b4b33b2ed6, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
 - {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gdct003.theyydsnode.top, port: 56102, type: trojan, password: 6d0bf800-b9f5-4481-a7be-c7b4b33b2ed6, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 JCBB_德国01【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 15431, type: trojan, password: 6d0bf800-b9f5-4481-a7be-c7b4b33b2ed6, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 JCBB_德国02【vip1】 - JCBB, server: gdct002.theyydsnode.top, port: 16525, type: trojan, password: 6d0bf800-b9f5-4481-a7be-c7b4b33b2ed6, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}

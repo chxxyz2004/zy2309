@@ -71,9 +71,6 @@ proxy-groups:
   - 🇺🇸 vip1 美国-11 - FastFly
   - 🇺🇸 vip1 美国-12 - FastFly
   - 🇺🇸 vip1 美国-13 - FastFly
-  - 🇻🇳 vip1 越南-01 - FastFly
-  - 🇻🇳 vip1 越南-02 - FastFly
-  - 🇻🇳 vip1 越南-03 - FastFly
   - 🇮🇳 vip1 印度-01 - FastFly
   - 🇮🇳 vip1 印度-02 - FastFly
   - 🇮🇳 vip1 印度-03 - FastFly
@@ -237,9 +234,6 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id008
-  - 🇻🇳 vip1 越南-01 - FastFly
-  - 🇻🇳 vip1 越南-02 - FastFly
-  - 🇻🇳 vip1 越南-03 - FastFly
   - 🇮🇳 vip1 印度-01 - FastFly
   - 🇮🇳 vip1 印度-02 - FastFly
   - 🇮🇳 vip1 印度-03 - FastFly
@@ -322,9 +316,6 @@ proxies:
 - {name: 🇺🇸 vip1 美国-11 - FastFly, server: gdct001.theyydsnode.top, port: 43441, type: ss, cipher: chacha20-ietf-poly1305, password: 1f80ef3d-df87-49be-a1c6-78d5ae69155b, udp: true}
 - {name: 🇺🇸 vip1 美国-12 - FastFly, server: gdct003.theyydsnode.top, port: 41868, type: ss, cipher: chacha20-ietf-poly1305, password: 1f80ef3d-df87-49be-a1c6-78d5ae69155b, udp: true}
 - {name: 🇺🇸 vip1 美国-13 - FastFly, server: shcm002.theyydsnode.top, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: 1f80ef3d-df87-49be-a1c6-78d5ae69155b, udp: true}
-- {name: 🇻🇳 vip1 越南-01 - FastFly, server: gdct001.theyydsnode.top, port: 24291, type: ss, cipher: chacha20-ietf-poly1305, password: 1f80ef3d-df87-49be-a1c6-78d5ae69155b, udp: true}
-- {name: 🇻🇳 vip1 越南-02 - FastFly, server: gdct003.theyydsnode.top, port: 33534, type: ss, cipher: chacha20-ietf-poly1305, password: 1f80ef3d-df87-49be-a1c6-78d5ae69155b, udp: true}
-- {name: 🇻🇳 vip1 越南-03 - FastFly, server: shcm002.theyydsnode.top, port: 54295, type: ss, cipher: chacha20-ietf-poly1305, password: 1f80ef3d-df87-49be-a1c6-78d5ae69155b, udp: true}
 - {name: 🇮🇳 vip1 印度-01 - FastFly, server: gdct001.theyydsnode.top, port: 37169, type: ss, cipher: chacha20-ietf-poly1305, password: 1f80ef3d-df87-49be-a1c6-78d5ae69155b, udp: true}
 - {name: 🇮🇳 vip1 印度-02 - FastFly, server: gdct003.theyydsnode.top, port: 25997, type: ss, cipher: chacha20-ietf-poly1305, password: 1f80ef3d-df87-49be-a1c6-78d5ae69155b, udp: true}
 - {name: 🇮🇳 vip1 印度-03 - FastFly, server: shcm002.theyydsnode.top, port: 45852, type: ss, cipher: chacha20-ietf-poly1305, password: 1f80ef3d-df87-49be-a1c6-78d5ae69155b, udp: true}

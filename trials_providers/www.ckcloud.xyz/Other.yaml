@@ -15,3 +15,6 @@ proxies:
 - {name: 🇹🇷 JCBB_土耳其 01【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 52546, type: trojan, password: 28807dcc-2003-4e8e-8aeb-59e37ac88cfa, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇷 JCBB_土耳其 02【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 46541, type: trojan, password: 28807dcc-2003-4e8e-8aeb-59e37ac88cfa, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇷 JCBB_土耳其 03【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 60293, type: trojan, password: 28807dcc-2003-4e8e-8aeb-59e37ac88cfa, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 JCBB_越南 01【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 16242, type: trojan, password: 28807dcc-2003-4e8e-8aeb-59e37ac88cfa, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 JCBB_越南 02【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 16343, type: trojan, password: 28807dcc-2003-4e8e-8aeb-59e37ac88cfa, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 JCBB_越南 03【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 17022, type: trojan, password: 28807dcc-2003-4e8e-8aeb-59e37ac88cfa, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}

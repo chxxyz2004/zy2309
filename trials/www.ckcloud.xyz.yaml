@@ -83,6 +83,9 @@ proxy-groups:
   - 🇹🇷 JCBB_土耳其 01【vip1】 - JCBB
   - 🇹🇷 JCBB_土耳其 02【vip1】 - JCBB
   - 🇹🇷 JCBB_土耳其 03【vip1】 - JCBB
+  - 🇻🇳 JCBB_越南 01【vip1】 - JCBB
+  - 🇻🇳 JCBB_越南 02【vip1】 - JCBB
+  - 🇻🇳 JCBB_越南 03【vip1】 - JCBB
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -240,6 +243,9 @@ proxy-groups:
   - 🇹🇷 JCBB_土耳其 01【vip1】 - JCBB
   - 🇹🇷 JCBB_土耳其 02【vip1】 - JCBB
   - 🇹🇷 JCBB_土耳其 03【vip1】 - JCBB
+  - 🇻🇳 JCBB_越南 01【vip1】 - JCBB
+  - 🇻🇳 JCBB_越南 02【vip1】 - JCBB
+  - 🇻🇳 JCBB_越南 03【vip1】 - JCBB
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -307,6 +313,9 @@ proxies:
 - {name: 🇹🇷 JCBB_土耳其 01【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 52546, type: trojan, password: 28807dcc-2003-4e8e-8aeb-59e37ac88cfa, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇷 JCBB_土耳其 02【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 46541, type: trojan, password: 28807dcc-2003-4e8e-8aeb-59e37ac88cfa, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇷 JCBB_土耳其 03【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 60293, type: trojan, password: 28807dcc-2003-4e8e-8aeb-59e37ac88cfa, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 JCBB_越南 01【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 16242, type: trojan, password: 28807dcc-2003-4e8e-8aeb-59e37ac88cfa, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 JCBB_越南 02【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 16343, type: trojan, password: 28807dcc-2003-4e8e-8aeb-59e37ac88cfa, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 JCBB_越南 03【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 17022, type: trojan, password: 28807dcc-2003-4e8e-8aeb-59e37ac88cfa, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 JCBB_ 美国01【vip1】 - JCBB, server: gdct003.jcnode.top, port: 38381, type: vmess, uuid: 28807dcc-2003-4e8e-8aeb-59e37ac88cfa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gdct003.jcnode.top}}, udp: true}
 - {name: 🇺🇸 JCBB_ 美国02_1【vip1】 - JCBB, server: gdct002.jcnode.top, port: 20153, type: vmess, uuid: 28807dcc-2003-4e8e-8aeb-59e37ac88cfa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gdct002.jcnode.top}}, udp: true}
 - {name: 🇺🇸 JCBB_ 美国02【vip1】 - JCBB, server: gdct001.jcnode.top, port: 28204, type: vmess, uuid: 28807dcc-2003-4e8e-8aeb-59e37ac88cfa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gdct001.jcnode.top}}, udp: true}

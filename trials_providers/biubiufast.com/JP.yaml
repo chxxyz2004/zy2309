@@ -3,4 +3,4 @@
 proxies:
 - {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: 9237fd0f-28d5-4d98-8f8b-3d8acaed0bfc, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 9237fd0f-28d5-4d98-8f8b-3d8acaed0bfc, udp: true}
-- {name: 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST 加速器, server: tls.biubiufast.quest, port: 32100, type: trojan, password: 9237fd0f-28d5-4d98-8f8b-3d8acaed0bfc, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST 加速器, server: expone.divland.xyz, port: 33100, type: trojan, password: 9237fd0f-28d5-4d98-8f8b-3d8acaed0bfc, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}

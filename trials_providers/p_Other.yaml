@@ -3,8 +3,8 @@
 proxies:
 - {name: 距离下次重置剩余：7 天 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 3631ff14-58d7-45db-8bdd-9cb2bbbfe53f, udp: true}
 - {name: 免费计划仅包含4个节点，要获取全部节点，请购买付费套餐。 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: 3631ff14-58d7-45db-8bdd-9cb2bbbfe53f, udp: true}
-- {name: 距离下次重置剩余：21 天 - JCBB, server: gdct003.theyydsnode.top, port: 56102, type: trojan, password: d4e16715-f717-479e-b77f-e58e450c4d68, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
-- {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gdct003.theyydsnode.top, port: 56102, type: trojan, password: d4e16715-f717-479e-b77f-e58e450c4d68, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：21 天 - JCBB, server: gdct003.theyydsnode.top, port: 56102, type: trojan, password: bfd7312d-0f28-4102-a114-c468822372cd, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
+- {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gdct003.theyydsnode.top, port: 56102, type: trojan, password: bfd7312d-0f28-4102-a114-c468822372cd, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
 - {name: 新网址：sockboom.id - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
 - {name: 官网 https://1100.gg（非节点） - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: fd15c299-018f-32a5-b868-d8ec0d640968, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: fd15c299-018f-32a5-b868-d8ec0d640968, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

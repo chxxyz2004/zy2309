@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：11 天 - FastFly, server: gdct001.theyydsnode.top, port: 29223, type: ss, cipher: chacha20-ietf-poly1305, password: 9717ceb4-d6a0-4b99-9881-df5e0ab66c17, udp: true}
+- {name: 距离下次重置剩余：11 天 - FastFly, server: gdct001.theyydsnode.top, port: 29223, type: ss, cipher: chacha20-ietf-poly1305, password: a6664585-47a7-46bf-8b76-7384e4cf2041, udp: true}

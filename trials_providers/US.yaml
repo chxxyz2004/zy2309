@@ -14,10 +14,10 @@ proxies:
 - {name: 🇺🇸 vip1 美国-13 - FastFly, server: shcm002.theyydsnode.top, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: 9717ceb4-d6a0-4b99-9881-df5e0ab66c17, udp: true}
 - {name: 🇺🇸 JCBB_ 美国01【vip1】 - JCBB, server: gdct003.jcnode.top, port: 38381, type: vmess, uuid: 19d0128d-db80-428c-b8e1-d8fa88dfe86f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gdct003.jcnode.top}}, udp: true}
 - {name: 🇺🇸 JCBB_ 美国02_1【vip1】 - JCBB, server: gdct002.jcnode.top, port: 20153, type: vmess, uuid: 19d0128d-db80-428c-b8e1-d8fa88dfe86f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gdct002.jcnode.top}}, udp: true}
-- {name: 🇺🇸 JCBB_ 美国02【vip1】 - JCBB, server: gdct001.jcnode.top, port: 28204, type: vmess, uuid: 19d0128d-db80-428c-b8e1-d8fa88dfe86f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gdct001.jcnode.top}}, udp: true}
+- {name: 🇺🇸 JCBB_ 美国02【vip1】 - JCBB, server: gdct002.theyydsnode.top, port: 28204, type: vmess, uuid: 19d0128d-db80-428c-b8e1-d8fa88dfe86f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gdct002.theyydsnode.top}}, udp: true}
 - {name: 🇺🇸 JCBB_ 美国 03【vip1】 - JCBB, server: gdct003.jcnode.top, port: 21036, type: vmess, uuid: 19d0128d-db80-428c-b8e1-d8fa88dfe86f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gdct003.jcnode.top}}, udp: true}
 - {name: 🇺🇸 JCBB_ 美国 04_1【vip1】 - JCBB, server: gdct002.jcnode.top, port: 26611, type: vmess, uuid: 19d0128d-db80-428c-b8e1-d8fa88dfe86f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gdct002.jcnode.top}}, udp: true}
-- {name: 🇺🇸 JCBB_ 美国 04【vip1】 - JCBB, server: gdct001.jcnode.top, port: 62684, type: vmess, uuid: 19d0128d-db80-428c-b8e1-d8fa88dfe86f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gdct001.jcnode.top}}, udp: true}
+- {name: 🇺🇸 JCBB_ 美国 04【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 62684, type: vmess, uuid: 19d0128d-db80-428c-b8e1-d8fa88dfe86f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gdct001.theyydsnode.top}}, udp: true}
 - {name: 🇺🇸 JCBB_美国05_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 26681, type: trojan, password: 19d0128d-db80-428c-b8e1-d8fa88dfe86f, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 JCBB_美国05【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 56102, type: trojan, password: 19d0128d-db80-428c-b8e1-d8fa88dfe86f, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 JCBB_美国06【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 65097, type: trojan, password: 19d0128d-db80-428c-b8e1-d8fa88dfe86f, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
@@ -93,12 +93,12 @@ proxies:
 - {name: 🇺🇸 美国 03 - V2Link VPN, server: host-038.crazyspeed.xyz, port: 16012, type: ss, cipher: chacha20-ietf-poly1305, password: 90cfc577-6d59-4bf8-b2e4-9f7f842d5c8e, udp: true}
 - {name: 🇺🇸 美国 04 - V2Link VPN, server: host-039.crazyspeed.xyz, port: 16013, type: ss, cipher: chacha20-ietf-poly1305, password: 90cfc577-6d59-4bf8-b2e4-9f7f842d5c8e, udp: true}
 - {name: 🇺🇸 美国 05 - V2Link VPN, server: host-040.crazyspeed.xyz, port: 16014, type: ss, cipher: chacha20-ietf-poly1305, password: 90cfc577-6d59-4bf8-b2e4-9f7f842d5c8e, udp: true}
-- {name: 🇺🇸 美国01 - Cyanmori, server: bcc.xiyun.co, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: g40ldEPTNd8eEgPE, udp: true}
-- {name: 🇺🇸 美国02 - Cyanmori, server: bcc.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: g40ldEPTNd8eEgPE, udp: true}
-- {name: 🇺🇸 美国03 - Cyanmori, server: bcc.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: g40ldEPTNd8eEgPE, udp: true}
-- {name: 🇺🇸 美国04 - Cyanmori, server: bcc.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: g40ldEPTNd8eEgPE, udp: true}
-- {name: 🇺🇸 美国05 - Cyanmori, server: bcc.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: g40ldEPTNd8eEgPE, udp: true}
-- {name: 🇺🇸 美国06 - Cyanmori, server: bcc.xiyun.co, port: 20036, type: ss, cipher: chacha20-ietf-poly1305, password: g40ldEPTNd8eEgPE, udp: true}
+- {name: 🇺🇸 美国01 - Cyanmori, server: bcc.xiyun.co, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: y0oBb5P7qL150SWz, udp: true}
+- {name: 🇺🇸 美国02 - Cyanmori, server: bcc.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: y0oBb5P7qL150SWz, udp: true}
+- {name: 🇺🇸 美国03 - Cyanmori, server: bcc.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: y0oBb5P7qL150SWz, udp: true}
+- {name: 🇺🇸 美国04 - Cyanmori, server: bcc.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: y0oBb5P7qL150SWz, udp: true}
+- {name: 🇺🇸 美国05 - Cyanmori, server: bcc.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: y0oBb5P7qL150SWz, udp: true}
+- {name: 🇺🇸 美国06 - Cyanmori, server: bcc.xiyun.co, port: 20036, type: ss, cipher: chacha20-ietf-poly1305, password: y0oBb5P7qL150SWz, udp: true}
 - {name: 🇺🇸 美国01 - Cfcloud, server: llp-shct.acgyt.com, port: 47400, type: ss, cipher: aes-256-gcm, password: a4997171-c677-452e-bc67-165fc9c3f37d, udp: true}
 - {name: 🇺🇸 美国02 - Cfcloud, server: gzdx.acgyt.com, port: 47400, type: ss, cipher: aes-256-gcm, password: a4997171-c677-452e-bc67-165fc9c3f37d, udp: true}
 - {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 29811, type: vmess, uuid: bfa036db-6f26-3b91-b12c-21088385df8f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

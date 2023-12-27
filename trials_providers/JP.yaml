@@ -1,15 +1,15 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: 915304d4-49e1-44e1-8bd1-a08deee69698, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 915304d4-49e1-44e1-8bd1-a08deee69698, udp: true}
-- {name: 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST 加速器, server: gzcmasdjhuiqdhw.dfcloud.xyz, port: 32101, type: trojan, password: 915304d4-49e1-44e1-8bd1-a08deee69698, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-01 - FastFly, server: gdct001.theyydsnode.top, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 8ca0028d-63d0-4218-828c-bcfae8fb1f55, udp: true}
-- {name: 🇯🇵 vip1 日本-02 - FastFly, server: gdct003.theyydsnode.top, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 8ca0028d-63d0-4218-828c-bcfae8fb1f55, udp: true}
-- {name: 🇯🇵 vip1 日本-03 - FastFly, server: shcm002.theyydsnode.top, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 8ca0028d-63d0-4218-828c-bcfae8fb1f55, udp: true}
-- {name: 🇯🇵 vip1 日本-06 - FastFly, server: gdct001.theyydsnode.top, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 8ca0028d-63d0-4218-828c-bcfae8fb1f55, udp: true}
-- {name: 🇯🇵 vip1 日本-07 - FastFly, server: gdct003.theyydsnode.top, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 8ca0028d-63d0-4218-828c-bcfae8fb1f55, udp: true}
-- {name: 🇯🇵 vip1 日本-08 - FastFly, server: shcm002.theyydsnode.top, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 8ca0028d-63d0-4218-828c-bcfae8fb1f55, udp: true}
+- {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: 2f08dfd5-c4f3-46d9-8470-0c62fc9da500, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 2f08dfd5-c4f3-46d9-8470-0c62fc9da500, udp: true}
+- {name: 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST 加速器, server: gzcmasdjhuiqdhw.dfcloud.xyz, port: 32101, type: trojan, password: 2f08dfd5-c4f3-46d9-8470-0c62fc9da500, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-01 - FastFly, server: gdct001.theyydsnode.top, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 2f3641ff-70e3-4553-981d-0be6dc97ee92, udp: true}
+- {name: 🇯🇵 vip1 日本-02 - FastFly, server: gdct003.theyydsnode.top, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 2f3641ff-70e3-4553-981d-0be6dc97ee92, udp: true}
+- {name: 🇯🇵 vip1 日本-03 - FastFly, server: shcm002.theyydsnode.top, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 2f3641ff-70e3-4553-981d-0be6dc97ee92, udp: true}
+- {name: 🇯🇵 vip1 日本-06 - FastFly, server: gdct001.theyydsnode.top, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 2f3641ff-70e3-4553-981d-0be6dc97ee92, udp: true}
+- {name: 🇯🇵 vip1 日本-07 - FastFly, server: gdct003.theyydsnode.top, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 2f3641ff-70e3-4553-981d-0be6dc97ee92, udp: true}
+- {name: 🇯🇵 vip1 日本-08 - FastFly, server: shcm002.theyydsnode.top, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 2f3641ff-70e3-4553-981d-0be6dc97ee92, udp: true}
 - {name: 🇯🇵 JCBB_日本01【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 10327, type: trojan, password: b539b4aa-9980-4e21-9e06-cb2caac99164, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 JCBB_日本02【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 10327, type: trojan, password: b539b4aa-9980-4e21-9e06-cb2caac99164, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 JCBB_日本03【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 10327, type: trojan, password: b539b4aa-9980-4e21-9e06-cb2caac99164, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
@@ -73,8 +73,8 @@ proxies:
 - {name: 🇯🇵 日本02 - Cyanmori, server: bcc.xiyun.co, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: t7jKw1wJiGTLf5vo, udp: true}
 - {name: 🇯🇵 日本03 - Cyanmori, server: bcc.xiyun.co, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: t7jKw1wJiGTLf5vo, udp: true}
 - {name: 🇯🇵 日本04 - Cyanmori, server: bcc.xiyun.co, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: t7jKw1wJiGTLf5vo, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: 4b406b3a-7683-3a25-af67-653fe3f405f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: 4b406b3a-7683-3a25-af67-653fe3f405f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: efaa2fe9-bf90-380f-b49f-350d16bf913c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: efaa2fe9-bf90-380f-b49f-350d16bf913c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 日本A🇯🇵 - 探索者, server: 603diya.donghui.tech, port: 34650, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: 日本B🇯🇵 - 探索者, server: 603diya.donghui.tech, port: 34635, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: VIP｜日本004🇯🇵—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32339, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}

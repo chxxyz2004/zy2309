@@ -53,7 +53,7 @@ proxy-groups:
   type: select
   proxies: *id001
 proxies:
-- {name: 🇱🇦 请登录https://laomaoyun.net 续费 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: b038ecd6-75f5-4db7-b612-3c0be808bdec, udp: true}
+- {name: 🇱🇦 请登录https://laomaoyun.net 续费 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: c688e608-a19d-4e13-9139-300fb183b82a, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -121,6 +121,11 @@ rules:
 - DOMAIN,rewards.hypixel.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,koodomobile.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,koodomobile.ca,🛩️ ‍墙内
+- DOMAIN-SUFFIX,sigmob.cn,💩 ‍广告
+- DOMAIN,open.e.kuaishou.com,💩 ‍广告
+- DOMAIN,open.e.kuaishou.cn,💩 ‍广告
+- DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com,💩 ‍广告
+- DOMAIN-SUFFIX,ctobsnssdk.com,💩 ‍广告
 - DOMAIN-KEYWORD,admarvel,💩 ‍广告
 - DOMAIN-KEYWORD,admaster,💩 ‍广告
 - DOMAIN-KEYWORD,adsage,💩 ‍广告

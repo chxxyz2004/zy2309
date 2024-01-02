@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST 加速器, server: shcm.dfcloud.xyz, port: 52012, type: ss, cipher: chacha20-ietf-poly1305, password: a3e4e1fc-78e9-476b-9c29-33daca55fa46, udp: true}
-- {name: 🇩🇪 德国 | 德国高速（会员） - BIUBIU FAST 加速器, server: shcm.dfcloud.xyz, port: 52011, type: trojan, password: a3e4e1fc-78e9-476b-9c29-33daca55fa46, sni: dg5.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST 加速器, server: shcm.dfcloud.xyz, port: 52012, type: ss, cipher: chacha20-ietf-poly1305, password: f07f1141-5fd2-4208-a575-d4a655f43834, udp: true}
+- {name: 🇩🇪 德国 | 德国高速（会员） - BIUBIU FAST 加速器, server: shcm.dfcloud.xyz, port: 52011, type: trojan, password: f07f1141-5fd2-4208-a575-d4a655f43834, sni: dg5.biubiufast.quest, skip-cert-verify: true, udp: true}

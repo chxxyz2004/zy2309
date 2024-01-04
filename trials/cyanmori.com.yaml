@@ -39,6 +39,7 @@ proxy-groups:
   - 🇭🇰 香港05 - Cyanmori
   - 🇭🇰 香港06 - Cyanmori
   - 🇭🇰 香港07 - Cyanmori
+  - 🇭🇰 香港08 - Cyanmori
   - 🇹🇼 台湾01 - Cyanmori
   - 🇹🇼 台湾02 - Cyanmori
   - 🇹🇼 台湾03 - Cyanmori
@@ -56,6 +57,7 @@ proxy-groups:
   - 🇺🇸 美国04 - Cyanmori
   - 🇺🇸 美国05 - Cyanmori
   - 🇺🇸 美国06 - Cyanmori
+  - 🇺🇸 美国07 - Cyanmori
   - 🇮🇳 印度01 - Cyanmori
   - 🇮🇳 印度02 - Cyanmori
   - 🇰🇷 韩国01 - Cyanmori
@@ -126,6 +128,7 @@ proxy-groups:
   - 🇭🇰 香港05 - Cyanmori
   - 🇭🇰 香港06 - Cyanmori
   - 🇭🇰 香港07 - Cyanmori
+  - 🇭🇰 香港08 - Cyanmori
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -148,6 +151,7 @@ proxy-groups:
   - 🇭🇰 香港05 - Cyanmori
   - 🇭🇰 香港06 - Cyanmori
   - 🇭🇰 香港07 - Cyanmori
+  - 🇭🇰 香港08 - Cyanmori
   - 🇹🇼 台湾01 - Cyanmori
   - 🇹🇼 台湾02 - Cyanmori
   - 🇹🇼 台湾03 - Cyanmori
@@ -183,6 +187,7 @@ proxy-groups:
   - 🇺🇸 美国04 - Cyanmori
   - 🇺🇸 美国05 - Cyanmori
   - 🇺🇸 美国06 - Cyanmori
+  - 🇺🇸 美国07 - Cyanmori
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -232,6 +237,7 @@ proxies:
 - {name: 🇭🇰 香港05 - Cyanmori, server: acc.xiyun.co, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: wh1wlW5NvrwmEweh, udp: true}
 - {name: 🇭🇰 香港06 - Cyanmori, server: acc.xiyun.co, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: wh1wlW5NvrwmEweh, udp: true}
 - {name: 🇭🇰 香港07 - Cyanmori, server: acc.xiyun.co, port: 10072, type: ss, cipher: chacha20-ietf-poly1305, password: wh1wlW5NvrwmEweh, udp: true}
+- {name: 🇭🇰 香港08 - Cyanmori, server: acc.xiyun.co, port: 10074, type: ss, cipher: chacha20-ietf-poly1305, password: wh1wlW5NvrwmEweh, udp: true}
 - {name: 🇯🇵 日本01 - Cyanmori, server: bcc.xiyun.co, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: wh1wlW5NvrwmEweh, udp: true}
 - {name: 🇯🇵 日本02 - Cyanmori, server: bcc.xiyun.co, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: wh1wlW5NvrwmEweh, udp: true}
 - {name: 🇯🇵 日本03 - Cyanmori, server: bcc.xiyun.co, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: wh1wlW5NvrwmEweh, udp: true}
@@ -249,6 +255,7 @@ proxies:
 - {name: 🇺🇸 美国04 - Cyanmori, server: bcc.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: wh1wlW5NvrwmEweh, udp: true}
 - {name: 🇺🇸 美国05 - Cyanmori, server: bcc.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: wh1wlW5NvrwmEweh, udp: true}
 - {name: 🇺🇸 美国06 - Cyanmori, server: bcc.xiyun.co, port: 20036, type: ss, cipher: chacha20-ietf-poly1305, password: wh1wlW5NvrwmEweh, udp: true}
+- {name: 🇺🇸 美国07 - Cyanmori, server: bcc.xiyun.co, port: 10075, type: ss, cipher: chacha20-ietf-poly1305, password: wh1wlW5NvrwmEweh, udp: true}
 - {name: 🇮🇳 印度01 - Cyanmori, server: bcc.xiyun.co, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: wh1wlW5NvrwmEweh, udp: true}
 - {name: 🇮🇳 印度02 - Cyanmori, server: bcc.xiyun.co, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: wh1wlW5NvrwmEweh, udp: true}
 - {name: 🇰🇷 韩国01 - Cyanmori, server: bcc.xiyun.co, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: wh1wlW5NvrwmEweh, udp: true}

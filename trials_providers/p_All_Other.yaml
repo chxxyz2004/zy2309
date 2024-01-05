@@ -155,9 +155,9 @@ proxies:
 - {name: 🇦🇺 澳大利亚02 - Cyanmori, server: bcc.xiyun.co, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: SSJsyHNS9ouAgvIF, udp: true}
 - {name: 🇦🇪 迪拜01 - Cyanmori, server: bcc.xiyun.co, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: SSJsyHNS9ouAgvIF, udp: true}
 - {name: 🇦🇪 迪拜02 - Cyanmori, server: bcc.xiyun.co, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: SSJsyHNS9ouAgvIF, udp: true}
-- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: 0afec12a-eac1-3783-bd3d-34eba0259370, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: 0afec12a-eac1-3783-bd3d-34eba0259370, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: 0afec12a-eac1-3783-bd3d-34eba0259370, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: 0afec12a-eac1-3783-bd3d-34eba0259370, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: 0afec12a-eac1-3783-bd3d-34eba0259370, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇱🇦 请登录88laomao.com 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: ccfcf6ca-abe9-47af-93d0-0a4650b5510f, udp: true}
+- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: d60ce11d-73a3-3582-8616-c708ac132739, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: d60ce11d-73a3-3582-8616-c708ac132739, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: d60ce11d-73a3-3582-8616-c708ac132739, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: d60ce11d-73a3-3582-8616-c708ac132739, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: d60ce11d-73a3-3582-8616-c708ac132739, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇱🇦 请登录88laomao.com 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: fee96974-e8d4-45d1-8b71-a741626d224c, udp: true}

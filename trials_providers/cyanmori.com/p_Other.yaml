@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ 官网 https://1100.gg（非节点） - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 2f4f7c70-a478-31d6-b119-9e66d2dbabf0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 2f4f7c70-a478-31d6-b119-9e66d2dbabf0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ 官网 https://1100.gg（非节点） - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 7c27090d-4ae4-385e-91c3-3c4c50258e8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 7c27090d-4ae4-385e-91c3-3c4c50258e8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

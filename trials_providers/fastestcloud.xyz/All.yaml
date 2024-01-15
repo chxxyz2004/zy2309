@@ -1,7 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇰 SK-01 - FastFly, server: sk01.ckcloud.info, port: 29192, type: ss, cipher: chacha20-ietf-poly1305, password: 33b51414-cfdc-4377-ac82-2d2c8e44b447, udp: true}
 - {name: 🇰🇷 测试韩国01 - FastFly, server: gdct001.theyydsnode.top, port: 14374, type: ss, cipher: chacha20-ietf-poly1305, password: 33b51414-cfdc-4377-ac82-2d2c8e44b447, udp: true}
 - {name: 🇯🇵 vip1 日本-01 - FastFly, server: gdct001.theyydsnode.top, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 33b51414-cfdc-4377-ac82-2d2c8e44b447, udp: true}
 - {name: 🇯🇵 vip1 日本-02 - FastFly, server: gdct003.theyydsnode.top, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 33b51414-cfdc-4377-ac82-2d2c8e44b447, udp: true}

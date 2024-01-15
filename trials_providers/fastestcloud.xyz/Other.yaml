@@ -1,8 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ 距离下次重置剩余：16 天 - FastFly, server: sk01.ckcloud.info, port: 29192, type: ss, cipher: chacha20-ietf-poly1305, password: 33b51414-cfdc-4377-ac82-2d2c8e44b447, udp: true}
-- {name: 🇸🇰 SK-01 - FastFly, server: sk01.ckcloud.info, port: 29192, type: ss, cipher: chacha20-ietf-poly1305, password: 33b51414-cfdc-4377-ac82-2d2c8e44b447, udp: true}
+- {name: ℹ 距离下次重置剩余：16 天 - FastFly, server: gdct001.theyydsnode.top, port: 14374, type: ss, cipher: chacha20-ietf-poly1305, password: 33b51414-cfdc-4377-ac82-2d2c8e44b447, udp: true}
 - {name: 🇰🇷 测试韩国01 - FastFly, server: gdct001.theyydsnode.top, port: 14374, type: ss, cipher: chacha20-ietf-poly1305, password: 33b51414-cfdc-4377-ac82-2d2c8e44b447, udp: true}
 - {name: 🇻🇳 vip1 越南-01 - FastFly, server: gdct001.theyydsnode.top, port: 54295, type: ss, cipher: chacha20-ietf-poly1305, password: 33b51414-cfdc-4377-ac82-2d2c8e44b447, udp: true}
 - {name: 🇻🇳 vip1 越南-02 - FastFly, server: gdct003.theyydsnode.top, port: 54295, type: ss, cipher: chacha20-ietf-poly1305, password: 33b51414-cfdc-4377-ac82-2d2c8e44b447, udp: true}

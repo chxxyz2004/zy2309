@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JCBB_日本01【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 10327, type: trojan, password: 2105fe35-3ebe-496a-a3dc-20ed6c07cd9b, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本02【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 10327, type: trojan, password: 2105fe35-3ebe-496a-a3dc-20ed6c07cd9b, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本03【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 10327, type: trojan, password: 2105fe35-3ebe-496a-a3dc-20ed6c07cd9b, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本04【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 16483, type: trojan, password: 2105fe35-3ebe-496a-a3dc-20ed6c07cd9b, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本05【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 16483, type: trojan, password: 2105fe35-3ebe-496a-a3dc-20ed6c07cd9b, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本06【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 16483, type: trojan, password: 2105fe35-3ebe-496a-a3dc-20ed6c07cd9b, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本01【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 10327, type: trojan, password: e2fd71d2-cd4e-4545-a9ff-76fd42823fde, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本02【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 10327, type: trojan, password: e2fd71d2-cd4e-4545-a9ff-76fd42823fde, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本03【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 10327, type: trojan, password: e2fd71d2-cd4e-4545-a9ff-76fd42823fde, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本04【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 16483, type: trojan, password: e2fd71d2-cd4e-4545-a9ff-76fd42823fde, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本05【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 16483, type: trojan, password: e2fd71d2-cd4e-4545-a9ff-76fd42823fde, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本06【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 16483, type: trojan, password: e2fd71d2-cd4e-4545-a9ff-76fd42823fde, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}

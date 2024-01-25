@@ -9,7 +9,83 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
+  - ⚡ ‍低延迟
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
+  - 🎏 ‍其他
+  - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
+- name: ⚡ ‍低延迟
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id001
+  - 🇭🇰 JCBB_香港01【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港02【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港03_1【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港03【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港04【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港0 4_1【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港 05【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港 06_1【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港 06【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港09【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港10_1【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港10【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 01_1【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 05_1【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB
+  - 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB
+  - 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB
+  - 🇸🇬 JCBB_ 新加坡 03【vip1 】 - JCBB
+  - 🇸🇬 JCBB_ 新加坡 04【vip1 】 - JCBB
+  - 🇸🇬 JCBB_ 新加坡 05【vip1】 - JCBB
+  - 🇸🇬 JCBB_ 新加坡 06【vip1】 - JCBB
+  - 🇯🇵 JCBB_日本01【vip1】 - JCBB
+  - 🇯🇵 JCBB_日本02【vip1】 - JCBB
+  - 🇯🇵 JCBB_日本03【vip1】 - JCBB
+  - 🇯🇵 JCBB_日本04【vip1】 - JCBB
+  - 🇯🇵 JCBB_日本05【vip1】 - JCBB
+  - 🇯🇵 JCBB_日本06【vip1】 - JCBB
+  - 🇺🇸 JCBB_ 美国02【vip1】 - JCBB
+  - 🇺🇸 JCBB_ 美国01【vip1】 - JCBB
+  - 🇺🇸 JCBB_ 美国02_1【vip1】 - JCBB
+  - 🇺🇸 JCBB_ 美国 03【vip1】 - JCBB
+  - 🇺🇸 JCBB_ 美国 04【vip1】 - JCBB
+  - 🇺🇸 JCBB_ 美国 04_1【vip1】 - JCBB
+  - 🇺🇸 JCBB_美国05_1【vip1】 - JCBB
+  - 🇺🇸 JCBB_美国05【vip1】 - JCBB
+  - 🇺🇸 JCBB_美国06【vip1】 - JCBB
+  - 🇩🇪 JCBB_德国01【vip1】 - JCBB
+  - 🇩🇪 JCBB_德国02【vip1】 - JCBB
+  - 🇩🇪 JCBB_德国03【vip1】 - JCBB
+  - 🇮🇳 JCBB_ 印度01【vip1】 - JCBB
+  - 🇮🇳 JCBB_ 印度02【vip1】 - JCBB
+  - 🇮🇳 JCBB_ 印度03【vip1】 - JCBB
+  - 🇬🇧 JCBB_ 英国01【vip1】 - JCBB
+  - 🇬🇧 JCBB_ 英国02【vip1】 - JCBB
+  - 🇬🇧 JCBB_ 英国03【vip1】 - JCBB
+  - 🇹🇷 JCBB_土耳其 01【vip1】 - JCBB
+  - 🇹🇷 JCBB_土耳其 02【vip1】 - JCBB
+  - 🇹🇷 JCBB_土耳其 03【vip1】 - JCBB
+  - 🇻🇳 JCBB_越南 01【vip1】 - JCBB
+  - 🇻🇳 JCBB_越南 02【vip1】 - JCBB
+  - 🇻🇳 JCBB_越南 03【vip1】 - JCBB
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -25,11 +101,29 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇨🇳 ‍中国
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
+  - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
+  - 🇺🇸 ‍美国
+  - 🎏 ‍其他
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
+  - 🇹🇼 ‍台湾
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
+  - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -38,63 +132,199 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇭🇰 ‍香港
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id002
+  - 🇭🇰 JCBB_香港01【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港02【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港03_1【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港03【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港04【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港0 4_1【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港 05【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港 06_1【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港 06【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港09【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港10_1【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港10【vip1】 - JCBB
+- name: 🇹🇼 ‍台湾
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id003
+  - 🇹🇼 JCBB_ 台湾 01_1【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 05_1【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB
+- name: 🇨🇳 ‍中国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id004
+  - 🇭🇰 JCBB_香港01【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港02【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港03_1【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港03【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港04【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港0 4_1【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港 05【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港 06_1【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港 06【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港09【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港10_1【vip1】 - JCBB
+  - 🇭🇰 JCBB_香港10【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 01_1【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 05_1【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id005
+  - 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB
+  - 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB
+  - 🇸🇬 JCBB_ 新加坡 03【vip1 】 - JCBB
+  - 🇸🇬 JCBB_ 新加坡 04【vip1 】 - JCBB
+  - 🇸🇬 JCBB_ 新加坡 05【vip1】 - JCBB
+  - 🇸🇬 JCBB_ 新加坡 06【vip1】 - JCBB
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id006
+  - 🇯🇵 JCBB_日本01【vip1】 - JCBB
+  - 🇯🇵 JCBB_日本02【vip1】 - JCBB
+  - 🇯🇵 JCBB_日本03【vip1】 - JCBB
+  - 🇯🇵 JCBB_日本04【vip1】 - JCBB
+  - 🇯🇵 JCBB_日本05【vip1】 - JCBB
+  - 🇯🇵 JCBB_日本06【vip1】 - JCBB
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 300
+  proxies: &id007
+  - 🇺🇸 JCBB_ 美国02【vip1】 - JCBB
+  - 🇺🇸 JCBB_ 美国01【vip1】 - JCBB
+  - 🇺🇸 JCBB_ 美国02_1【vip1】 - JCBB
+  - 🇺🇸 JCBB_ 美国 03【vip1】 - JCBB
+  - 🇺🇸 JCBB_ 美国 04【vip1】 - JCBB
+  - 🇺🇸 JCBB_ 美国 04_1【vip1】 - JCBB
+  - 🇺🇸 JCBB_美国05_1【vip1】 - JCBB
+  - 🇺🇸 JCBB_美国05【vip1】 - JCBB
+  - 🇺🇸 JCBB_美国06【vip1】 - JCBB
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id008
+  - 🇩🇪 JCBB_德国01【vip1】 - JCBB
+  - 🇩🇪 JCBB_德国02【vip1】 - JCBB
+  - 🇩🇪 JCBB_德国03【vip1】 - JCBB
+  - 🇮🇳 JCBB_ 印度01【vip1】 - JCBB
+  - 🇮🇳 JCBB_ 印度02【vip1】 - JCBB
+  - 🇮🇳 JCBB_ 印度03【vip1】 - JCBB
+  - 🇬🇧 JCBB_ 英国01【vip1】 - JCBB
+  - 🇬🇧 JCBB_ 英国02【vip1】 - JCBB
+  - 🇬🇧 JCBB_ 英国03【vip1】 - JCBB
+  - 🇹🇷 JCBB_土耳其 01【vip1】 - JCBB
+  - 🇹🇷 JCBB_土耳其 02【vip1】 - JCBB
+  - 🇹🇷 JCBB_土耳其 03【vip1】 - JCBB
+  - 🇻🇳 JCBB_越南 01【vip1】 - JCBB
+  - 🇻🇳 JCBB_越南 02【vip1】 - JCBB
+  - 🇻🇳 JCBB_越南 03【vip1】 - JCBB
+- name: 👆🏻 ‍指定
+  type: select
+  proxies: *id001
+- name: 👆🏻🇭🇰 ‍香港
+  type: select
+  proxies: *id002
+- name: 👆🏻🇹🇼 ‍台湾
+  type: select
+  proxies: *id003
+- name: 👆🏻🇨🇳 ‍中国
+  type: select
+  proxies: *id004
+- name: 👆🏻🇸🇬 ‍新加坡
+  type: select
+  proxies: *id005
+- name: 👆🏻🇯🇵 ‍日本
+  type: select
+  proxies: *id006
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id008
 proxies:
-- {name: 距离下次重置剩余：6 天 - JCBB, server: gdct003.theyydsnode.top, port: 26681, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
-- {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gdct003.theyydsnode.top, port: 26681, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 新加坡 01【vip1 】 - JCBB, server: shcm002.theyydsnode.top, port: 51031, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 新加坡 02【vip1 】 - JCBB, server: gdct001.theyydsnode.top, port: 51031, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 新加坡 03【vip1 】 - JCBB, server: gdct003.theyydsnode.top, port: 51031, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 新加坡 04【vip1 】 - JCBB, server: gdct003.theyydsnode.top, port: 58464, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 新加坡 05【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 58464, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 新加坡 06【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 58464, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_香港01【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 25974, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_香港02【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 25974, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_香港03_1【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 25974, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_香港03【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 35257, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_香港04【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 35257, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_香港0 4_1【vip1】 - JCBB, server: gdct002.theyydsnode.top, port: 35257, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_香港 05【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 26023, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_香港 06_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 26023, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_香港 06【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 26023, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_香港09【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 15485, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_香港10_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 15485, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_香港10【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 15485, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_德国01【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 53279, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_德国02【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 53279, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_德国03【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 53279, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 印度01【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 26094, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 印度02【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 26094, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 印度03【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 26094, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 英国01【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 42840, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 英国02【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 42840, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 英国03【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 42840, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_日本01【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 10327, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_日本02【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 10327, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_日本03【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 10327, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_日本04【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 16483, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_日本05【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 16483, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_日本06【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 16483, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 台湾 01_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 64850, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 台湾 01【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 64850, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 台湾 02【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 64850, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 台湾 05_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 47557, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 台湾 05【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 47557, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 台湾 06【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 47557, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_土耳其 01【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 60293, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_土耳其 02【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 60293, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_土耳其 03【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 60293, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_越南 01【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 16343, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_越南 02【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 16343, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_越南 03【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 美国02【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 48560, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 美国01【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 48560, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 美国02_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 48560, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 美国 03【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 10658, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 美国 04【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 10658, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_ 美国 04_1【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 10658, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_美国05_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 26681, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_美国05【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 26681, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: JCBB_美国06【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 26681, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB, server: shcm002.theyydsnode.top, port: 51031, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB, server: gdct001.theyydsnode.top, port: 51031, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 JCBB_ 新加坡 03【vip1 】 - JCBB, server: gdct003.theyydsnode.top, port: 51031, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 JCBB_ 新加坡 04【vip1 】 - JCBB, server: gdct003.theyydsnode.top, port: 58464, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 JCBB_ 新加坡 05【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 58464, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 JCBB_ 新加坡 06【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 58464, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港01【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 25974, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港02【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 25974, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港03_1【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 25974, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港03【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 35257, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港04【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 35257, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港0 4_1【vip1】 - JCBB, server: gdct002.theyydsnode.top, port: 35257, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港 05【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 26023, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港 06_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 26023, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港 06【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 26023, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港09【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 15485, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港10_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 15485, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港10【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 15485, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 JCBB_德国01【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 53279, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 JCBB_德国02【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 53279, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 JCBB_德国03【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 53279, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 JCBB_ 印度01【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 26094, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 JCBB_ 印度02【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 26094, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 JCBB_ 印度03【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 26094, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 JCBB_ 英国01【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 42840, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 JCBB_ 英国02【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 42840, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 JCBB_ 英国03【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 42840, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本01【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 10327, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本02【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 10327, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本03【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 10327, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本04【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 16483, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本05【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 16483, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本06【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 16483, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 01_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 64850, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 64850, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 64850, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 05_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 47557, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 47557, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 47557, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 JCBB_土耳其 01【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 60293, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 JCBB_土耳其 02【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 60293, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 JCBB_土耳其 03【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 60293, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 JCBB_越南 01【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 16343, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 JCBB_越南 02【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 16343, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 JCBB_越南 03【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 16343, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国02【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 48560, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国01【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 48560, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国02_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 48560, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国 03【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 10658, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国 04【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 10658, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_ 美国 04_1【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 10658, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_美国05_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 26681, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_美国05【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 26681, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 JCBB_美国06【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 26681, type: trojan, password: 69aced77-ba7c-441b-b8ad-ac10354e333e, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

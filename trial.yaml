@@ -1836,7 +1836,7 @@ proxies:
 - {name: 🇱🇺 卢森堡专线-奈飞-TK - giao云, server: 91zx.ljydw.top, port: 25559, type: trojan, password: 7f7106c9-4b7b-4def-8270-6d849a586866, sni: 914lxb.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国专线1-奈飞-TK-HBO - giao云, server: 91zx.ljydw.top, port: 39999, type: trojan, password: 7f7106c9-4b7b-4def-8270-6d849a586866, sni: 911us2.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 - giao云, server: 86us3.ljydw.top, port: 443, type: trojan, password: 7f7106c9-4b7b-4def-8270-6d849a586866, sni: 86us3.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇱🇦 请登录66.66laomao.com 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 0b25e8b8-5565-436f-847f-172a0335a1b2, udp: true}
+- {name: 🇱🇦 请登录66.66laomao.com 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: b1008241-a402-442d-9a0f-b8064125084f, udp: true}
 - {name: 🇯🇵 日本 01 - V2Link VPN, server: host-011.crazyspeed.xyz, port: 30601, type: ss, cipher: chacha20-ietf-poly1305, password: 90cfc577-6d59-4bf8-b2e4-9f7f842d5c8e, udp: true}
 - {name: 🇯🇵 日本 02 - V2Link VPN, server: host-012.crazyspeed.xyz, port: 30602, type: ss, cipher: chacha20-ietf-poly1305, password: 90cfc577-6d59-4bf8-b2e4-9f7f842d5c8e, udp: true}
 - {name: 🇯🇵 日本 03 - V2Link VPN, server: host-013.crazyspeed.xyz, port: 30603, type: ss, cipher: chacha20-ietf-poly1305, password: 90cfc577-6d59-4bf8-b2e4-9f7f842d5c8e, udp: true}

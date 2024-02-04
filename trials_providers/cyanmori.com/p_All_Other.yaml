@@ -13,5 +13,3 @@ proxies:
 - {name: 🇦🇺 澳大利亚02 - Cyanmori, server: bcc.xiyun.co, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: BuWp3kLD0C5wxBRT, udp: true}
 - {name: 🇦🇪 迪拜01 - Cyanmori, server: bcc.xiyun.co, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: BuWp3kLD0C5wxBRT, udp: true}
 - {name: 🇦🇪 迪拜02 - Cyanmori, server: bcc.xiyun.co, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: BuWp3kLD0C5wxBRT, udp: true}
-- {name: ℹ 官网 https://1100.gg（非节点） - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 1671cfab-dbbc-3694-88a9-29c63622bb46, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 1671cfab-dbbc-3694-88a9-29c63622bb46, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

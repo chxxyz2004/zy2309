@@ -66,44 +66,44 @@ proxies:
 - {name: 🇦🇺 悉尼02 - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 3631ff14-58d7-45db-8bdd-9cb2bbbfe53f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgfree01.mikuproxy.pro}}, udp: true}
 - {name: 🇦🇺 悉尼03 - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 3631ff14-58d7-45db-8bdd-9cb2bbbfe53f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgfree01.mikuproxy.pro}}, udp: true}
 - {name: 🇦🇺 悉尼04 - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: 3631ff14-58d7-45db-8bdd-9cb2bbbfe53f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgfree01.mikuproxy.pro}}, udp: true}
-- {name: 🇭🇰 香港 01  - Cyanmori, server: acc.xiyun.co, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇭🇰 香港02 - Cyanmori, server: acc.xiyun.co, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇭🇰 香港03 - Cyanmori, server: acc.xiyun.co, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇭🇰 香港04 - Cyanmori, server: acc.xiyun.co, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇭🇰 香港05 - Cyanmori, server: acc.xiyun.co, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇭🇰 香港06 - Cyanmori, server: acc.xiyun.co, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇭🇰 香港07 - Cyanmori, server: acc.xiyun.co, port: 10072, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇭🇰 香港08 - Cyanmori, server: acc.xiyun.co, port: 10074, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇯🇵 日本01 - Cyanmori, server: bcc.xiyun.co, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇯🇵 日本02 - Cyanmori, server: bcc.xiyun.co, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇯🇵 日本03 - Cyanmori, server: bcc.xiyun.co, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇯🇵 日本04 - Cyanmori, server: bcc.xiyun.co, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇹🇼 台湾01 - Cyanmori, server: acc.xiyun.co, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇹🇼 台湾02 - Cyanmori, server: acc.xiyun.co, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇹🇼 台湾03 - Cyanmori, server: acc.xiyun.co, port: 10073, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇸🇬 新加坡01 - Cyanmori, server: bcc.xiyun.co, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇸🇬 新加坡02 - Cyanmori, server: bcc.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇸🇬 新加坡03 - Cyanmori, server: bcc.xiyun.co, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇸🇬 新加坡04 - Cyanmori, server: bcc.xiyun.co, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇺🇸 美国01 - Cyanmori, server: bcc.xiyun.co, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇺🇸 美国02 - Cyanmori, server: bcc.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇺🇸 美国03 - Cyanmori, server: bcc.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇺🇸 美国04 - Cyanmori, server: bcc.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇺🇸 美国05 - Cyanmori, server: bcc.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇺🇸 美国06 - Cyanmori, server: bcc.xiyun.co, port: 20036, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇺🇸 美国07 - Cyanmori, server: bcc.xiyun.co, port: 10075, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇮🇳 印度01 - Cyanmori, server: bcc.xiyun.co, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇮🇳 印度02 - Cyanmori, server: bcc.xiyun.co, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇰🇷 韩国01 - Cyanmori, server: acc.xiyun.co, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇰🇷 韩国02 - Cyanmori, server: acc.xiyun.co, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇬🇧 英国01 - Cyanmori, server: bcc.xiyun.co, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇬🇧 英国02 - Cyanmori, server: bcc.xiyun.co, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇩🇪 德国柏林01 - Cyanmori, server: bcc.xiyun.co, port: 10069, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇫🇷 法国 - Cyanmori, server: bcc.xiyun.co, port: 10076, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: bcc.xiyun.co, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: bcc.xiyun.co, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇦🇪 迪拜01 - Cyanmori, server: bcc.xiyun.co, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
-- {name: 🇦🇪 迪拜02 - Cyanmori, server: bcc.xiyun.co, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: 2lyjf1n8Lpm68gUs, udp: true}
+- {name: 🇭🇰 香港 01  - Cyanmori, server: acc.xiyun.co, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇭🇰 香港02 - Cyanmori, server: acc.xiyun.co, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇭🇰 香港03 - Cyanmori, server: acc.xiyun.co, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇭🇰 香港04 - Cyanmori, server: acc.xiyun.co, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇭🇰 香港05 - Cyanmori, server: acc.xiyun.co, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇭🇰 香港06 - Cyanmori, server: acc.xiyun.co, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇭🇰 香港07 - Cyanmori, server: acc.xiyun.co, port: 10072, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇭🇰 香港08 - Cyanmori, server: acc.xiyun.co, port: 10074, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇯🇵 日本01 - Cyanmori, server: bcc.xiyun.co, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇯🇵 日本02 - Cyanmori, server: bcc.xiyun.co, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇯🇵 日本03 - Cyanmori, server: bcc.xiyun.co, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇯🇵 日本04 - Cyanmori, server: bcc.xiyun.co, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇹🇼 台湾01 - Cyanmori, server: acc.xiyun.co, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇹🇼 台湾02 - Cyanmori, server: acc.xiyun.co, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇹🇼 台湾03 - Cyanmori, server: acc.xiyun.co, port: 10073, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇸🇬 新加坡01 - Cyanmori, server: bcc.xiyun.co, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇸🇬 新加坡02 - Cyanmori, server: bcc.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇸🇬 新加坡03 - Cyanmori, server: bcc.xiyun.co, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇸🇬 新加坡04 - Cyanmori, server: bcc.xiyun.co, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇺🇸 美国01 - Cyanmori, server: bcc.xiyun.co, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇺🇸 美国02 - Cyanmori, server: bcc.xiyun.co, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇺🇸 美国03 - Cyanmori, server: bcc.xiyun.co, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇺🇸 美国04 - Cyanmori, server: bcc.xiyun.co, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇺🇸 美国05 - Cyanmori, server: bcc.xiyun.co, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇺🇸 美国06 - Cyanmori, server: bcc.xiyun.co, port: 20036, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇺🇸 美国07 - Cyanmori, server: bcc.xiyun.co, port: 10075, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇮🇳 印度01 - Cyanmori, server: bcc.xiyun.co, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇮🇳 印度02 - Cyanmori, server: bcc.xiyun.co, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇰🇷 韩国01 - Cyanmori, server: acc.xiyun.co, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇰🇷 韩国02 - Cyanmori, server: acc.xiyun.co, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇬🇧 英国01 - Cyanmori, server: bcc.xiyun.co, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇬🇧 英国02 - Cyanmori, server: bcc.xiyun.co, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇩🇪 德国柏林01 - Cyanmori, server: bcc.xiyun.co, port: 10069, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇫🇷 法国 - Cyanmori, server: bcc.xiyun.co, port: 10076, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: bcc.xiyun.co, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: bcc.xiyun.co, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇦🇪 迪拜01 - Cyanmori, server: bcc.xiyun.co, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
+- {name: 🇦🇪 迪拜02 - Cyanmori, server: bcc.xiyun.co, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: KfVkH5z5mJ7ugt4Q, udp: true}
 - {name: v2ray 中东巴林节点VIP 671 - 紫云VPN服务商, server: 172.64.195.161, port: 443, type: vmess, uuid: c9ce23b2-9851-3b02-bd95-cca9b28762a5, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: bla.369777.xyz}}, udp: true}
 - {name: v2ray 中东巴林节点VIP CDN - 紫云VPN服务商, server: bla.369777.xyz, port: 443, type: vmess, uuid: c9ce23b2-9851-3b02-bd95-cca9b28762a5, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: bla.369777.xyz}}, udp: true}
 - {name: 🇿🇦 v2ray 南非开普敦节点VIP 720 - 紫云VPN服务商, server: 104.17.17.103, port: 443, type: vmess, uuid: c9ce23b2-9851-3b02-bd95-cca9b28762a5, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: kpd.369777.xyz}}, udp: true}
@@ -271,7 +271,7 @@ proxies:
 - {name: 🇮🇱 以色列 - V2Link VPN, server: host-058.crazyspeed.xyz, port: 19005, type: ss, cipher: chacha20-ietf-poly1305, password: 90cfc577-6d59-4bf8-b2e4-9f7f842d5c8e, udp: true}
 - {name: 🇸🇪 瑞典 - V2Link VPN, server: host-059.crazyspeed.xyz, port: 19006, type: ss, cipher: chacha20-ietf-poly1305, password: 90cfc577-6d59-4bf8-b2e4-9f7f842d5c8e, udp: true}
 - {name: 🇵🇱 波兰 - V2Link VPN, server: host-060.crazyspeed.xyz, port: 19008, type: ss, cipher: chacha20-ietf-poly1305, password: 90cfc577-6d59-4bf8-b2e4-9f7f842d5c8e, udp: true}
-- {name: 🇱🇦 请登录6666.66laomao.com 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: e40de912-0e39-40c7-88e1-416e64295ae5, udp: true}
+- {name: 🇱🇦 请登录6666.66laomao.com 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: d4e6b382-4fd0-4737-8d73-458a5ddeffdd, udp: true}
 - {name: 🇺🇸美国 🌐「达拉斯」 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: 3e130881-3eb7-4fb7-8331-15529383c912, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB, server: shcm002.theyydsnode.top, port: 51031, type: trojan, password: bf6f8416-a688-4ded-8bb5-1f674bba080d, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB, server: gdct001.theyydsnode.top, port: 51031, type: trojan, password: bf6f8416-a688-4ded-8bb5-1f674bba080d, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
@@ -576,21 +576,21 @@ proxies:
 - {name: 极速｜美国🇺🇸K - 探索者, server: 603diyb.donghui.tech, port: 32338, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
 - {name: 极速｜美国🇺🇸L - 探索者, server: 603diya.donghui.tech, port: 34645, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: 极速|美国0006🇺🇸 - 探索者, server: dagebeidale.donghui.tech, port: 43125, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: dagebeidale.donghui.tech}}, udp: true}
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19811, type: vmess, uuid: f9688fe8-47da-3aac-9a14-f0296179a735, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19812, type: vmess, uuid: f9688fe8-47da-3aac-9a14-f0296179a735, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: f9688fe8-47da-3aac-9a14-f0296179a735, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: f9688fe8-47da-3aac-9a14-f0296179a735, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: f9688fe8-47da-3aac-9a14-f0296179a735, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: f9688fe8-47da-3aac-9a14-f0296179a735, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19841, type: vmess, uuid: f9688fe8-47da-3aac-9a14-f0296179a735, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19842, type: vmess, uuid: f9688fe8-47da-3aac-9a14-f0296179a735, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 29811, type: vmess, uuid: f9688fe8-47da-3aac-9a14-f0296179a735, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: wk-ct1.dx001.top, port: 19862, type: vmess, uuid: f9688fe8-47da-3aac-9a14-f0296179a735, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: f9688fe8-47da-3aac-9a14-f0296179a735, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: f9688fe8-47da-3aac-9a14-f0296179a735, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: f9688fe8-47da-3aac-9a14-f0296179a735, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: f9688fe8-47da-3aac-9a14-f0296179a735, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: f9688fe8-47da-3aac-9a14-f0296179a735, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19811, type: vmess, uuid: 6819a562-9460-308c-8753-1c3efba93019, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19812, type: vmess, uuid: 6819a562-9460-308c-8753-1c3efba93019, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: 6819a562-9460-308c-8753-1c3efba93019, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: 6819a562-9460-308c-8753-1c3efba93019, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: 6819a562-9460-308c-8753-1c3efba93019, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: 6819a562-9460-308c-8753-1c3efba93019, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19841, type: vmess, uuid: 6819a562-9460-308c-8753-1c3efba93019, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19842, type: vmess, uuid: 6819a562-9460-308c-8753-1c3efba93019, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 29811, type: vmess, uuid: 6819a562-9460-308c-8753-1c3efba93019, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: wk-ct1.dx001.top, port: 19862, type: vmess, uuid: 6819a562-9460-308c-8753-1c3efba93019, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: 6819a562-9460-308c-8753-1c3efba93019, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: 6819a562-9460-308c-8753-1c3efba93019, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: 6819a562-9460-308c-8753-1c3efba93019, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: 6819a562-9460-308c-8753-1c3efba93019, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: 6819a562-9460-308c-8753-1c3efba93019, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: 88f60073-8406-4ebc-83f5-3f4eb66dc7cd, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 88f60073-8406-4ebc-83f5-3f4eb66dc7cd, udp: true}
 - {name: 🇭🇰 香港|SS直连二 - BIUBIU FAST 加速器, server: hk1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 88f60073-8406-4ebc-83f5-3f4eb66dc7cd, udp: true}

@@ -88,21 +88,21 @@ proxies:
 - {name: 🇭🇰 Vip2-2.江苏-香港B | 倍率x1 - 糖果, server: cnczu01.tangguo.pro, port: 21108, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133218:c9YG0G, obfs-param: 'cec5b133218.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 🇭🇰 Vip2-2.江苏-香港C | 倍率x1 - 糖果, server: cnczu01.tangguo.pro, port: 21075, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133218:c9YG0G, obfs-param: 'cec5b133218.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 🇭🇰 Vip2-2.江苏-香港D | 倍率x1 - 糖果, server: cnczu01.tangguo.pro, port: 21070, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133218:c9YG0G, obfs-param: 'cec5b133218.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19811, type: vmess, uuid: 4c03faf4-1aa5-3ee3-a5ce-d9f5e8ac5005, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19812, type: vmess, uuid: 4c03faf4-1aa5-3ee3-a5ce-d9f5e8ac5005, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19811, type: vmess, uuid: 8273e7f2-33f8-3f30-843c-af57f7a5f1d1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19812, type: vmess, uuid: 8273e7f2-33f8-3f30-843c-af57f7a5f1d1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港专线1-奈飞-TK - giao云, server: zx.fr99kt.top, port: 12895, type: trojan, password: 7f7106c9-4b7b-4def-8270-6d849a586866, sni: 98hk.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港专线2 - giao云, server: 91zx.ljydw.top, port: 21112, type: trojan, password: 7f7106c9-4b7b-4def-8270-6d849a586866, sni: 910hk02.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港专线3 - giao云, server: 91zx.ljydw.top, port: 21115, type: trojan, password: 7f7106c9-4b7b-4def-8270-6d849a586866, sni: 911hk3.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港3 - giao云, server: 822hk3.ljydw.top, port: 49319, type: trojan, password: 7f7106c9-4b7b-4def-8270-6d849a586866, sni: 822hk3.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港5 - giao云, server: 822hk6.ljydw.top, port: 49319, type: trojan, password: 7f7106c9-4b7b-4def-8270-6d849a586866, sni: 822hk6.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 01  - Cyanmori, server: acc.xiyun.co, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: u8ItzFF9UOJvy3pZ, udp: true}
-- {name: 🇭🇰 香港02 - Cyanmori, server: acc.xiyun.co, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: u8ItzFF9UOJvy3pZ, udp: true}
-- {name: 🇭🇰 香港03 - Cyanmori, server: acc.xiyun.co, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: u8ItzFF9UOJvy3pZ, udp: true}
-- {name: 🇭🇰 香港04 - Cyanmori, server: acc.xiyun.co, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: u8ItzFF9UOJvy3pZ, udp: true}
-- {name: 🇭🇰 香港05 - Cyanmori, server: acc.xiyun.co, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: u8ItzFF9UOJvy3pZ, udp: true}
-- {name: 🇭🇰 香港06 - Cyanmori, server: acc.xiyun.co, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: u8ItzFF9UOJvy3pZ, udp: true}
-- {name: 🇭🇰 香港07 - Cyanmori, server: acc.xiyun.co, port: 10072, type: ss, cipher: chacha20-ietf-poly1305, password: u8ItzFF9UOJvy3pZ, udp: true}
-- {name: 🇭🇰 香港08 - Cyanmori, server: acc.xiyun.co, port: 10074, type: ss, cipher: chacha20-ietf-poly1305, password: u8ItzFF9UOJvy3pZ, udp: true}
+- {name: 🇭🇰 香港 01  - Cyanmori, server: acc.xiyun.co, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: L759JgI6bU1tADYZ, udp: true}
+- {name: 🇭🇰 香港02 - Cyanmori, server: acc.xiyun.co, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: L759JgI6bU1tADYZ, udp: true}
+- {name: 🇭🇰 香港03 - Cyanmori, server: acc.xiyun.co, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: L759JgI6bU1tADYZ, udp: true}
+- {name: 🇭🇰 香港04 - Cyanmori, server: acc.xiyun.co, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: L759JgI6bU1tADYZ, udp: true}
+- {name: 🇭🇰 香港05 - Cyanmori, server: acc.xiyun.co, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: L759JgI6bU1tADYZ, udp: true}
+- {name: 🇭🇰 香港06 - Cyanmori, server: acc.xiyun.co, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: L759JgI6bU1tADYZ, udp: true}
+- {name: 🇭🇰 香港07 - Cyanmori, server: acc.xiyun.co, port: 10072, type: ss, cipher: chacha20-ietf-poly1305, password: L759JgI6bU1tADYZ, udp: true}
+- {name: 🇭🇰 香港08 - Cyanmori, server: acc.xiyun.co, port: 10074, type: ss, cipher: chacha20-ietf-poly1305, password: L759JgI6bU1tADYZ, udp: true}
 - {name: 🇭🇰 Game 香港01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 824, type: ss, cipher: aes-128-gcm, password: ayu1245, plugin: obfs, plugin-opts: {mode: http, host: 51c0e88099.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Game 香港02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9054, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 51c0e88099.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Game 香港03-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9063, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 51c0e88099.download.windowsupdate.com}, udp: true}

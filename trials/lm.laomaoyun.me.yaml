@@ -67,7 +67,7 @@ proxy-groups:
   type: select
   proxies: *id002
 proxies:
-- {name: 🇱🇦 请登录6666.66laomao.com 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 1748a44c-b7c9-4f4b-8395-48cfe4b3196a, udp: true}
+- {name: 🇱🇦 请登录6666.66laomao.com 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 0e21f88e-221d-4fde-bb55-dc54bbbd3b1c, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

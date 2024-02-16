@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: 644c53f9-242e-31eb-a84e-bf681fbfaaef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: 644c53f9-242e-31eb-a84e-bf681fbfaaef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: 34958dcf-1996-3def-b113-fa072997e0ca, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: 34958dcf-1996-3def-b113-fa072997e0ca, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-01 | 2X - 凌云网络, server: js1.76po.com, port: 13526, type: vmess, uuid: ad8c43ea-ceec-45d8-bbe6-e979f2a6b0a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-02 | 2X - 凌云网络, server: js1.76po.com, port: 42737, type: vmess, uuid: ad8c43ea-ceec-45d8-bbe6-e979f2a6b0a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-03 | 2X - 凌云网络, server: js1.76po.com, port: 44639, type: vmess, uuid: ad8c43ea-ceec-45d8-bbe6-e979f2a6b0a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -73,9 +73,9 @@ proxies:
 - {name: 🇯🇵 vip1 日本-06 - FastFly, server: gdct001.theyydsnode.top, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 0779c385-473b-4d48-b879-c9aec0c18d1e, udp: true}
 - {name: 🇯🇵 vip1 日本-07 - FastFly, server: gdct003.theyydsnode.top, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 0779c385-473b-4d48-b879-c9aec0c18d1e, udp: true}
 - {name: 🇯🇵 vip1 日本-08 - FastFly, server: shcm002.theyydsnode.top, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 0779c385-473b-4d48-b879-c9aec0c18d1e, udp: true}
-- {name: 🇯🇵 JCBB_日本01【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 10327, type: trojan, password: cb2fa984-585f-4fd1-ab8a-853f6954fd3d, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本02【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 10327, type: trojan, password: cb2fa984-585f-4fd1-ab8a-853f6954fd3d, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本03【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 10327, type: trojan, password: cb2fa984-585f-4fd1-ab8a-853f6954fd3d, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本04【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 16483, type: trojan, password: cb2fa984-585f-4fd1-ab8a-853f6954fd3d, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本05【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 16483, type: trojan, password: cb2fa984-585f-4fd1-ab8a-853f6954fd3d, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本06【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 16483, type: trojan, password: cb2fa984-585f-4fd1-ab8a-853f6954fd3d, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本01【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 10327, type: trojan, password: 672d0b51-c193-4bfe-8b35-d558fea8af98, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本02【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 10327, type: trojan, password: 672d0b51-c193-4bfe-8b35-d558fea8af98, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本03【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 10327, type: trojan, password: 672d0b51-c193-4bfe-8b35-d558fea8af98, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本04【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 16483, type: trojan, password: 672d0b51-c193-4bfe-8b35-d558fea8af98, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本05【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 16483, type: trojan, password: 672d0b51-c193-4bfe-8b35-d558fea8af98, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本06【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 16483, type: trojan, password: 672d0b51-c193-4bfe-8b35-d558fea8af98, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}

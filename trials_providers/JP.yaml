@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: 7d9f4e32-dba7-33f6-b925-d4ef200067d1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: 7d9f4e32-dba7-33f6-b925-d4ef200067d1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: 9c0bca89-ee73-3460-bcec-12daa43c317f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: 9c0bca89-ee73-3460-bcec-12daa43c317f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-01 | 2X - 凌云网络, server: js1.76po.com, port: 13526, type: vmess, uuid: ad8c43ea-ceec-45d8-bbe6-e979f2a6b0a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-02 | 2X - 凌云网络, server: js1.76po.com, port: 42737, type: vmess, uuid: ad8c43ea-ceec-45d8-bbe6-e979f2a6b0a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-03 | 2X - 凌云网络, server: js1.76po.com, port: 44639, type: vmess, uuid: ad8c43ea-ceec-45d8-bbe6-e979f2a6b0a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -19,8 +19,8 @@ proxies:
 - {name: 🇯🇵 【N】日本 普通 4 - Nerocloud - SockBoom, server: jp4.boom.skin, port: 33000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1024967:BpWyjN, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇯🇵 【N】日本 普通 5 - Nerocloud - SockBoom, server: jp5.boom.skin, port: 34000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 1024967:BpWyjN, obfs-param: download.windowsupdate.com, udp: true}
 - {name: 🇯🇵 日本专线-奈飞-TK-GPT - giao云, server: 91zx.ljydw.top, port: 44993, type: trojan, password: 7f7106c9-4b7b-4def-8270-6d849a586866, sni: 919jp02.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: 14726cf1-370f-3c31-89aa-254b7f35bf24, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: 14726cf1-370f-3c31-89aa-254b7f35bf24, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
+- {name: '🇯🇵 [vip①]日本1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: 2979662e-5456-324c-9606-415fec67d9bc, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: 2979662e-5456-324c-9606-415fec67d9bc, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
 - {name: 🇯🇵 Game 日本01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9059, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: b6db488997.download.windowsupdate.com}, udp: true}
 - {name: 🇯🇵 Game 日本02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9062, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: b6db488997.download.windowsupdate.com}, udp: true}
 - {name: 🇯🇵 Game 日本03-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 819, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: b6db488997.download.windowsupdate.com}, udp: true}
@@ -72,9 +72,9 @@ proxies:
 - {name: 🇯🇵 vip1 日本-06 - FastFly, server: node000001.likeone.lol, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 24dc9100-6c15-4717-881d-370ce6583cd4, udp: true}
 - {name: 🇯🇵 vip1 日本-07 - FastFly, server: node000003.likeone.lol, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 24dc9100-6c15-4717-881d-370ce6583cd4, udp: true}
 - {name: 🇯🇵 vip1 日本-08 - FastFly, server: node000005.likeone.lol, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 24dc9100-6c15-4717-881d-370ce6583cd4, udp: true}
-- {name: 🇯🇵 JCBB_日本01【vip1】 - JCBB, server: node000005.likeone.lol, port: 10327, type: trojan, password: 6f559ec5-c0f9-4861-9ff6-a5058656718c, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本02【vip1】 - JCBB, server: node000001.likeone.lol, port: 10327, type: trojan, password: 6f559ec5-c0f9-4861-9ff6-a5058656718c, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本03【vip1】 - JCBB, server: node000003.likeone.lol, port: 10327, type: trojan, password: 6f559ec5-c0f9-4861-9ff6-a5058656718c, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本04【vip1】 - JCBB, server: node000005.likeone.lol, port: 16483, type: trojan, password: 6f559ec5-c0f9-4861-9ff6-a5058656718c, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本05【vip1】 - JCBB, server: node000001.likeone.lol, port: 16483, type: trojan, password: 6f559ec5-c0f9-4861-9ff6-a5058656718c, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JCBB_日本06【vip1】 - JCBB, server: node000003.likeone.lol, port: 16483, type: trojan, password: 6f559ec5-c0f9-4861-9ff6-a5058656718c, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本01【vip1】 - JCBB, server: node000005.likeone.lol, port: 10327, type: trojan, password: 5b2b6e7c-7c18-4966-a7cb-abc6fa4d9e8e, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本02【vip1】 - JCBB, server: node000001.likeone.lol, port: 10327, type: trojan, password: 5b2b6e7c-7c18-4966-a7cb-abc6fa4d9e8e, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本03【vip1】 - JCBB, server: node000003.likeone.lol, port: 10327, type: trojan, password: 5b2b6e7c-7c18-4966-a7cb-abc6fa4d9e8e, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本04【vip1】 - JCBB, server: node000005.likeone.lol, port: 16483, type: trojan, password: 5b2b6e7c-7c18-4966-a7cb-abc6fa4d9e8e, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本05【vip1】 - JCBB, server: node000001.likeone.lol, port: 16483, type: trojan, password: 5b2b6e7c-7c18-4966-a7cb-abc6fa4d9e8e, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JCBB_日本06【vip1】 - JCBB, server: node000003.likeone.lol, port: 16483, type: trojan, password: 5b2b6e7c-7c18-4966-a7cb-abc6fa4d9e8e, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}

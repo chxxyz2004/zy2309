@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ FastFly 永久跳转地址 https://fastfly.club - FastFly, server: node000001.likeone.lol, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 86082be1-af1e-4c10-b571-011e8646bcc5, udp: true}
-- {name: ℹ FastFly 国外地址： https://cloud.fastfly.top - FastFly, server: node000001.likeone.lol, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 86082be1-af1e-4c10-b571-011e8646bcc5, udp: true}
+- {name: ℹ️ FastFly 永久跳转地址 https://fastfly.club - FastFly, server: node000001.likeone.lol, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 86082be1-af1e-4c10-b571-011e8646bcc5, udp: true}
+- {name: ℹ️ FastFly 国外地址： https://cloud.fastfly.top - FastFly, server: node000001.likeone.lol, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 86082be1-af1e-4c10-b571-011e8646bcc5, udp: true}
 - {name: 🇰🇷 vip1 韩国-01 - FastFly, server: node000001.likeone.lol, port: 14374, type: ss, cipher: chacha20-ietf-poly1305, password: 86082be1-af1e-4c10-b571-011e8646bcc5, udp: true}
 - {name: 🇰🇷 vip1 韩国-02 - FastFly, server: node000005.likeone.lol, port: 14374, type: ss, cipher: chacha20-ietf-poly1305, password: 86082be1-af1e-4c10-b571-011e8646bcc5, udp: true}
 - {name: 🇰🇷 vip1 韩国-03 - FastFly, server: node000003.likeone.lol, port: 14374, type: ss, cipher: chacha20-ietf-poly1305, password: 86082be1-af1e-4c10-b571-011e8646bcc5, udp: true}

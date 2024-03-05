@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19811, type: vmess, uuid: 396bb62f-716a-3c1e-b2b0-f8da4f4f443a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19812, type: vmess, uuid: 396bb62f-716a-3c1e-b2b0-f8da4f4f443a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19811, type: vmess, uuid: e8abdcfc-393d-30e4-b251-a0ff2a0ac965, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19812, type: vmess, uuid: e8abdcfc-393d-30e4-b251-a0ff2a0ac965, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港|SS直连二 - BIUBIU FAST 加速器, server: hk1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 1d4bbcfd-91f9-488a-8324-6dfc1342717c, udp: true}
 - {name: 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11005, type: ss, cipher: chacha20-ietf-poly1305, password: 1d4bbcfd-91f9-488a-8324-6dfc1342717c, udp: true}
 - {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 22001, type: ss, cipher: chacha20-ietf-poly1305, password: 1d4bbcfd-91f9-488a-8324-6dfc1342717c, udp: true}
@@ -126,15 +126,15 @@ proxies:
 - {name: 🇭🇰 vip1 香港-19 - FastFly, server: node000001.likeone.lol, port: 15976, type: ss, cipher: chacha20-ietf-poly1305, password: e386cdfa-714c-4680-8547-b58fe1ddf615, udp: true}
 - {name: 🇭🇰 vip1 香港-20 - FastFly, server: node000003.likeone.lol, port: 15976, type: ss, cipher: chacha20-ietf-poly1305, password: e386cdfa-714c-4680-8547-b58fe1ddf615, udp: true}
 - {name: 🇭🇰 vip1 香港-21 - FastFly, server: node000005.likeone.lol, port: 15976, type: ss, cipher: chacha20-ietf-poly1305, password: e386cdfa-714c-4680-8547-b58fe1ddf615, udp: true}
-- {name: 🇭🇰 JCBB_香港01【vip1】 - JCBB, server: node000005.likeone.lol, port: 25974, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港02【vip1】 - JCBB, server: node000001.likeone.lol, port: 25974, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港03【vip1】 - JCBB, server: node000003.likeone.lol, port: 25974, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港04【vip1】 - JCBB, server: node000003.likeone.lol, port: 35257, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港05【vip1】 - JCBB, server: node000001.likeone.lol, port: 35257, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港06【vip1】 - JCBB, server: node000002.likeone.lol, port: 35257, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港 07【vip1】 - JCBB, server: node000003.likeone.lol, port: 26023, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港 08【vip1】 - JCBB, server: node000005.likeone.lol, port: 26023, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港 09【vip1】 - JCBB, server: node000001.likeone.lol, port: 26023, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港10【vip1】 - JCBB, server: node000003.likeone.lol, port: 15485, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港12【vip1】 - JCBB, server: node000005.likeone.lol, port: 15485, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 JCBB_香港13【vip1】 - JCBB, server: node000001.likeone.lol, port: 15485, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港01【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 25974, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港02【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 25974, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港03【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 25974, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港04【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 35257, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港05【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 35257, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港06【vip1】 - JCBB, server: gcdddd0002.likeone.lol, port: 35257, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港 07【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 26023, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港 08【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 26023, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港 09【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 26023, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港10【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 15485, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港12【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 15485, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港13【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 15485, type: trojan, password: 148b45dc-3473-4a94-b44a-58b53a23dc82, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}

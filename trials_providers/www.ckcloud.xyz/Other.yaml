@@ -1,8 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ JCBB大陆永久跳转地址 https://jcbb.cc - JCBB, server: gcdddd0003.likeone.lol, port: 26681, type: trojan, password: d084176c-179a-4518-b038-559456509572, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 国外永久跳转域名 https://jcbbs.shop - JCBB, server: gcdddd0001.likeone.lol, port: 16343, type: trojan, password: d084176c-179a-4518-b038-559456509572, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 JCBB_越南 01【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 16343, type: trojan, password: d084176c-179a-4518-b038-559456509572, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 JCBB_越南 02【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 16343, type: trojan, password: d084176c-179a-4518-b038-559456509572, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 JCBB_越南 03【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 16343, type: trojan, password: d084176c-179a-4518-b038-559456509572, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}

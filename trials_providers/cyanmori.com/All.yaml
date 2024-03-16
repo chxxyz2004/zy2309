@@ -1,6 +1,7 @@
 %YAML 1.1
 ---
 proxies:
+- {name: ℹ️ 官网地址  https://1100.gg (续费可以直接访问) - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 4628bad8-9dea-33d1-958b-ef59e7e5c67b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港01  - Cyanmori, server: gz.xiyun.co, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: GpsqEJr5iExrgCWk, udp: true}
 - {name: 🇭🇰 香港02 - Cyanmori, server: gz.xiyun.co, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: GpsqEJr5iExrgCWk, udp: true}
 - {name: 🇭🇰 香港03 - Cyanmori, server: gz.xiyun.co, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: GpsqEJr5iExrgCWk, udp: true}
@@ -40,5 +41,4 @@ proxies:
 - {name: 🇦🇺 澳大利亚02 - Cyanmori, server: bcc.xiyun.co, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: GpsqEJr5iExrgCWk, udp: true}
 - {name: 🇦🇪 迪拜01 - Cyanmori, server: bcc.xiyun.co, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: GpsqEJr5iExrgCWk, udp: true}
 - {name: 🇦🇪 迪拜02 - Cyanmori, server: bcc.xiyun.co, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: GpsqEJr5iExrgCWk, udp: true}
-- {name: ℹ️ 官网 https://1100.gg（非节点） - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 4628bad8-9dea-33d1-958b-ef59e7e5c67b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: ℹ️ 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 4628bad8-9dea-33d1-958b-ef59e7e5c67b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

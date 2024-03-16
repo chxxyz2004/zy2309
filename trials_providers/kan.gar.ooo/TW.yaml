@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 GCP-TW1-20240215 - Kangaroo✦Network, server: tw1.daishuvpn.win, port: 443, type: vmess, uuid: b1f7d081-c144-4d93-a284-8422baba7da8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw1.daishuvpn.win}}, udp: true}
-- {name: 🇹🇼 GCP-TW2-20240215 - Kangaroo✦Network, server: tw2.daishuvpn.win, port: 443, type: vmess, uuid: b1f7d081-c144-4d93-a284-8422baba7da8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw2.daishuvpn.win}}, udp: true}
-- {name: 🇹🇼 GCP-TW3-20240215 - Kangaroo✦Network, server: tw3.daishuvpn.win, port: 443, type: vmess, uuid: b1f7d081-c144-4d93-a284-8422baba7da8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw3.daishuvpn.win}}, udp: true}
+- {name: 🇹🇼 GCP-TW1-20240215 - Kangaroo✦Network, server: tw1.daishuvpn.win, port: 443, type: vmess, uuid: 84661f9d-9ed9-490f-8611-055603a194bf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw1.daishuvpn.win}}, udp: true}
+- {name: 🇹🇼 GCP-TW2-20240215 - Kangaroo✦Network, server: tw2.daishuvpn.win, port: 443, type: vmess, uuid: 84661f9d-9ed9-490f-8611-055603a194bf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw2.daishuvpn.win}}, udp: true}
+- {name: 🇹🇼 GCP-TW3-20240215 - Kangaroo✦Network, server: tw3.daishuvpn.win, port: 443, type: vmess, uuid: 84661f9d-9ed9-490f-8611-055603a194bf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw3.daishuvpn.win}}, udp: true}

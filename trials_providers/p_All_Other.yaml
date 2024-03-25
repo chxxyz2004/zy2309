@@ -82,9 +82,9 @@ proxies:
 - {name: 🇦🇺 Web 澳大利亚I-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 9044, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: e3a0990464.download.windowsupdate.com}, udp: true}
 - {name: 🇮🇪 Web 爱尔兰I-原生 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 36201, type: ss, cipher: aes-128-gcm, password: Vdssf.mj/2Zr, plugin: obfs, plugin-opts: {mode: http, host: e3a0990464.download.windowsupdate.com}, udp: true}
 - {name: 🇳🇬 Web 尼日利亚I-原生 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 10021, type: ss, cipher: aes-128-gcm, password: aa2x2sa2/1a, plugin: obfs, plugin-opts: {mode: http, host: e3a0990464.download.windowsupdate.com}, udp: true}
-- {name: ℹ️ 您还未购买服务 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: c80b001b-d047-4477-8bb8-563962f457a7, udp: true}
-- {name: 🇱🇦 请登录6666.66laomao.com 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: c80b001b-d047-4477-8bb8-563962f457a7, udp: true}
-- {name: ℹ️ 购买后请更新订阅 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: c80b001b-d047-4477-8bb8-563962f457a7, udp: true}
+- {name: ℹ️ 您还未购买服务 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: babde3e4-68e5-4c52-a61a-c81a95217522, udp: true}
+- {name: 🇱🇦 请登录6666.66laomao.com 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: babde3e4-68e5-4c52-a61a-c81a95217522, udp: true}
+- {name: ℹ️ 购买后请更新订阅 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: babde3e4-68e5-4c52-a61a-c81a95217522, udp: true}
 - {name: 🇻🇳 JCBB_越南 01【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 16343, type: trojan, password: 80621ccd-f777-43e0-816c-3f8912a86b66, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 JCBB_越南 02【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 16343, type: trojan, password: 80621ccd-f777-43e0-816c-3f8912a86b66, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 JCBB_越南 03【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 16343, type: trojan, password: 80621ccd-f777-43e0-816c-3f8912a86b66, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}

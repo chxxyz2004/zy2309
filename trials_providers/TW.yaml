@@ -8,12 +8,12 @@ proxies:
 - {name: 🇹🇼 台湾02 - Cyanmori, server: gz.xiyun.co, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: 0LrC33xUeU9BmxUz, udp: true}
 - {name: 🇹🇼 台湾03 - Cyanmori, server: gz.xiyun.co, port: 10073, type: ss, cipher: chacha20-ietf-poly1305, password: 0LrC33xUeU9BmxUz, udp: true}
 - {name: 🇹🇼 台湾04 - Cyanmori, server: gz.xiyun.co, port: 10077, type: ss, cipher: chacha20-ietf-poly1305, password: 0LrC33xUeU9BmxUz, udp: true}
-- {name: 🇹🇼 vip1 台湾-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 2b68cb74-d571-464c-a5b7-6ef35fc94e16, udp: true}
-- {name: 🇹🇼 vip1 台湾-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 2b68cb74-d571-464c-a5b7-6ef35fc94e16, udp: true}
-- {name: 🇹🇼 vip1 台湾-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 2b68cb74-d571-464c-a5b7-6ef35fc94e16, udp: true}
-- {name: 🇹🇼 vip1 台湾-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 2b68cb74-d571-464c-a5b7-6ef35fc94e16, udp: true}
-- {name: 🇹🇼 vip1 台湾-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 2b68cb74-d571-464c-a5b7-6ef35fc94e16, udp: true}
-- {name: 🇹🇼 vip1 台湾-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 2b68cb74-d571-464c-a5b7-6ef35fc94e16, udp: true}
+- {name: 🇹🇼 vip1 台湾-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: dfa5f18a-ae0d-494a-b83b-ca2b5debac86, udp: true}
+- {name: 🇹🇼 vip1 台湾-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: dfa5f18a-ae0d-494a-b83b-ca2b5debac86, udp: true}
+- {name: 🇹🇼 vip1 台湾-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: dfa5f18a-ae0d-494a-b83b-ca2b5debac86, udp: true}
+- {name: 🇹🇼 vip1 台湾-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: dfa5f18a-ae0d-494a-b83b-ca2b5debac86, udp: true}
+- {name: 🇹🇼 vip1 台湾-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: dfa5f18a-ae0d-494a-b83b-ca2b5debac86, udp: true}
+- {name: 🇹🇼 vip1 台湾-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: dfa5f18a-ae0d-494a-b83b-ca2b5debac86, udp: true}
 - {name: 🇹🇼 台湾 HINET｜隧道 01 - 爱猫论坛, server: 120.195.181.54, port: 36018, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾 HINET｜隧道 02 - 爱猫论坛, server: 120.195.181.54, port: 36019, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾 HINET｜隧道 03 - 爱猫论坛, server: 120.195.181.54, port: 36020, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -58,8 +58,8 @@ proxies:
 - {name: 🇹🇼 台湾 01 - V2Link VPN, server: host-021.crazyspeed.xyz, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 90cfc577-6d59-4bf8-b2e4-9f7f842d5c8e, udp: true}
 - {name: 🇹🇼 台湾 02 - V2Link VPN, server: host-022.crazyspeed.xyz, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: 90cfc577-6d59-4bf8-b2e4-9f7f842d5c8e, udp: true}
 - {name: 🇹🇼 台湾 03 - V2Link VPN, server: host-023.crazyspeed.xyz, port: 21003, type: ss, cipher: chacha20-ietf-poly1305, password: 90cfc577-6d59-4bf8-b2e4-9f7f842d5c8e, udp: true}
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19821, type: vmess, uuid: e68ca5a8-bf0c-33f8-8137-a51b98eeee95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19822, type: vmess, uuid: e68ca5a8-bf0c-33f8-8137-a51b98eeee95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19821, type: vmess, uuid: 9db1a464-39e5-334b-8e62-f66a134abc5d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19822, type: vmess, uuid: 9db1a464-39e5-334b-8e62-f66a134abc5d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾专线-奈飞-TK-GPT - giao云, server: 91zx.ljydw.top, port: 25997, type: trojan, password: 7f7106c9-4b7b-4def-8270-6d849a586866, sni: 915tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 44331, type: trojan, password: 7f7106c9-4b7b-4def-8270-6d849a586866, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 7f7106c9-4b7b-4def-8270-6d849a586866, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}

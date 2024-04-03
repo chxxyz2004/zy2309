@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 vip1 美国-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: 8f6ca7e1-809d-4836-957d-556cb086f941, udp: true}
-- {name: 🇺🇸 vip1 美国-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: 8f6ca7e1-809d-4836-957d-556cb086f941, udp: true}
-- {name: 🇺🇸 vip1 美国-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: 8f6ca7e1-809d-4836-957d-556cb086f941, udp: true}
-- {name: 🇺🇸 vip1 美国-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: 8f6ca7e1-809d-4836-957d-556cb086f941, udp: true}
-- {name: 🇺🇸 vip1 美国-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: 8f6ca7e1-809d-4836-957d-556cb086f941, udp: true}
-- {name: 🇺🇸 vip1 美国-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: 8f6ca7e1-809d-4836-957d-556cb086f941, udp: true}
-- {name: 🇺🇸 vip1 美国-11 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: 8f6ca7e1-809d-4836-957d-556cb086f941, udp: true}
-- {name: 🇺🇸 vip1 美国-12 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: 8f6ca7e1-809d-4836-957d-556cb086f941, udp: true}
-- {name: 🇺🇸 vip1 美国-13 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: 8f6ca7e1-809d-4836-957d-556cb086f941, udp: true}
+- {name: 🇺🇸 vip1 美国-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: ec7f5285-263b-41e9-bc92-89c404e9693d, udp: true}
+- {name: 🇺🇸 vip1 美国-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: ec7f5285-263b-41e9-bc92-89c404e9693d, udp: true}
+- {name: 🇺🇸 vip1 美国-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: ec7f5285-263b-41e9-bc92-89c404e9693d, udp: true}
+- {name: 🇺🇸 vip1 美国-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: ec7f5285-263b-41e9-bc92-89c404e9693d, udp: true}
+- {name: 🇺🇸 vip1 美国-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: ec7f5285-263b-41e9-bc92-89c404e9693d, udp: true}
+- {name: 🇺🇸 vip1 美国-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: ec7f5285-263b-41e9-bc92-89c404e9693d, udp: true}
+- {name: 🇺🇸 vip1 美国-11 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: ec7f5285-263b-41e9-bc92-89c404e9693d, udp: true}
+- {name: 🇺🇸 vip1 美国-12 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: ec7f5285-263b-41e9-bc92-89c404e9693d, udp: true}
+- {name: 🇺🇸 vip1 美国-13 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: ec7f5285-263b-41e9-bc92-89c404e9693d, udp: true}

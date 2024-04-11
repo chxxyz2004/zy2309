@@ -4,6 +4,6 @@ proxies:
 - {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: 9fd9bc0f-7b68-4f2a-8bd8-aeb6490ad14f, udp: true}
 - {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: 9fd9bc0f-7b68-4f2a-8bd8-aeb6490ad14f, udp: true}
 - {name: 🇸🇬 vip1 新加坡-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: 9fd9bc0f-7b68-4f2a-8bd8-aeb6490ad14f, udp: true}
-- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 40276, type: ss, cipher: chacha20-ietf-poly1305, password: 9fd9bc0f-7b68-4f2a-8bd8-aeb6490ad14f, udp: true}
-- {name: 🇸🇬 vip1 新加坡-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 40276, type: ss, cipher: chacha20-ietf-poly1305, password: 9fd9bc0f-7b68-4f2a-8bd8-aeb6490ad14f, udp: true}
-- {name: 🇸🇬 vip1 新加坡-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 40276, type: ss, cipher: chacha20-ietf-poly1305, password: 9fd9bc0f-7b68-4f2a-8bd8-aeb6490ad14f, udp: true}
+- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: 9fd9bc0f-7b68-4f2a-8bd8-aeb6490ad14f, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: 9fd9bc0f-7b68-4f2a-8bd8-aeb6490ad14f, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: 9fd9bc0f-7b68-4f2a-8bd8-aeb6490ad14f, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}

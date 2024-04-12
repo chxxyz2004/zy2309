@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡01 - Cyanmori, server: sg1.lvuy.xyz, port: 10044, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 228389:1ipGtoPMh75utfSw, obfs-param: 1c458228389.microsoft.com, udp: true}
-- {name: 🇸🇬 新加坡02 - Cyanmori, server: sg2.lvuy.xyz, port: 10045, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 228389:1ipGtoPMh75utfSw, obfs-param: 1c458228389.microsoft.com, udp: true}
-- {name: 🇸🇬 新加坡03 - Cyanmori, server: sg3.lvuy.xyz, port: 10046, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 228389:1ipGtoPMh75utfSw, obfs-param: 1c458228389.microsoft.com, udp: true}
-- {name: 🇸🇬 新加坡04 - Cyanmori, server: sg4.lvuy.xyz, port: 10068, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 228389:1ipGtoPMh75utfSw, obfs-param: 1c458228389.microsoft.com, udp: true}
+- {name: 🇸🇬 新加坡01 - Cyanmori, server: sg1.lvuy.xyz, port: 10044, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 228636:gNOd3Tyw5NbAvKpB, obfs-param: d8b6d228636.microsoft.com, udp: true}
+- {name: 🇸🇬 新加坡02 - Cyanmori, server: sg2.lvuy.xyz, port: 10045, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 228636:gNOd3Tyw5NbAvKpB, obfs-param: d8b6d228636.microsoft.com, udp: true}
+- {name: 🇸🇬 新加坡03 - Cyanmori, server: sg3.lvuy.xyz, port: 10046, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 228636:gNOd3Tyw5NbAvKpB, obfs-param: d8b6d228636.microsoft.com, udp: true}
+- {name: 🇸🇬 新加坡04 - Cyanmori, server: sg4.lvuy.xyz, port: 10068, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 228636:gNOd3Tyw5NbAvKpB, obfs-param: d8b6d228636.microsoft.com, udp: true}

@@ -9,7 +9,7 @@ proxies:
 - {name: 🇬🇧 英国01 - Cyanmori, server: uk1.lvuy.xyz, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: icKwdomV5XXkOlpn, udp: true}
 - {name: 🇬🇧 英国02 - Cyanmori, server: uk1.lvuy.xyz, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: icKwdomV5XXkOlpn, udp: true}
 - {name: 🇩🇪 德国01 - Cyanmori, server: ed.lvuy.xyz, port: 10069, type: ss, cipher: chacha20-ietf-poly1305, password: icKwdomV5XXkOlpn, udp: true}
-- {name: 🇫🇷 法国 - Cyanmori, server: fr.lvuy.xyz, port: 10076, type: ss, cipher: aes-256-cfb, password: MetronTheme, udp: true}
+- {name: 🇫🇷 法国 - Cyanmori, server: fr.lvuy.xyz, port: 10076, type: ss, cipher: chacha20-ietf-poly1305, password: icKwdomV5XXkOlpn, udp: true}
 - {name: 🇦🇺 澳大利亚01 - Cyanmori, server: xn1.lvuy.xyz, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: icKwdomV5XXkOlpn, udp: true}
 - {name: 🇦🇺 澳大利亚02 - Cyanmori, server: xn2.lvuy.xyz, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: icKwdomV5XXkOlpn, udp: true}
 - {name: 🇦🇪 迪拜01 - Cyanmori, server: dibai1.lvuy.xyz, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: icKwdomV5XXkOlpn, udp: true}

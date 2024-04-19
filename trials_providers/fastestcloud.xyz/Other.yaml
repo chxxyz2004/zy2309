@@ -1,10 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ FastFly 永久跳转地址 https://fastfly.club - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: 9519bfa7-bb4e-49b8-9578-76d404f4841e, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: ℹ️ FastFly 国外地址： https://cloud.fastfly.top - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: 9519bfa7-bb4e-49b8-9578-76d404f4841e, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: ℹ️ FastFly 永久跳转地址 https://fastfly.club 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 62690, type: vmess, uuid: 9519bfa7-bb4e-49b8-9578-76d404f4841e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk05.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: ℹ️ FastFly 国外地址： https://cloud.fastfly.top 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 62690, type: vmess, uuid: 9519bfa7-bb4e-49b8-9578-76d404f4841e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk05.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
+- {name: ℹ️ FastFly 永久跳转地址 https://fastfly.club - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 62690, type: vmess, uuid: 9519bfa7-bb4e-49b8-9578-76d404f4841e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk05.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
+- {name: ℹ️ FastFly 国外地址： https://cloud.fastfly.top - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 62690, type: vmess, uuid: 9519bfa7-bb4e-49b8-9578-76d404f4841e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk05.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
 - {name: 🇲🇾 vip1 马来西亚-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 25881, type: trojan, password: 9519bfa7-bb4e-49b8-9578-76d404f4841e, sni: my01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇲🇾 vip1 马来西亚-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 25881, type: trojan, password: 9519bfa7-bb4e-49b8-9578-76d404f4841e, sni: my01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇲🇾 vip1 马来西亚-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 25881, type: trojan, password: 9519bfa7-bb4e-49b8-9578-76d404f4841e, sni: my01.ckcloud.info, skip-cert-verify: true, udp: true}

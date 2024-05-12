@@ -50,6 +50,7 @@ proxy-groups:
   - 🇸🇬 vip1 新加坡-07 - FastFly
   - 🇯🇵 vip1 日本-01 - FastFly
   - 🇯🇵 vip1 日本-02 - FastFly
+  - 🇯🇵 vip1 日本-03 - FastFly
   - 🇯🇵 vip1 日本-06 - FastFly
   - 🇯🇵 vip1 日本-07 - FastFly
   - 🇺🇸 vip1 美国-01 - FastFly
@@ -180,6 +181,7 @@ proxy-groups:
   proxies: &id006
   - 🇯🇵 vip1 日本-01 - FastFly
   - 🇯🇵 vip1 日本-02 - FastFly
+  - 🇯🇵 vip1 日本-03 - FastFly
   - 🇯🇵 vip1 日本-06 - FastFly
   - 🇯🇵 vip1 日本-07 - FastFly
 - name: 🇺🇸 ‍美国
@@ -245,6 +247,7 @@ proxies:
 - {name: ℹ️ FastFly 国外地址： https://cloud.fastfly.top - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 22704, type: trojan, password: d55000d3-4bb2-4152-80d9-bd105f5999ea, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 vip1 日本-01 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 20356, type: trojan, password: d55000d3-4bb2-4152-80d9-bd105f5999ea, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 vip1 日本-02 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 20356, type: trojan, password: d55000d3-4bb2-4152-80d9-bd105f5999ea, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-03 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 65032, type: trojan, password: d55000d3-4bb2-4152-80d9-bd105f5999ea, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 vip1 日本-06 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 37581, type: trojan, password: d55000d3-4bb2-4152-80d9-bd105f5999ea, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 vip1 日本-07 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 37581, type: trojan, password: d55000d3-4bb2-4152-80d9-bd105f5999ea, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-01 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 15976, type: trojan, password: d55000d3-4bb2-4152-80d9-bd105f5999ea, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}

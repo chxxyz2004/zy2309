@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 vip1 美国-01 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 10598, type: trojan, password: 303c1e21-3f35-489b-860c-2e7bab66beca, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 vip1 美国-02 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 10598, type: trojan, password: 303c1e21-3f35-489b-860c-2e7bab66beca, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 vip1 美国-06 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 10519, type: trojan, password: 303c1e21-3f35-489b-860c-2e7bab66beca, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 vip1 美国-07 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 10519, type: trojan, password: 303c1e21-3f35-489b-860c-2e7bab66beca, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 vip1 美国-11 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 28625, type: trojan, password: 303c1e21-3f35-489b-860c-2e7bab66beca, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 vip1 美国-12 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 28625, type: trojan, password: 303c1e21-3f35-489b-860c-2e7bab66beca, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 vip1 美国-01 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 10598, type: trojan, password: a839f6de-afad-41d8-81a3-591f7338eef7, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 vip1 美国-02 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 10598, type: trojan, password: a839f6de-afad-41d8-81a3-591f7338eef7, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 vip1 美国-06 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 10519, type: trojan, password: a839f6de-afad-41d8-81a3-591f7338eef7, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 vip1 美国-07 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 10519, type: trojan, password: a839f6de-afad-41d8-81a3-591f7338eef7, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 vip1 美国-11 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 28625, type: trojan, password: a839f6de-afad-41d8-81a3-591f7338eef7, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 vip1 美国-12 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 28625, type: trojan, password: a839f6de-afad-41d8-81a3-591f7338eef7, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}

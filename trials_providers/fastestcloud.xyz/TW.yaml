@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 vip1 台湾-01 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 25074, type: trojan, password: 303c1e21-3f35-489b-860c-2e7bab66beca, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 vip1 台湾-02 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 25074, type: trojan, password: 303c1e21-3f35-489b-860c-2e7bab66beca, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 vip1 台湾-06 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 35672, type: trojan, password: 303c1e21-3f35-489b-860c-2e7bab66beca, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 vip1 台湾-07 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 35672, type: trojan, password: 303c1e21-3f35-489b-860c-2e7bab66beca, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 vip1 台湾-01 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 25074, type: trojan, password: a839f6de-afad-41d8-81a3-591f7338eef7, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 vip1 台湾-02 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 25074, type: trojan, password: a839f6de-afad-41d8-81a3-591f7338eef7, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 vip1 台湾-06 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 35672, type: trojan, password: a839f6de-afad-41d8-81a3-591f7338eef7, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 vip1 台湾-07 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 35672, type: trojan, password: a839f6de-afad-41d8-81a3-591f7338eef7, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}

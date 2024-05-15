@@ -73,7 +73,6 @@ proxy-groups:
   - 🇺🇸 vip1 美国-11 测试 - FastFly
   - ℹ️ FastFly 永久跳转地址 https://fastfly.club - FastFly
   - ℹ️ FastFly 国外地址： https://cloud.fastfly.top - FastFly
-  - 🇰🇷 vip1 韩国-01 测试 - FastFly
   - 🇲🇾 vip1 马来西亚-01 - FastFly
   - 🇲🇾 vip1 马来西亚-02 - FastFly
   - 🇲🇾 vip1 马来西亚-01 测试 - FastFly
@@ -242,7 +241,6 @@ proxy-groups:
   proxies: &id008
   - ℹ️ FastFly 永久跳转地址 https://fastfly.club - FastFly
   - ℹ️ FastFly 国外地址： https://cloud.fastfly.top - FastFly
-  - 🇰🇷 vip1 韩国-01 测试 - FastFly
   - 🇲🇾 vip1 马来西亚-01 - FastFly
   - 🇲🇾 vip1 马来西亚-02 - FastFly
   - 🇲🇾 vip1 马来西亚-01 测试 - FastFly
@@ -291,7 +289,6 @@ proxy-groups:
 proxies:
 - {name: ℹ️ FastFly 永久跳转地址 https://fastfly.club - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 22704, type: trojan, password: 3d0a90ef-3fa3-48f6-b2b3-a1458063b87e, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: ℹ️ FastFly 国外地址： https://cloud.fastfly.top - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 22704, type: trojan, password: 3d0a90ef-3fa3-48f6-b2b3-a1458063b87e, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 vip1 韩国-01 测试 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 10712, type: vmess, uuid: 3d0a90ef-3fa3-48f6-b2b3-a1458063b87e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sk01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
 - {name: 🇯🇵 vip1 日本-01 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 20356, type: trojan, password: 3d0a90ef-3fa3-48f6-b2b3-a1458063b87e, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 vip1 日本-02 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 20356, type: trojan, password: 3d0a90ef-3fa3-48f6-b2b3-a1458063b87e, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 vip1 日本-01 测试 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 57230, type: vmess, uuid: 3d0a90ef-3fa3-48f6-b2b3-a1458063b87e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jp01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}

@@ -270,7 +270,7 @@ proxies:
 - {name: 🇰🇷 韩国01 - Cyanmori, server: kr1.lvuy.xyz, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: ID0icjpzTVR2svmI, udp: true}
 - {name: 🇰🇷 韩国02 - Cyanmori, server: kr2.lvuy.xyz, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: ID0icjpzTVR2svmI, udp: true}
 - {name: 🇬🇧 英国01 - Cyanmori, server: uk1.lvuy.xyz, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: ID0icjpzTVR2svmI, udp: true}
-- {name: 🇬🇧 英国02 - Cyanmori, server: uk1.lvuy.xyz, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: ID0icjpzTVR2svmI, udp: true}
+- {name: 🇬🇧 英国02 - Cyanmori, server: uk2.lvuy.xyz, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: ID0icjpzTVR2svmI, udp: true}
 - {name: 🇩🇪 德国01 - Cyanmori, server: ed.lvuy.xyz, port: 10069, type: ss, cipher: chacha20-ietf-poly1305, password: ID0icjpzTVR2svmI, udp: true}
 - {name: 🇫🇷 法国 - Cyanmori, server: fr.lvuy.xyz, port: 10076, type: ss, cipher: chacha20-ietf-poly1305, password: ID0icjpzTVR2svmI, udp: true}
 - {name: 🇦🇺 澳大利亚01 - Cyanmori, server: xn1.lvuy.xyz, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: ID0icjpzTVR2svmI, udp: true}

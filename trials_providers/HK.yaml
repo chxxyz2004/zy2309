@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19811, type: vmess, uuid: 90111039-83b9-33c6-bab1-6168bf45fc95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19812, type: vmess, uuid: 90111039-83b9-33c6-bab1-6168bf45fc95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19811, type: vmess, uuid: a6e4d249-a91a-3182-b663-860f7ae37da2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19812, type: vmess, uuid: a6e4d249-a91a-3182-b663-860f7ae37da2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港专线1-奈飞-TK - giao云, server: zx.fr99kt.top, port: 12895, type: trojan, password: 7f7106c9-4b7b-4def-8270-6d849a586866, sni: 98hk.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港专线2 - giao云, server: 91zx.ljydw.top, port: 21112, type: trojan, password: 7f7106c9-4b7b-4def-8270-6d849a586866, sni: 910hk02.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港专线3 - giao云, server: 91zx.ljydw.top, port: 21115, type: trojan, password: 7f7106c9-4b7b-4def-8270-6d849a586866, sni: 911hk3.ljydw.top, skip-cert-verify: true, udp: true}

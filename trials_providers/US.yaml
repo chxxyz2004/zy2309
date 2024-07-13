@@ -34,8 +34,8 @@ proxies:
 - {name: 🇺🇸 vip1 美国-12 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 28625, type: trojan, password: bfc75171-c6e0-40f1-95d7-f05aed7c84b2, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 vip1 美国-13 - FastFly, server: f10002.flyflylflyflysbs.sbs, port: 28625, type: trojan, password: bfc75171-c6e0-40f1-95d7-f05aed7c84b2, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 vip1 美国-11 测试 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 46121, type: vmess, uuid: bfc75171-c6e0-40f1-95d7-f05aed7c84b2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us04.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 29811, type: vmess, uuid: f53c1f86-2720-386e-979f-ef0267376c26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19862, type: vmess, uuid: f53c1f86-2720-386e-979f-ef0267376c26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 29811, type: vmess, uuid: 0af70087-a8a4-3e43-9958-f10e7c8ed64e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19862, type: vmess, uuid: 0af70087-a8a4-3e43-9958-f10e7c8ed64e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇲 美国01 - Cyanmori, server: us1.lvuy.xyz, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: 0jBfwZtybCvcurDF, udp: true}
 - {name: 🇺🇲 美国02 - Cyanmori, server: us2.lvuy.xyz, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: 0jBfwZtybCvcurDF, udp: true}
 - {name: 🇺🇲 美国03 - Cyanmori, server: us3.lvuy.xyz, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: 0jBfwZtybCvcurDF, udp: true}

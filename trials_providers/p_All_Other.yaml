@@ -52,11 +52,11 @@ proxies:
 - {name: 🇬🇧 vip1 英国-01 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 39788, type: trojan, password: bfc75171-c6e0-40f1-95d7-f05aed7c84b2, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 vip1 英国-02 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 39788, type: trojan, password: bfc75171-c6e0-40f1-95d7-f05aed7c84b2, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 vip1 英国-01 测试 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 56394, type: vmess, uuid: bfc75171-c6e0-40f1-95d7-f05aed7c84b2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: uk01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: 🇮🇳 印度尼西亚 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19891, type: vmess, uuid: b45b9215-83f8-3422-b5c2-1530eea163cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度尼西亚 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19892, type: vmess, uuid: b45b9215-83f8-3422-b5c2-1530eea163cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19893, type: vmess, uuid: b45b9215-83f8-3422-b5c2-1530eea163cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 越南 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19894, type: vmess, uuid: b45b9215-83f8-3422-b5c2-1530eea163cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: b45b9215-83f8-3422-b5c2-1530eea163cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度尼西亚 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19891, type: vmess, uuid: e76a2a3c-797b-3d91-aabf-68253d327eb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度尼西亚 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19892, type: vmess, uuid: e76a2a3c-797b-3d91-aabf-68253d327eb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19893, type: vmess, uuid: e76a2a3c-797b-3d91-aabf-68253d327eb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19894, type: vmess, uuid: e76a2a3c-797b-3d91-aabf-68253d327eb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: e76a2a3c-797b-3d91-aabf-68253d327eb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: ℹ️ 官网：https://1100.gg - Cyanmori, server: ar.suxia.co, port: 443, type: vmess, uuid: 502a95ec-66f4-368f-bf30-b8a8eb6fd756, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇮🇳 印度01 - Cyanmori, server: in1.lvuy.xyz, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: aIj4c6xEWt5D4iKf, udp: true}
 - {name: 🇮🇳 印度02 - Cyanmori, server: in2.lvuy.xyz, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: aIj4c6xEWt5D4iKf, udp: true}
@@ -72,9 +72,9 @@ proxies:
 - {name: 🇦🇪 迪拜02 - Cyanmori, server: dibai2.lvuy.xyz, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: aIj4c6xEWt5D4iKf, udp: true}
 - {name: 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11012, type: ss, cipher: chacha20-ietf-poly1305, password: 904d24ff-31d7-4bcc-9b1f-5bb8fe1f3e6a, udp: true}
 - {name: 🇩🇪 德国 | 德国高速（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11301, type: trojan, password: 904d24ff-31d7-4bcc-9b1f-5bb8fe1f3e6a, sni: dg5.biubiufast.quest, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 您还未购买服务 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: eda8fca6-e7fe-4bb4-a0dc-48aa50425f4f, udp: true}
-- {name: 🇱🇦 请登录6666.66laomao.com 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: eda8fca6-e7fe-4bb4-a0dc-48aa50425f4f, udp: true}
-- {name: ℹ️ 购买后请更新订阅 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: eda8fca6-e7fe-4bb4-a0dc-48aa50425f4f, udp: true}
+- {name: ℹ️ 您还未购买服务 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 4e821795-0611-45c3-b398-0e26aa5c5ada, udp: true}
+- {name: 🇱🇦 请登录6666.66laomao.com 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 4e821795-0611-45c3-b398-0e26aa5c5ada, udp: true}
+- {name: ℹ️ 购买后请更新订阅 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 4e821795-0611-45c3-b398-0e26aa5c5ada, udp: true}
 - {name: 🇦🇺 GCP-AU1-20240215 - Kangaroo✦Network, server: au1.pay.edu.kg, port: 443, type: vmess, uuid: 84661f9d-9ed9-490f-8611-055603a194bf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.pay.edu.kg}}, udp: true}
 - {name: 🇰🇷 韩国 01 - V2Link VPN, server: host-026.crazyspeed.xyz, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: 90cfc577-6d59-4bf8-b2e4-9f7f842d5c8e, udp: true}
 - {name: 🇰🇷 韩国 02 - V2Link VPN, server: host-027.crazyspeed.xyz, port: 21007, type: ss, cipher: chacha20-ietf-poly1305, password: 90cfc577-6d59-4bf8-b2e4-9f7f842d5c8e, udp: true}

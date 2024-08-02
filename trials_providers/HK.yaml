@@ -16,14 +16,14 @@ proxies:
 - {name: 🇭🇰 香港专线3 - giao云, server: 91zx.ljydw.top, port: 21115, type: trojan, password: 7f7106c9-4b7b-4def-8270-6d849a586866, sni: 911hk3.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港3 - giao云, server: 822hk3.ljydw.top, port: 49319, type: trojan, password: 7f7106c9-4b7b-4def-8270-6d849a586866, sni: 822hk3.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港5 - giao云, server: 822hk6.ljydw.top, port: 49319, type: trojan, password: 7f7106c9-4b7b-4def-8270-6d849a586866, sni: 822hk6.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港01 - Cyanmori, server: hk1.lvuy.xyz, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: bQVE4r7IQ1cdkP6F, udp: true}
-- {name: 🇭🇰 香港02 - Cyanmori, server: hk2.lvuy.xyz, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: bQVE4r7IQ1cdkP6F, udp: true}
-- {name: 🇭🇰 香港03 - Cyanmori, server: hk3.lvuy.xyz, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: bQVE4r7IQ1cdkP6F, udp: true}
-- {name: 🇭🇰 香港04 - Cyanmori, server: hk4.lvuy.xyz, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: bQVE4r7IQ1cdkP6F, udp: true}
-- {name: 🇭🇰 香港05 - Cyanmori, server: hk5.lvuy.xyz, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: bQVE4r7IQ1cdkP6F, udp: true}
-- {name: 🇭🇰 香港06 - Cyanmori, server: hk6.lvuy.xyz, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: bQVE4r7IQ1cdkP6F, udp: true}
-- {name: 🇭🇰 香港07 - Cyanmori, server: hk7.lvuy.xyz, port: 10072, type: ss, cipher: chacha20-ietf-poly1305, password: bQVE4r7IQ1cdkP6F, udp: true}
-- {name: 🇭🇰 香港08 - Cyanmori, server: hk8.lvuy.xyz, port: 10074, type: ss, cipher: chacha20-ietf-poly1305, password: bQVE4r7IQ1cdkP6F, udp: true}
+- {name: 🇭🇰 香港01 - Cyanmori, server: hk1.lvuy.xyz, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: KYNa2Eex9jjZfxgi, udp: true}
+- {name: 🇭🇰 香港02 - Cyanmori, server: hk2.lvuy.xyz, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: KYNa2Eex9jjZfxgi, udp: true}
+- {name: 🇭🇰 香港03 - Cyanmori, server: hk3.lvuy.xyz, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: KYNa2Eex9jjZfxgi, udp: true}
+- {name: 🇭🇰 香港04 - Cyanmori, server: hk4.lvuy.xyz, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: KYNa2Eex9jjZfxgi, udp: true}
+- {name: 🇭🇰 香港05 - Cyanmori, server: hk5.lvuy.xyz, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: KYNa2Eex9jjZfxgi, udp: true}
+- {name: 🇭🇰 香港06 - Cyanmori, server: hk6.lvuy.xyz, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: KYNa2Eex9jjZfxgi, udp: true}
+- {name: 🇭🇰 香港07 - Cyanmori, server: hk7.lvuy.xyz, port: 10072, type: ss, cipher: chacha20-ietf-poly1305, password: KYNa2Eex9jjZfxgi, udp: true}
+- {name: 🇭🇰 香港08 - Cyanmori, server: hk8.lvuy.xyz, port: 10074, type: ss, cipher: chacha20-ietf-poly1305, password: KYNa2Eex9jjZfxgi, udp: true}
 - {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19811, type: vmess, uuid: 15242506-92b0-38c7-b79b-8e2a9da166a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19812, type: vmess, uuid: 15242506-92b0-38c7-b79b-8e2a9da166a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇭🇰 [vip①]香港1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: 7a5abe31-a831-3fdb-8102-3166b19ab2d0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

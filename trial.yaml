@@ -2111,9 +2111,9 @@ proxies:
 - {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 11.v2-ray.cyou, port: 23611, type: vmess, uuid: 5c43c22b-599b-3b03-98e5-134a05e0005a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.v2-ray.cyou}}, udp: true}
 - {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 5c43c22b-599b-3b03-98e5-134a05e0005a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
 - {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: 17.v2-ray.cyou, port: 23617, type: vmess, uuid: 5c43c22b-599b-3b03-98e5-134a05e0005a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.v2-ray.cyou}}, udp: true}
-- {name: ℹ️ 您还未购买服务 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 28d333b6-2206-444f-97cb-11b8a723ea04, udp: true}
-- {name: 🇱🇦 请登录66.66laomao.com 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 28d333b6-2206-444f-97cb-11b8a723ea04, udp: true}
-- {name: ℹ️ 购买后请更新订阅 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 28d333b6-2206-444f-97cb-11b8a723ea04, udp: true}
+- {name: ℹ️ 您还未购买服务 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: d47357d2-137b-4af8-bcc7-e115ff0f619a, udp: true}
+- {name: 🇱🇦 请登录66.66laomao.com 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: d47357d2-137b-4af8-bcc7-e115ff0f619a, udp: true}
+- {name: ℹ️ 购买后请更新订阅 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: d47357d2-137b-4af8-bcc7-e115ff0f619a, udp: true}
 - {name: 🇭🇰 香港 01 - V2Link VPN, server: host-001.crazyspeed.xyz, port: 30501, type: ss, cipher: chacha20-ietf-poly1305, password: 90cfc577-6d59-4bf8-b2e4-9f7f842d5c8e, udp: true}
 - {name: 🇭🇰 香港 02 - V2Link VPN, server: host-002.crazyspeed.xyz, port: 30502, type: ss, cipher: chacha20-ietf-poly1305, password: 90cfc577-6d59-4bf8-b2e4-9f7f842d5c8e, udp: true}
 - {name: 🇭🇰 香港 03 - V2Link VPN, server: host-003.crazyspeed.xyz, port: 30503, type: ss, cipher: chacha20-ietf-poly1305, password: 90cfc577-6d59-4bf8-b2e4-9f7f842d5c8e, udp: true}
@@ -2561,7 +2561,6 @@ rules:
 - DOMAIN-SUFFIX,rtbasia.com,💩 ‍广告
 - DOMAIN-SUFFIX,sanya1.com,💩 ‍广告
 - DOMAIN-SUFFIX,scupio.com,💩 ‍广告
-- DOMAIN-SUFFIX,serving-sys.com,💩 ‍广告
 - DOMAIN-SUFFIX,shuiguo.com,💩 ‍广告
 - DOMAIN-SUFFIX,shuzilm.cn,💩 ‍广告
 - DOMAIN-SUFFIX,similarweb.com,💩 ‍广告
@@ -2629,6 +2628,7 @@ rules:
 - DOMAIN-SUFFIX,wqmobile.com,💩 ‍广告
 - DOMAIN-SUFFIX,wrating.com,💩 ‍广告
 - DOMAIN-SUFFIX,wumii.cn,💩 ‍广告
+- DOMAIN-SUFFIX,wwads.cn,💩 ‍广告
 - DOMAIN-SUFFIX,xcy8.com,💩 ‍广告
 - DOMAIN-SUFFIX,xdrig.com,💩 ‍广告
 - DOMAIN-SUFFIX,xiaozhen.com,💩 ‍广告
@@ -2662,7 +2662,6 @@ rules:
 - DOMAIN-SUFFIX,zhjfad.com,💩 ‍广告
 - DOMAIN-SUFFIX,zqzxz.com,💩 ‍广告
 - DOMAIN-SUFFIX,zzsx8.com,💩 ‍广告
-- DOMAIN-SUFFIX,wwads.cn,💩 ‍广告
 - DOMAIN-SUFFIX,acuityplatform.com,💩 ‍广告
 - DOMAIN-SUFFIX,ad-stir.com,💩 ‍广告
 - DOMAIN-SUFFIX,ad-survey.com,💩 ‍广告
@@ -2786,6 +2785,7 @@ rules:
 - DOMAIN-SUFFIX,sape.ru,💩 ‍广告
 - DOMAIN-SUFFIX,scorecardresearch.com,💩 ‍广告
 - DOMAIN-SUFFIX,segment.com,💩 ‍广告
+- DOMAIN-SUFFIX,serving-sys.com,💩 ‍广告
 - DOMAIN-SUFFIX,sharethis.com,💩 ‍广告
 - DOMAIN-SUFFIX,smaato.com,💩 ‍广告
 - DOMAIN-SUFFIX,smaato.net,💩 ‍广告
@@ -4334,6 +4334,7 @@ rules:
 - DOMAIN-SUFFIX,axureformac.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,azerbaycan.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,azerimix.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,azirevpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,azubu.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,azurewebsites.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,b-ok.cc,✈️ ‍起飞
@@ -4494,6 +4495,7 @@ rules:
 - DOMAIN-SUFFIX,blubrry.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,blueangellive.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,bmfinn.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,bnbstatic.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,bnews.co,✈️ ‍起飞
 - DOMAIN-SUFFIX,bnn.co,✈️ ‍起飞
 - DOMAIN-SUFFIX,bnrmetal.com,✈️ ‍起飞
@@ -4817,6 +4819,7 @@ rules:
 - DOMAIN-SUFFIX,clubhouseapi.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,clyp.it,✈️ ‍起飞
 - DOMAIN-SUFFIX,cmcn.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,cmegroup.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cmoinc.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,cms.gov,✈️ ‍起飞
 - DOMAIN-SUFFIX,cmu.edu,✈️ ‍起飞
@@ -6071,6 +6074,7 @@ rules:
 - DOMAIN-SUFFIX,imageab.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,imagefap.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,imageflea.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,imageglass.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,images-gaytube.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,imagevenue.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,imagezilla.net,✈️ ‍起飞
@@ -6176,6 +6180,7 @@ rules:
 - DOMAIN-SUFFIX,ivacy.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,iverycd.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ivpn.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,iwara.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,ixquick.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ixxx.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,iyouport.com,✈️ ‍起飞
@@ -7173,6 +7178,7 @@ rules:
 - DOMAIN-SUFFIX,perfect-privacy.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,perfectgirls.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,periscope.tv,✈️ ‍起飞
+- DOMAIN-SUFFIX,perplexity.ai,✈️ ‍起飞
 - DOMAIN-SUFFIX,persecutionblog.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,persiankitty.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,phapluan.org,✈️ ‍起飞
@@ -7836,6 +7842,7 @@ rules:
 - DOMAIN-SUFFIX,stoptibetcrisis.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,storagenewsletter.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,storify.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,storj.io,✈️ ‍起飞
 - DOMAIN-SUFFIX,storm.mg,✈️ ‍起飞
 - DOMAIN-SUFFIX,stormmediagroup.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,stoweboyd.com,✈️ ‍起飞
@@ -8122,6 +8129,7 @@ rules:
 - DOMAIN-SUFFIX,tibetswiss.ch,✈️ ‍起飞
 - DOMAIN-SUFFIX,tibettelegraph.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,tibettimes.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,tibettruth.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,tibetwrites.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,tigervpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,tiktok.com,✈️ ‍起飞
@@ -8401,7 +8409,7 @@ rules:
 - DOMAIN-SUFFIX,urlparser.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,us.to,✈️ ‍起飞
 - DOMAIN-SUFFIX,usacn.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,usc.edu,✈️ ‍起飞
+- DOMAIN-SUFFIX,uscardforum.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,uscnpm.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,usembassy.gov,✈️ ‍起飞
 - DOMAIN-SUFFIX,usfk.mil,✈️ ‍起飞
@@ -9575,6 +9583,7 @@ rules:
 - DOMAIN-SUFFIX,kaola.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,knewone.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,koowo.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,koyso.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ksyungslb.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,kuaidi100.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,kugou.com,🛩️ ‍墙内

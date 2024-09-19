@@ -30,13 +30,13 @@ proxies:
 - {name: 🇺🇸 美国 直连2 - 爱猫论坛, server: maous2.wzgmail.com, port: 443, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: maous2.wzgmail.com}}, udp: true}
 - {name: 🇺🇸 美国 直连3 - 爱猫论坛, server: maous3.wzgmail.com, port: 31235, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: maous3.wzgmail.com}}, udp: true}
 - {name: 🇺🇸 美国 直连4 - 爱猫论坛, server: maous4.wzgmail.com, port: 31235, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: maous4.wzgmail.com}}, udp: true}
-- {name: 🇺🇲 美国01 - Cyanmori, server: us1.lvuy.xyz, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: UHvfKmshE1qsbATi, udp: true}
-- {name: 🇺🇲 美国02 - Cyanmori, server: us2.lvuy.xyz, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: UHvfKmshE1qsbATi, udp: true}
-- {name: 🇺🇲 美国03 - Cyanmori, server: us3.lvuy.xyz, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: UHvfKmshE1qsbATi, udp: true}
-- {name: 🇺🇲 美国04 - Cyanmori, server: us4.lvuy.xyz, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: UHvfKmshE1qsbATi, udp: true}
-- {name: 🇺🇲 美国05 - Cyanmori, server: us5.lvuy.xyz, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: UHvfKmshE1qsbATi, udp: true}
-- {name: 🇺🇲 美国06 - Cyanmori, server: us6.lvuy.xyz, port: 20036, type: ss, cipher: chacha20-ietf-poly1305, password: UHvfKmshE1qsbATi, udp: true}
-- {name: 🇺🇲 美国07 - Cyanmori, server: us7.lvuy.xyz, port: 10075, type: ss, cipher: chacha20-ietf-poly1305, password: UHvfKmshE1qsbATi, udp: true}
+- {name: 🇺🇲 美国01 - Cyanmori, server: us1.lvuy.xyz, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: e26PwJeAE0liTUug, udp: true}
+- {name: 🇺🇲 美国02 - Cyanmori, server: us2.lvuy.xyz, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: e26PwJeAE0liTUug, udp: true}
+- {name: 🇺🇲 美国03 - Cyanmori, server: us3.lvuy.xyz, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: e26PwJeAE0liTUug, udp: true}
+- {name: 🇺🇲 美国04 - Cyanmori, server: us4.lvuy.xyz, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: e26PwJeAE0liTUug, udp: true}
+- {name: 🇺🇲 美国05 - Cyanmori, server: us5.lvuy.xyz, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: e26PwJeAE0liTUug, udp: true}
+- {name: 🇺🇲 美国06 - Cyanmori, server: us6.lvuy.xyz, port: 20036, type: ss, cipher: chacha20-ietf-poly1305, password: e26PwJeAE0liTUug, udp: true}
+- {name: 🇺🇲 美国07 - Cyanmori, server: us7.lvuy.xyz, port: 10075, type: ss, cipher: chacha20-ietf-poly1305, password: e26PwJeAE0liTUug, udp: true}
 - {name: 🇺🇸 JCBB_ 美国01【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 48560, type: trojan, password: 67508dd6-4a5d-41a0-a597-9e716aea1c73, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 JCBB_ 美国02【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 48560, type: trojan, password: 67508dd6-4a5d-41a0-a597-9e716aea1c73, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 JCBB_ 美国02_1【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 48560, type: trojan, password: 67508dd6-4a5d-41a0-a597-9e716aea1c73, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}

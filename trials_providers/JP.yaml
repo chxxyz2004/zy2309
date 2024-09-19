@@ -26,10 +26,10 @@ proxies:
 - {name: 🇯🇵 日本 东京｜隧道 01 - 爱猫论坛, server: sahng4.594888.xyz, port: 36011, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 东京｜隧道 02 GBT - 爱猫论坛, server: sahng6.594888.xyz, port: 36012, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 东京｜隧道 03 GBT - 爱猫论坛, server: sahng2.594888.xyz, port: 36013, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本01 - Cyanmori, server: jp1.lvuy.xyz, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: UHvfKmshE1qsbATi, udp: true}
-- {name: 🇯🇵 日本02 - Cyanmori, server: jp2.lvuy.xyz, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: UHvfKmshE1qsbATi, udp: true}
-- {name: 🇯🇵 日本03 - Cyanmori, server: jp3.lvuy.xyz, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: UHvfKmshE1qsbATi, udp: true}
-- {name: 🇯🇵 日本04 - Cyanmori, server: jp4.lvuy.xyz, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: UHvfKmshE1qsbATi, udp: true}
+- {name: 🇯🇵 日本01 - Cyanmori, server: jp1.lvuy.xyz, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: e26PwJeAE0liTUug, udp: true}
+- {name: 🇯🇵 日本02 - Cyanmori, server: jp2.lvuy.xyz, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: e26PwJeAE0liTUug, udp: true}
+- {name: 🇯🇵 日本03 - Cyanmori, server: jp3.lvuy.xyz, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: e26PwJeAE0liTUug, udp: true}
+- {name: 🇯🇵 日本04 - Cyanmori, server: jp4.lvuy.xyz, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: e26PwJeAE0liTUug, udp: true}
 - {name: 🇯🇵 JCBB_日本01【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 10327, type: trojan, password: 67508dd6-4a5d-41a0-a597-9e716aea1c73, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 JCBB_日本02【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 10327, type: trojan, password: 67508dd6-4a5d-41a0-a597-9e716aea1c73, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 JCBB_日本03【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 10327, type: trojan, password: 67508dd6-4a5d-41a0-a597-9e716aea1c73, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}

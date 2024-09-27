@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇱🇦 请登录6854.33laomao.com 续费 - 老猫, server: 548784.laomao-53875.xyz, port: 50001, type: trojan, password: f6180bff-5a6c-4445-9df6-1c4dfdefcd3d, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}

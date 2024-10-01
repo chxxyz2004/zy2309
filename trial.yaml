@@ -536,6 +536,7 @@ proxy-groups:
   - 🇬🇧 [vip①]英国1 - MG Network
   - 🇬🇧 [vip①]英国2 - MG Network
   - 🇰🇷 [vip①]韩国1 - MG Network
+  - 🇱🇦 请登录6854.33laomao.com 续费 - 老猫
   - 凌云网络 www.ly520.me - 凌云网络
   - 🇬🇧 英国-01 | 1.8X - 凌云网络
   - 🇩🇪 德国-01 | 1.8X - 凌云网络
@@ -1522,6 +1523,7 @@ proxy-groups:
   - 🇬🇧 [vip①]英国1 - MG Network
   - 🇬🇧 [vip①]英国2 - MG Network
   - 🇰🇷 [vip①]韩国1 - MG Network
+  - 🇱🇦 请登录6854.33laomao.com 续费 - 老猫
   - 凌云网络 www.ly520.me - 凌云网络
   - 🇬🇧 英国-01 | 1.8X - 凌云网络
   - 🇩🇪 德国-01 | 1.8X - 凌云网络
@@ -1828,6 +1830,7 @@ proxies:
 - {name: 🇸🇬 新加坡08 - 老猫, server: 96358.laomao-53875.xyz, port: 50408, type: trojan, password: 80bfb39c-0ab8-4e86-a46d-410255a12b02, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡09 - 老猫, server: 98358.laomao-53875.xyz, port: 50409, type: trojan, password: 80bfb39c-0ab8-4e86-a46d-410255a12b02, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡10 - 老猫, server: 64358.laomao-53875.xyz, port: 50410, type: trojan, password: 80bfb39c-0ab8-4e86-a46d-410255a12b02, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇱🇦 请登录6854.33laomao.com 续费 - 老猫, server: 548784.laomao-53875.xyz, port: 50001, type: trojan, password: 80bfb39c-0ab8-4e86-a46d-410255a12b02, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港01-最新域名 55laomao.com - 老猫, server: 548784.laomao-53875.xyz, port: 50001, type: trojan, password: 80bfb39c-0ab8-4e86-a46d-410255a12b02, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港02 - 老猫, server: 587848.laomao-53875.xyz, port: 50002, type: trojan, password: 80bfb39c-0ab8-4e86-a46d-410255a12b02, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港03 - 老猫, server: 587458.laomao-53875.xyz, port: 50003, type: trojan, password: 80bfb39c-0ab8-4e86-a46d-410255a12b02, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}

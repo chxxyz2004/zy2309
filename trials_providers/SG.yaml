@@ -1,16 +1,16 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡01 - 老猫, server: 84758.laomao-53875.xyz, port: 50401, type: trojan, password: ec8e3eb1-21fc-4915-bd63-e7b706a9f22e, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡02 - 老猫, server: 46358.laomao-53875.xyz, port: 50402, type: trojan, password: ec8e3eb1-21fc-4915-bd63-e7b706a9f22e, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡03 - 老猫, server: 16258.laomao-53875.xyz, port: 50403, type: trojan, password: ec8e3eb1-21fc-4915-bd63-e7b706a9f22e, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡04 - 老猫, server: 95858.laomao-53875.xyz, port: 50404, type: trojan, password: ec8e3eb1-21fc-4915-bd63-e7b706a9f22e, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡05 - 老猫, server: 98758.laomao-53875.xyz, port: 50405, type: trojan, password: ec8e3eb1-21fc-4915-bd63-e7b706a9f22e, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡06 - 老猫, server: 98538.laomao-53875.xyz, port: 50406, type: trojan, password: ec8e3eb1-21fc-4915-bd63-e7b706a9f22e, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡07 - 老猫, server: 65358.laomao-53875.xyz, port: 50407, type: trojan, password: ec8e3eb1-21fc-4915-bd63-e7b706a9f22e, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡08 - 老猫, server: 96358.laomao-53875.xyz, port: 50408, type: trojan, password: ec8e3eb1-21fc-4915-bd63-e7b706a9f22e, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡09 - 老猫, server: 98358.laomao-53875.xyz, port: 50409, type: trojan, password: ec8e3eb1-21fc-4915-bd63-e7b706a9f22e, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡10 - 老猫, server: 64358.laomao-53875.xyz, port: 50410, type: trojan, password: ec8e3eb1-21fc-4915-bd63-e7b706a9f22e, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01 - 老猫, server: 84758.laomao-53875.xyz, port: 50401, type: trojan, password: 3d329674-9863-47ab-9cd6-b871ee21de1f, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡02 - 老猫, server: 46358.laomao-53875.xyz, port: 50402, type: trojan, password: 3d329674-9863-47ab-9cd6-b871ee21de1f, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡03 - 老猫, server: 16258.laomao-53875.xyz, port: 50403, type: trojan, password: 3d329674-9863-47ab-9cd6-b871ee21de1f, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡04 - 老猫, server: 95858.laomao-53875.xyz, port: 50404, type: trojan, password: 3d329674-9863-47ab-9cd6-b871ee21de1f, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡05 - 老猫, server: 98758.laomao-53875.xyz, port: 50405, type: trojan, password: 3d329674-9863-47ab-9cd6-b871ee21de1f, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡06 - 老猫, server: 98538.laomao-53875.xyz, port: 50406, type: trojan, password: 3d329674-9863-47ab-9cd6-b871ee21de1f, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡07 - 老猫, server: 65358.laomao-53875.xyz, port: 50407, type: trojan, password: 3d329674-9863-47ab-9cd6-b871ee21de1f, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡08 - 老猫, server: 96358.laomao-53875.xyz, port: 50408, type: trojan, password: 3d329674-9863-47ab-9cd6-b871ee21de1f, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡09 - 老猫, server: 98358.laomao-53875.xyz, port: 50409, type: trojan, password: 3d329674-9863-47ab-9cd6-b871ee21de1f, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡10 - 老猫, server: 64358.laomao-53875.xyz, port: 50410, type: trojan, password: 3d329674-9863-47ab-9cd6-b871ee21de1f, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: js1.76po.com, port: 26480, type: vmess, uuid: ad8c43ea-ceec-45d8-bbe6-e979f2a6b0a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 21526, type: trojan, password: bfc75171-c6e0-40f1-95d7-f05aed7c84b2, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 21526, type: trojan, password: bfc75171-c6e0-40f1-95d7-f05aed7c84b2, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
@@ -42,8 +42,8 @@ proxies:
 - {name: 🇸🇬 新加坡04 - Cyanmori, server: sg4.lvuy.xyz, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: hJRTbknS8oyylv6x, udp: true}
 - {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19841, type: vmess, uuid: b675c080-2d41-3a43-b802-7f915ffef321, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19842, type: vmess, uuid: b675c080-2d41-3a43-b802-7f915ffef321, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: f7695246-77b4-365e-bc62-fdb730ce7397, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
-- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: f7695246-77b4-365e-bc62-fdb730ce7397, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 0e171284-ecc0-3845-9424-708d86348a70, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
+- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 0e171284-ecc0-3845-9424-708d86348a70, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
 - {name: 🇸🇬 新加坡 01 - V2Link VPN, server: host-031.crazyspeed.xyz, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: 90cfc577-6d59-4bf8-b2e4-9f7f842d5c8e, udp: true}
 - {name: 🇸🇬 新加坡 02 - V2Link VPN, server: host-032.crazyspeed.xyz, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: 90cfc577-6d59-4bf8-b2e4-9f7f842d5c8e, udp: true}
 - {name: 🇸🇬 新加坡 03 - V2Link VPN, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: 90cfc577-6d59-4bf8-b2e4-9f7f842d5c8e, udp: true}

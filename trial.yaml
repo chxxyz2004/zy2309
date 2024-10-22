@@ -535,6 +535,7 @@ proxy-groups:
   - 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST 加速器
   - 🇩🇪 德国 | 德国高速（会员） - BIUBIU FAST 加速器
   - 🇦🇺 GCP-AU1-20240215 - Kangaroo✦Network
+  - 🇱🇦 请登录6854.33laomao.com 续费 - 老猫
   - 凌云网络 www.ly520.me - 凌云网络
   - 🇬🇧 英国-01 | 1.8X - 凌云网络
   - 🇩🇪 德国-01 | 1.8X - 凌云网络
@@ -1521,6 +1522,7 @@ proxy-groups:
   - 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST 加速器
   - 🇩🇪 德国 | 德国高速（会员） - BIUBIU FAST 加速器
   - 🇦🇺 GCP-AU1-20240215 - Kangaroo✦Network
+  - 🇱🇦 请登录6854.33laomao.com 续费 - 老猫
   - 凌云网络 www.ly520.me - 凌云网络
   - 🇬🇧 英国-01 | 1.8X - 凌云网络
   - 🇩🇪 德国-01 | 1.8X - 凌云网络
@@ -1796,6 +1798,7 @@ proxies:
 - {name: 🇺🇸 美国08 - 老猫, server: 95148.laomao-53875.xyz, port: 50208, type: trojan, password: b2698e25-eb7c-45f7-b332-a0722ce80079, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国09 - 老猫, server: 95548.laomao-53875.xyz, port: 50209, type: trojan, password: b2698e25-eb7c-45f7-b332-a0722ce80079, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国10 - 老猫, server: 95348.laomao-53875.xyz, port: 50210, type: trojan, password: b2698e25-eb7c-45f7-b332-a0722ce80079, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
+- {name: 🇱🇦 请登录6854.33laomao.com 续费 - 老猫, server: 548784.laomao-53875.xyz, port: 50001, type: trojan, password: b2698e25-eb7c-45f7-b332-a0722ce80079, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本01 - 老猫, server: 548778.laomao-53875.xyz, port: 50101, type: trojan, password: b2698e25-eb7c-45f7-b332-a0722ce80079, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本02 - 老猫, server: 543428.laomao-53875.xyz, port: 50102, type: trojan, password: b2698e25-eb7c-45f7-b332-a0722ce80079, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本03 - 老猫, server: 543328.laomao-53875.xyz, port: 50103, type: trojan, password: b2698e25-eb7c-45f7-b332-a0722ce80079, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}

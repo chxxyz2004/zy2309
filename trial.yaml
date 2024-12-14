@@ -1913,16 +1913,16 @@ proxies:
 - {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: b675c080-2d41-3a43-b802-7f915ffef321, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19831, type: vmess, uuid: b675c080-2d41-3a43-b802-7f915ffef321, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19832, type: vmess, uuid: b675c080-2d41-3a43-b802-7f915ffef321, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]①新加坡 - MG Network', server: 12.mamamajd.site, port: 23612, tfo: true, type: vmess, uuid: 2dee0f1e-b95d-3f5f-8239-69f0ac46016d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
-- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, tfo: true, type: vmess, uuid: 2dee0f1e-b95d-3f5f-8239-69f0ac46016d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, tfo: true, type: vmess, uuid: 2dee0f1e-b95d-3f5f-8239-69f0ac46016d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.mamamajd.site, port: 23614, tfo: true, type: vmess, uuid: 2dee0f1e-b95d-3f5f-8239-69f0ac46016d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.mamamajd.site}}, udp: true}
-- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.mamamajd.site, port: 23615, tfo: true, type: vmess, uuid: 2dee0f1e-b95d-3f5f-8239-69f0ac46016d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
-- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, tfo: true, type: vmess, uuid: 2dee0f1e-b95d-3f5f-8239-69f0ac46016d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, udp: true}
-- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, tfo: true, type: vmess, uuid: 2dee0f1e-b95d-3f5f-8239-69f0ac46016d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mamamajd.site}}, udp: true}
-- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, tfo: true, type: vmess, uuid: 2dee0f1e-b95d-3f5f-8239-69f0ac46016d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.mamamajd.site}}, udp: true}
-- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, tfo: true, type: vmess, uuid: 2dee0f1e-b95d-3f5f-8239-69f0ac46016d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.mamamajd.site}}, udp: true}
-- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 11.mamamajd.site, port: 23611, tfo: true, type: vmess, uuid: 2dee0f1e-b95d-3f5f-8239-69f0ac46016d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}
+- {name: '🇸🇬 [vip①]①新加坡 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 2dee0f1e-b95d-3f5f-8239-69f0ac46016d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
+- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 2dee0f1e-b95d-3f5f-8239-69f0ac46016d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 2dee0f1e-b95d-3f5f-8239-69f0ac46016d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 2dee0f1e-b95d-3f5f-8239-69f0ac46016d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.mamamajd.site}}, udp: true}
+- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 2dee0f1e-b95d-3f5f-8239-69f0ac46016d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
+- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 2dee0f1e-b95d-3f5f-8239-69f0ac46016d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, udp: true}
+- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 2dee0f1e-b95d-3f5f-8239-69f0ac46016d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mamamajd.site}}, udp: true}
+- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 2dee0f1e-b95d-3f5f-8239-69f0ac46016d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.mamamajd.site}}, udp: true}
+- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 2dee0f1e-b95d-3f5f-8239-69f0ac46016d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.mamamajd.site}}, udp: true}
+- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 2dee0f1e-b95d-3f5f-8239-69f0ac46016d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}
 - {name: 🇭🇰 Vip1-1.广州1-香港A | 倍率x1 - 糖果, server: cngzm01.tangguo.pro, port: 6018, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133218:c9YG0G, obfs-param: 'cec5b133218.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 🇭🇰 Vip1-1.广州1-香港B | 倍率x1 - 糖果, server: cngzm01.tangguo.pro, port: 6016, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133218:c9YG0G, obfs-param: 'cec5b133218.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 🇭🇰 Vip1-1.广州1-香港C | 倍率x1 - 糖果, server: cngzm01.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133218:c9YG0G, obfs-param: 'cec5b133218.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
@@ -6221,6 +6221,7 @@ rules:
 - DOMAIN-SUFFIX,iuksky.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ivacy.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,iverycd.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,ivonblog.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ivpn.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,iwara.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,ixquick.com,✈️ ‍起飞
@@ -6236,6 +6237,7 @@ rules:
 - DOMAIN-SUFFIX,jamaat.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,jamestown.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,jamyangnorbu.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,jan.ai,✈️ ‍起飞
 - DOMAIN-SUFFIX,jandyx.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,janwongphoto.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,japan-whores.com,✈️ ‍起飞
@@ -6659,6 +6661,7 @@ rules:
 - DOMAIN-SUFFIX,meshrep.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mesotw.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,messenger.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,meta.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,metacafe.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,metafilter.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,metart.com,✈️ ‍起飞
@@ -7210,8 +7213,6 @@ rules:
 - DOMAIN-SUFFIX,pen.io,✈️ ‍起飞
 - DOMAIN-SUFFIX,penchinese.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,penchinese.net,✈️ ‍起飞
-- DOMAIN-SUFFIX,pengyulong.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,penisbot.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,pentalogic.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,penthouse.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,peoplebookcafe.com,✈️ ‍起飞
@@ -7226,7 +7227,6 @@ rules:
 - DOMAIN-SUFFIX,phapluan.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,phayul.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,philborges.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,philly.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,phmsociety.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,phncdn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,phonegap.com,✈️ ‍起飞
@@ -7340,7 +7340,6 @@ rules:
 - DOMAIN-SUFFIX,provpnaccounts.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,proxfree.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,proxifier.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,proxlet.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,proxomitron.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,proxpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,proxyanonimo.es,✈️ ‍起飞
@@ -7433,13 +7432,11 @@ rules:
 - DOMAIN-SUFFIX,raindrop.io,✈️ ‍起飞
 - DOMAIN-SUFFIX,ramcity.com.au,✈️ ‍起飞
 - DOMAIN-SUFFIX,rangwang.biz,✈️ ‍起飞
-- DOMAIN-SUFFIX,rangzen.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,rangzen.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,rangzen.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,ranxiang.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ranyunfei.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,rapbull.net,✈️ ‍起飞
-- DOMAIN-SUFFIX,rapidgator.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,rapidmoviez.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,rapidvpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,rarbgprx.org,✈️ ‍起飞
@@ -8175,6 +8172,7 @@ rules:
 - DOMAIN-SUFFIX,tibetwrites.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,tigervpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,tiktok.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,tiktokv.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,tiltbrush.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,timdir.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,time.com,✈️ ‍起飞
@@ -8225,6 +8223,7 @@ rules:
 - DOMAIN-SUFFIX,torrentprivacy.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,torrentproject.se,✈️ ‍起飞
 - DOMAIN-SUFFIX,torrenty.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,tortoisesvn.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,torvpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,totalvpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,toutiaoabc.com,✈️ ‍起飞

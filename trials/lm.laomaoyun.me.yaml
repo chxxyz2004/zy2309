@@ -9,7 +9,18 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
+  - ⚡ ‍低延迟
+  - 👆🏻 ‍指定
   - DIRECT
+- name: ⚡ ‍低延迟
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id001
+  - ℹ️ 您还未购买服务 - 老猫
+  - 🇱🇦 请登录laomao.biz 购买 - 老猫
+  - ℹ️ 购买后请更新订阅 - 老猫
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -27,10 +38,12 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - ✈️ ‍起飞
+  - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
   - ✈️ ‍起飞
+  - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
   type: select
@@ -38,10 +51,13 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 👆🏻 ‍指定
+  type: select
+  proxies: *id001
 proxies:
-- {name: 您还未购买服务 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 84fdfad9-c6a5-45f0-89e1-44700fa3aff6, udp: true}
-- {name: 请登录laomao.biz 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 84fdfad9-c6a5-45f0-89e1-44700fa3aff6, udp: true}
-- {name: 购买后请更新订阅 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 84fdfad9-c6a5-45f0-89e1-44700fa3aff6, udp: true}
+- {name: ℹ️ 您还未购买服务 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 84fdfad9-c6a5-45f0-89e1-44700fa3aff6, udp: true}
+- {name: 🇱🇦 请登录laomao.biz 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 84fdfad9-c6a5-45f0-89e1-44700fa3aff6, udp: true}
+- {name: ℹ️ 购买后请更新订阅 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 84fdfad9-c6a5-45f0-89e1-44700fa3aff6, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

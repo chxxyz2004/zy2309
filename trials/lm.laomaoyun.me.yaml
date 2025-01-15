@@ -22,6 +22,9 @@ proxy-groups:
   - ℹ️ 您还未购买服务 - 老猫
   - 🇱🇦 请登录laomao.biz 购买 - 老猫
   - ℹ️ 购买后请更新订阅 - 老猫
+- name: 👆🏻 ‍指定
+  type: select
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -52,9 +55,6 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 👆🏻 ‍指定
-  type: select
-  proxies: *id001
 proxies:
 - {name: ℹ️ 您还未购买服务 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 84fdfad9-c6a5-45f0-89e1-44700fa3aff6, udp: true}
 - {name: 🇱🇦 请登录laomao.biz 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 84fdfad9-c6a5-45f0-89e1-44700fa3aff6, udp: true}

@@ -142,9 +142,9 @@ proxies:
 - {name: 🇦🇺 澳大利亚02 - Cyanmori, server: xn2.lvuy.xyz, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: hJRTbknS8oyylv6x, udp: true}
 - {name: 🇦🇪 迪拜01 - Cyanmori, server: dibai1.lvuy.xyz, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: hJRTbknS8oyylv6x, udp: true}
 - {name: 🇦🇪 迪拜02 - Cyanmori, server: dibai2.lvuy.xyz, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: hJRTbknS8oyylv6x, udp: true}
-- {name: ℹ️ 您还未购买服务 - 老猫, server: www.google.com, port: 443, tfo: true, type: ss, cipher: aes-128-gcm, password: 84fdfad9-c6a5-45f0-89e1-44700fa3aff6, udp: true}
-- {name: 🇱🇦 请登录laomao.biz 购买 - 老猫, server: www.google.com, port: 443, tfo: true, type: ss, cipher: aes-128-gcm, password: 84fdfad9-c6a5-45f0-89e1-44700fa3aff6, udp: true}
-- {name: ℹ️ 购买后请更新订阅 - 老猫, server: www.google.com, port: 443, tfo: true, type: ss, cipher: aes-128-gcm, password: 84fdfad9-c6a5-45f0-89e1-44700fa3aff6, udp: true}
+- {name: ℹ️ 您还未购买服务 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 84fdfad9-c6a5-45f0-89e1-44700fa3aff6, udp: true}
+- {name: 🇱🇦 请登录laomao.biz 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 84fdfad9-c6a5-45f0-89e1-44700fa3aff6, udp: true}
+- {name: ℹ️ 购买后请更新订阅 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 84fdfad9-c6a5-45f0-89e1-44700fa3aff6, udp: true}
 - {name: ℹ️ FastFly 永久跳转地址 https://fastfly.club - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 22704, type: trojan, password: bfc75171-c6e0-40f1-95d7-f05aed7c84b2, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: ℹ️ FastFly 国外地址： https://cloud.fastfly.top - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 22704, type: trojan, password: bfc75171-c6e0-40f1-95d7-f05aed7c84b2, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 vip1 韩国-01 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 14374, type: trojan, password: bfc75171-c6e0-40f1-95d7-f05aed7c84b2, sni: sk01.ckcloud.info, skip-cert-verify: true, udp: true}

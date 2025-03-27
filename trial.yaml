@@ -10022,8 +10022,6 @@ rules:
 - DOMAIN-SUFFIX,zhipin.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhongsou.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhuihd.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,cmbchina.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,95516.com,🛩️ ‍墙内
 - IP-CIDR,8.128.0.0/10,🛩️ ‍墙内,no-resolve
 - IP-CIDR,8.208.0.0/12,🛩️ ‍墙内,no-resolve
 - IP-CIDR,14.1.112.0/22,🛩️ ‍墙内,no-resolve

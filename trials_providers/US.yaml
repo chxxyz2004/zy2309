@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: d602635f-7bb1-3261-ac14-4628b9f535c2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 8de37b8b-52d0-3c5d-ae2c-0d4de7221537, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
 - {name: 🇺🇸 JCBB_ 美国01【vip1】 - JCBB, server: gcdddd0001.likeone.lol, port: 48560, type: trojan, password: 67508dd6-4a5d-41a0-a597-9e716aea1c73, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 JCBB_ 美国02【vip1】 - JCBB, server: gcdddd0003.likeone.lol, port: 48560, type: trojan, password: 67508dd6-4a5d-41a0-a597-9e716aea1c73, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 JCBB_ 美国02_1【vip1】 - JCBB, server: gcdddd0005.likeone.lol, port: 48560, type: trojan, password: 67508dd6-4a5d-41a0-a597-9e716aea1c73, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
